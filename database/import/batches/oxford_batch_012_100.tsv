@@ -1,0 +1,101 @@
+source	source_key	text	translate	type	level	transcription	example	example_ru	memory_hint	topics	forms
+oxford3000	oxford3000:bathroom:noun:1	bathroom	ванная; туалет	noun	A1	[ˈbɑːθruːm]	The bathroom is upstairs.	Ванная находится наверху.		home,daily life	bathrooms
+oxford3000	oxford3000:cannot:verb:1	cannot	не могу; нельзя	verb	A1	[ˈkænɒt]	I cannot come today.	Я не могу прийти сегодня.		communication,daily life	
+oxford3000	oxford3000:dad:noun:1	dad	папа	noun	A1	[dæd]	My dad is at work.	Мой папа на работе.		family,people	dads
+oxford3000	oxford3000:be:verb:1	be	быть; являться; находиться	verb	A1	[biː]	I want to be ready.	Я хочу быть готовым.		basic verbs,grammar	am,is,are,was,were,been,being
+oxford3000	oxford3000:capital:adjective:1	capital	заглавный; прописной	adjective	A1	[ˈkæpɪtəl]	Write your name in capital letters.	Напиши своё имя заглавными буквами.		language,education	
+oxford3000	oxford3000:dance:noun:1	dance	танец	noun	A1	[dɑːns]	This is a traditional dance.	Это традиционный танец.		art,daily life	dances
+oxford3000	oxford3000:dance:verb:1	dance	танцевать	verb	A1	[dɑːns]	They dance every Friday.	Они танцуют каждую пятницу.		art,daily life	dances,danced,dancing
+oxford3000	oxford3000:beach:noun:1	beach	пляж	noun	A1	[biːtʃ]	We walked along the beach.	Мы гуляли вдоль пляжа.		travel,nature	beaches
+oxford3000	oxford3000:dancer:noun:1	dancer	танцор; танцовщица	noun	A1	[ˈdɑːnsə]	She is a good dancer.	Она хорошая танцовщица.		art,people	dancers
+oxford3000	oxford3000:an:determiner:1	an	неопределённый артикль перед гласным звуком	determiner	A1	[ən]	She ate an apple.	Она съела яблоко.		grammar,basic words	
+oxford3000	oxford3000:beautiful:adjective:1	beautiful	красивый; прекрасный	adjective	A1	[ˈbjuːtɪfəl]	It is a beautiful day.	Это прекрасный день.		describing things,emotions	
+oxford3000	oxford3000:card:noun:1	card	карточка; открытка; карта	noun	A1	[kɑːd]	I sent her a birthday card.	Я отправил ей открытку на день рождения.		daily life,communication	cards
+oxford3000	oxford3000:dancing:noun:1	dancing	танцы	noun	A1	[ˈdɑːnsɪŋ]	Dancing is good exercise.	Танцы — хорошая физическая активность.		art,sport	
+oxford3000	oxford3000:about:preposition:1	about	о; об; про	preposition	A1	[əˈbaʊt]	We talked about school.	Мы говорили о школе.		communication,grammar	
+oxford3000	oxford3000:about:adverb:1	about	примерно; около	adverb	A1	[əˈbaʊt]	There were about twenty people.	Было примерно двадцать человек.		numbers,communication	
+oxford3000	oxford3000:because:conjunction:1	because	потому что	conjunction	A1	[bɪˈkɒz]	I stayed home because it rained.	Я остался дома, потому что шёл дождь.		grammar,communication	
+oxford3000	oxford3000:above:preposition:1	above	над; выше	preposition	A1	[əˈbʌv]	The lamp is above the table.	Лампа находится над столом.		place,describing things	
+oxford3000	oxford3000:above:adverb:1	above	выше; наверху	adverb	A1	[əˈbʌv]	See the example above.	Смотри пример выше.		place,communication	
+oxford3000	oxford3000:become:verb:1	become	становиться	verb	A1	[bɪˈkʌm]	She wants to become a doctor.	Она хочет стать врачом.		basic verbs,work	becomes,became,become,becoming
+oxford3000	oxford3000:carrot:noun:1	carrot	морковь	noun	A1	[ˈkærət]	Add a carrot to the soup.	Добавь морковь в суп.		food,daily life	carrots
+oxford3000	oxford3000:dark:adjective:1	dark	тёмный	adjective	A1	[dɑːk]	The room is dark.	Комната тёмная.		describing things,colors	darker,darkest
+oxford3000	oxford3000:across:preposition:1	across	через; на другой стороне	preposition	A1	[əˈkrɒs]	The shop is across the street.	Магазин находится через дорогу.		place,travel	
+oxford3000	oxford3000:across:adverb:1	across	через; поперёк	adverb	A1	[əˈkrɒs]	She walked across.	Она перешла на другую сторону.		movement,place	
+oxford3000	oxford3000:bed:noun:1	bed	кровать	noun	A1	[bed]	I went to bed early.	Я рано лёг спать.		home,daily life	beds
+oxford3000	oxford3000:carry:verb:1	carry	нести; переносить	verb	A1	[ˈkæri]	Can you carry this bag?	Ты можешь нести эту сумку?		movement,daily life	carries,carried,carrying
+oxford3000	oxford3000:date:noun:1	date	дата; свидание	noun	A1	[deɪt]	What is today's date?	Какая сегодня дата?		time,daily life	dates
+oxford3000	oxford3000:action:noun:1	action	действие	noun	A1	[ˈækʃən]	We need to take action.	Нам нужно действовать.		communication,work	actions
+oxford3000	oxford3000:cat:noun:1	cat	кот; кошка	noun	A1	[kæt]	The cat is sleeping.	Кошка спит.		animals,daily life	cats
+oxford3000	oxford3000:daughter:noun:1	daughter	дочь	noun	A1	[ˈdɔːtə]	Their daughter is six years old.	Их дочери шесть лет.		family,people	daughters
+oxford3000	oxford3000:beer:noun:1	beer	пиво	noun	A1	[bɪə]	Beer is sold in this shop.	Пиво продаётся в этом магазине.		food,daily life	beers
+oxford3000	oxford3000:cd:noun:1	cd	компакт-диск	noun	A1	[ˌsiː ˈdiː]	I found an old CD.	Я нашёл старый компакт-диск.		music,technology	cds
+oxford3000	oxford3000:day:noun:1	day	день	noun	A1	[deɪ]	Have a nice day.	Хорошего дня.		time,daily life	days
+oxford3000	oxford3000:before:preposition:1	before	до; перед	preposition	A1	[bɪˈfɔː]	Wash your hands before dinner.	Вымой руки перед ужином.		time,grammar	
+oxford3000	oxford3000:cent:noun:1	cent	цент	noun	A1	[sent]	It costs fifty cents.	Это стоит пятьдесят центов.		money,numbers	cents
+oxford3000	oxford3000:dear:adjective:1	dear	дорогой; уважаемый	adjective	A1	[dɪə]	Dear Anna, thank you for your letter.	Дорогая Анна, спасибо за письмо.		communication,people	
+oxford3000	oxford3000:begin:verb:1	begin	начинать; начинаться	verb	A1	[bɪˈɡɪn]	The lesson begins at nine.	Урок начинается в девять.		time,education	begins,began,begun,beginning
+oxford3000	oxford3000:centre:noun:1	centre	центр	noun	A1	[ˈsentə]	The hotel is in the city centre.	Отель находится в центре города.		city,place	centres
+oxford3000	oxford3000:december:noun:1	december	декабрь	noun	A1	[dɪˈsembə]	December is the last month of the year.	Декабрь — последний месяц года.		time,calendar	
+oxford3000	oxford3000:beginning:noun:1	beginning	начало	noun	A1	[bɪˈɡɪnɪŋ]	Read the beginning of the story.	Прочитай начало истории.		time,education	beginnings
+oxford3000	oxford3000:behind:preposition:1	behind	за; позади	preposition	A1	[bɪˈhaɪnd]	The car is behind the house.	Машина находится за домом.		place,grammar	
+oxford3000	oxford3000:behind:adverb:1	behind	сзади; позади	adverb	A1	[bɪˈhaɪnd]	Don't look behind.	Не смотри назад.		place,movement	
+oxford3000	oxford3000:delicious:adjective:1	delicious	вкусный	adjective	A1	[dɪˈlɪʃəs]	This soup is delicious.	Этот суп вкусный.		food,describing things	
+oxford3000	oxford3000:change:verb:1	change	менять; изменяться	verb	A1	[tʃeɪndʒ]	Change your password.	Смени пароль.		basic verbs,IT	changes,changed,changing
+oxford3000	oxford3000:change:noun:1	change	изменение; сдача	noun	A1	[tʃeɪndʒ]	This is a big change.	Это большое изменение.		daily life,money	changes
+oxford3000	oxford3000:below:adverb:1	below	ниже; внизу	adverb	A1	[bɪˈləʊ]	See the answer below.	Смотри ответ ниже.		place,communication	
+oxford3000	oxford3000:below:preposition:1	below	ниже; под	preposition	A1	[bɪˈləʊ]	The temperature is below zero.	Температура ниже нуля.		place,numbers	
+oxford3000	oxford3000:description:noun:1	description	описание	noun	A1	[dɪˈskrɪpʃən]	Write a short description.	Напиши короткое описание.		communication,education	descriptions
+oxford3000	oxford3000:best:adjective:1	best	лучший	adjective	A1	[best]	This is the best answer.	Это лучший ответ.		describing things,communication	
+oxford3000	oxford3000:cheap:adjective:1	cheap	дешёвый	adjective	A1	[tʃiːp]	This phone is cheap.	Этот телефон дешёвый.		shopping,money	cheaper,cheapest
+oxford3000	oxford3000:design:verb:1	design	проектировать; разрабатывать; оформлять	verb	A1	[dɪˈzaɪn]	They design websites.	Они разрабатывают сайты.		work,IT	designs,designed,designing
+oxford3000	oxford3000:after:preposition:1	after	после	preposition	A1	[ˈɑːftə]	Call me after school.	Позвони мне после школы.		time,grammar	
+oxford3000	oxford3000:better:adjective:1	better	лучше; более хороший	adjective	A1	[ˈbetə]	This idea is better.	Эта идея лучше.		describing things,communication	
+oxford3000	oxford3000:check:verb:1	check	проверять	verb	A1	[tʃek]	Check your answer.	Проверь свой ответ.		education,IT	checks,checked,checking
+oxford3000	oxford3000:desk:noun:1	desk	письменный стол; рабочий стол	noun	A1	[desk]	My book is on the desk.	Моя книга на столе.		home,education	desks
+oxford3000	oxford3000:afternoon:noun:1	afternoon	день; время после полудня	noun	A1	[ˌɑːftəˈnuːn]	See you this afternoon.	Увидимся сегодня днём.		time,daily life	afternoons
+oxford3000	oxford3000:between:preposition:1	between	между	preposition	A1	[bɪˈtwiːn]	The shop is between two banks.	Магазин находится между двумя банками.		place,grammar	
+oxford3000	oxford3000:cheese:noun:1	cheese	сыр	noun	A1	[tʃiːz]	I like cheese.	Я люблю сыр.		food,daily life	cheeses
+oxford3000	oxford3000:again:adverb:1	again	снова; опять	adverb	A1	[əˈɡen]	Please say it again.	Пожалуйста, скажи это снова.		time,communication	
+oxford3000	oxford3000:chicken:noun:1	chicken	курица; куриное мясо	noun	A1	[ˈtʃɪkɪn]	We had chicken for dinner.	На ужин у нас была курица.		food,animals	chickens
+oxford3000	oxford3000:dialogue:noun:1	dialogue	диалог	noun	A1	[ˈdaɪəlɒɡ]	Read the dialogue aloud.	Прочитай диалог вслух.		language,education	dialogues
+oxford3000	oxford3000:child:noun:1	child	ребёнок	noun	A1	[tʃaɪld]	The child is playing.	Ребёнок играет.		family,people	children
+oxford3000	oxford3000:dictionary:noun:1	dictionary	словарь	noun	A1	[ˈdɪkʃənəri]	Use a dictionary.	Используй словарь.		language,education	dictionaries
+oxford3000	oxford3000:ago:adverb:1	ago	назад; тому назад	adverb	A1	[əˈɡəʊ]	I saw him two days ago.	Я видел его два дня назад.		time,grammar	
+oxford3000	oxford3000:bike:noun:1	bike	велосипед	noun	A1	[baɪk]	She rides her bike to school.	Она ездит в школу на велосипеде.		transport,sport	bikes
+oxford3000	oxford3000:chocolate:noun:1	chocolate	шоколад	noun	A1	[ˈtʃɒklət]	I bought some chocolate.	Я купил немного шоколада.		food,daily life	chocolates
+oxford3000	oxford3000:die:verb:1	die	умирать; погибать	verb	A1	[daɪ]	Plants die without water.	Растения умирают без воды.		nature,basic verbs	dies,died,dying
+oxford3000	oxford3000:bill:noun:1	bill	счёт; купюра	noun	A1	[bɪl]	Can I have the bill, please?	Можно счёт, пожалуйста?		money,daily life	bills
+oxford3000	oxford3000:diet:noun:1	diet	рацион; диета	noun	A1	[ˈdaɪət]	A healthy diet is important.	Здоровый рацион важен.		food,health	diets
+oxford3000	oxford3000:bird:noun:1	bird	птица	noun	A1	[bɜːd]	A bird is singing outside.	Снаружи поёт птица.		animals,nature	birds
+oxford3000	oxford3000:cinema:noun:1	cinema	кинотеатр; кино	noun	A1	[ˈsɪnəmə]	Let's go to the cinema.	Давай пойдём в кино.		art,daily life	cinemas
+oxford3000	oxford3000:birthday:noun:1	birthday	день рождения	noun	A1	[ˈbɜːθdeɪ]	Happy birthday!	С днём рождения!		time,family	birthdays
+oxford3000	oxford3000:all:determiner:1	all	весь; все	determiner	A1	[ɔːl]	All students must register.	Все студенты должны зарегистрироваться.		grammar,basic words	
+oxford3000	oxford3000:all:pronoun:1	all	все; всё	pronoun	A1	[ɔːl]	All are welcome.	Добро пожаловать всем.		grammar,basic words	
+oxford3000	oxford3000:black:noun:1	black	чёрный цвет	noun	A1	[blæk]	Black is my favourite colour.	Чёрный — мой любимый цвет.		colors,describing things	
+oxford3000	oxford3000:also:adverb:1	also	также; тоже	adverb	A1	[ˈɔːlsəʊ]	She also speaks French.	Она также говорит по-французски.		communication,grammar	
+oxford3000	oxford3000:blog:noun:1	blog	блог	noun	A1	[blɒɡ]	She writes a travel blog.	Она ведёт блог о путешествиях.		IT,media	blogs
+oxford3000	oxford3000:classroom:noun:1	classroom	класс; учебная аудитория	noun	A1	[ˈklɑːsruːm]	The classroom is clean.	Класс чистый.		education,place	classrooms
+oxford3000	oxford3000:dinner:noun:1	dinner	ужин; обед	noun	A1	[ˈdɪnə]	Dinner is ready.	Ужин готов.		food,daily life	dinners
+oxford3000	oxford3000:blonde:adjective:1	blonde	светловолосый; блондинистый	adjective	A1	[blɒnd]	She has blonde hair.	У неё светлые волосы.		appearance,people	
+oxford3000	oxford3000:clean:adjective:1	clean	чистый	adjective	A1	[kliːn]	The kitchen is clean.	Кухня чистая.		home,describing things	cleaner,cleanest
+oxford3000	oxford3000:clean:verb:1	clean	чистить; убирать	verb	A1	[kliːn]	Clean your room.	Убери свою комнату.		home,daily life	cleans,cleaned,cleaning
+oxford3000	oxford3000:blue:adjective:1	blue	синий; голубой	adjective	A1	[bluː]	The sky is blue.	Небо синее.		colors,describing things	
+oxford3000	oxford3000:blue:noun:1	blue	синий цвет; голубой цвет	noun	A1	[bluː]	Blue is a calm colour.	Синий — спокойный цвет.		colors,art	
+oxford3000	oxford3000:climb:verb:1	climb	подниматься; взбираться	verb	A1	[klaɪm]	We climbed the hill.	Мы поднялись на холм.		movement,sport	climbs,climbed,climbing
+oxford3000	oxford3000:discuss:verb:1	discuss	обсуждать	verb	A1	[dɪˈskʌs]	Let's discuss the plan.	Давай обсудим план.		communication,work	discusses,discussed,discussing
+oxford3000	oxford3000:boat:noun:1	boat	лодка; катер	noun	A1	[bəʊt]	They crossed the lake by boat.	Они пересекли озеро на лодке.		transport,travel	boats
+oxford3000	oxford3000:clock:noun:1	clock	часы	noun	A1	[klɒk]	The clock is on the wall.	Часы на стене.		time,home	clocks
+oxford3000	oxford3000:body:noun:1	body	тело	noun	A1	[ˈbɒdi]	Exercise is good for your body.	Физическая активность полезна для тела.		body,health	bodies
+oxford3000	oxford3000:close:verb:1	close	закрывать; закрываться	verb	A1	[kləʊz]	Close the door, please.	Закрой дверь, пожалуйста.		basic verbs,daily life	closes,closed,closing
+oxford3000	oxford3000:do:verb:1	do	делать; выполнять	verb	A1	[duː]	Do your homework.	Сделай домашнее задание.		basic verbs,daily life	does,did,done,doing
+oxford3000	oxford3000:clothes:noun:1	clothes	одежда	noun	A1	[kləʊðz]	Put your clothes in the bag.	Положи одежду в сумку.		clothes,daily life	
+oxford3000	oxford3000:another:determiner:1	another	другой; ещё один	determiner	A1	[əˈnʌðə]	Can I have another cup?	Можно мне ещё одну чашку?		grammar,basic words	
+oxford3000	oxford3000:another:pronoun:1	another	другой; ещё один	pronoun	A1	[əˈnʌðə]	One student left, and another arrived.	Один студент ушёл, а другой пришёл.		grammar,basic words	
+oxford3000	oxford3000:boot:noun:1	boot	ботинок; сапог	noun	A1	[buːt]	My boots are wet.	Мои ботинки мокрые.		clothes,daily life	boots
+oxford3000	oxford3000:club:noun:1	club	клуб	noun	A1	[klʌb]	She joined a sports club.	Она вступила в спортивный клуб.		sport,society	clubs
+oxford3000	oxford3000:dog:noun:1	dog	собака	noun	A1	[dɒɡ]	The dog is friendly.	Собака дружелюбная.		animals,daily life	dogs
+oxford3000	oxford3000:answer:noun:1	answer	ответ	noun	A1	[ˈɑːnsə]	What is the answer?	Какой ответ?		education,communication	answers
+oxford3000	oxford3000:bored:adjective:1	bored	скучающий; которому скучно	adjective	A1	[bɔːd]	I am bored.	Мне скучно.		emotions,people	
+oxford3000	oxford3000:dollar:noun:1	dollar	доллар	noun	A1	[ˈdɒlə]	It costs ten dollars.	Это стоит десять долларов.		money,numbers	dollars
+oxford3000	oxford3000:any:determiner:1	any	какой-либо; любой; никакой	determiner	A1	[ˈeni]	Do you have any questions?	У тебя есть вопросы?		grammar,basic words	

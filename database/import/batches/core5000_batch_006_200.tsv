@@ -1,0 +1,201 @@
+source	source_key	text	translate	type	level	transcription	example	example_ru	memory_hint	topics	forms
+core5000	core5000:absence:noun:1	absence	отсутствие	noun	B1	[ˈæbsəns]	We discussed the absence at work.	Мы обсудили это на работе: отсутствие.	Absence связано с absent — отсутствующий.	work,education	absences
+core5000	core5000:academic:adjective:1	academic	академический; учебный	adjective	B1	[ˌækədˈemɪk]	The example is academic.	Пример такой: академический.	Academic почти как “академический”.	education	
+core5000	core5000:accompany:verb:1	accompany	сопровождать	verb	B1	[əkˈʌmpəniː]	We need to accompany this.	Нужно выполнить это действие: сопровождать.	Accompany = идти/быть вместе с кем-то.	travel,people	accompanies,accompanied,accompanying
+core5000	core5000:accomplish:verb:1	accomplish	выполнять; достигать	verb	B1	[əkˈɑːmplɪʃ]	We need to accomplish this.	Нужно выполнить это действие: выполнять.	Accomplish близко к achieve: успешно выполнить или достичь.	work,education	accomplishes,accomplished,accomplishing
+core5000	core5000:acid:noun:1	acid	кислота	noun	B1	[ˈæsəd]	We discussed the acid.	Мы обсудили это: кислота.		science	acids
+core5000	core5000:actual:adjective:1	actual	фактический; настоящий	adjective	B1	[ˈæktʃəwəl]	The example is actual.	Пример такой: фактический.	Actual не значит “актуальный” в русском смысле. Чаще actual = фактический, настоящий.	communication,education	
+core5000	core5000:actor:noun:1	actor	актёр	noun	A1	[ˈæktɜː]	We discussed the actor.	Мы обсудили это: актёр.	Actor почти как “актёр”.	art,people	actors
+core5000	core5000:actress:noun:1	actress	актриса	noun	A2	[ˈæktrəs]	We discussed the actress.	Мы обсудили это: актриса.	Actress почти как “актриса”.	art,people	actresses
+core5000	core5000:adapt:verb:1	adapt	адаптировать; приспосабливаться	verb	B1	[ədˈæpt]	We need to adapt this.	Нужно выполнить это действие: адаптировать.	Adapt почти как “адаптировать”.	work,education	adapts,adapted,adapting
+core5000	core5000:addition:noun:1	addition	добавление; сложение	noun	A2	[ədˈɪʃən]	Check the addition before you continue.	Проверь это перед продолжением: добавление.	Addition связано с add — добавлять. In addition = кроме того.	education,IT	additions
+core5000	core5000:adjust:verb:1	adjust	регулировать; настраивать	verb	B1	[ədʒˈʌst]	We need to adjust this.	Нужно выполнить это действие: регулировать.	Adjust = немного изменить, подстроить. Adjust settings — настроить параметры.	IT,work	adjusts,adjusted,adjusting
+core5000	core5000:administration:noun:1	administration	администрация	noun	B1	[ædmˌɪnɪstrˈeɪʃən]	We discussed the administration at work.	Мы обсудили это на работе: администрация.	Administration почти как “администрация”.	work,society	administrations
+core5000	core5000:admire:verb:1	admire	восхищаться	verb	B1	[ædmˈaɪr]	We need to admire this.	Нужно выполнить это действие: восхищаться.		emotions,people	admires,admired,admiring
+core5000	core5000:admission:noun:1	admission	допуск; поступление	noun	B1	[ædmˈɪʃən]	We discussed the admission in class.	Мы обсудили это на уроке: допуск.	Admission связано с admit — допускать/принимать.	education,society	admissions
+core5000	core5000:advanced:adjective:1	advanced	продвинутый	adjective	B1	[ədvˈænst]	The example is advanced.	Пример такой: продвинутый.	Advanced = продвинутый, более высокого уровня.	education,IT	
+core5000	core5000:affair:noun:1	affair	дело; событие	noun	B1	[əfˈer]	We discussed the affair.	Мы обсудили это: дело.		society,communication	affairs
+core5000	core5000:agency:noun:1	agency	агентство	noun	A2	[ˈeɪdʒənsiː]	We discussed the agency at work.	Мы обсудили это на работе: агентство.	Agency связано с agent — агент.	work,society	agencies
+core5000	core5000:agenda:noun:1	agenda	повестка; план встречи	noun	B1	[ədʒˈendə]	We discussed the agenda at work.	Мы обсудили это на работе: повестка.	Agenda почти как “повестка”.	work,communication	agendas
+core5000	core5000:agricultural:adjective:1	agricultural	сельскохозяйственный	adjective	B1	[ˌæɡrəkˈʌltʃɜːəl]	The example is agricultural.	Пример такой: сельскохозяйственный.	Agricultural связано с agriculture — сельское хозяйство.	nature,work	
+core5000	core5000:aid:noun:1	aid	помощь	noun	B1	[ˈeɪd]	We discussed the aid.	Мы обсудили это: помощь.	Aid = помощь. First aid = первая помощь.	health,society	aids
+core5000	core5000:aircraft:noun:1	aircraft	самолёт; воздушное судно	noun	B1	[ˈerkrˌæft]	We discussed the aircraft before the trip.	Мы обсудили это перед поездкой: самолёт.	Aircraft = air + craft: воздушное судно.	transport,travel	aircrafts
+core5000	core5000:airline:noun:1	airline	авиакомпания	noun	A2	[ˈerlˌaɪn]	We discussed the airline before the trip.	Мы обсудили это перед поездкой: авиакомпания.	Airline = air + line: авиалиния/авиакомпания.	travel,transport	airlines
+core5000	core5000:alarm:noun:1	alarm	тревога; будильник	noun	A2	[əlˈɑːrm]	We discussed the alarm.	Мы обсудили это: тревога.	Alarm = тревога или будильник.	daily life,technology	alarms
+core5000	core5000:album:noun:1	album	альбом	noun	A2	[ˈælbəm]	We discussed the album.	Мы обсудили это: альбом.	Album почти как “альбом”.	music,art	albums
+core5000	core5000:alert:noun:1	alert	предупреждение; тревога	noun	B1	[əlˈɜːt]	Check the alert before you continue.	Проверь это перед продолжением: предупреждение.	Alert = предупреждение/сигнал тревоги.	IT,communication	alerts
+core5000	core5000:alternative:noun:1	alternative	альтернатива	noun	A2	[ɔːltˈɜːnətɪv]	We discussed the alternative at work.	Мы обсудили это на работе: альтернатива.	Alternative почти как “альтернатива”.	communication,work	alternatives
+core5000	core5000:ambition:noun:1	ambition	амбиция; стремление	noun	B1	[æmbˈɪʃən]	We discussed the ambition at work.	Мы обсудили это на работе: амбиция.	Ambition почти как “амбиция”.	work,people	ambitions
+core5000	core5000:analyst:noun:1	analyst	аналитик	noun	B1	[ˈænəlɪst]	Check the analyst before you continue.	Проверь это перед продолжением: аналитик.	Analyst связано с analysis — анализ.	work,IT	analysts
+core5000	core5000:angle:noun:1	angle	угол	noun	B1	[ˈæŋɡəl]	We discussed the angle in class.	Мы обсудили это на уроке: угол.	Angle = угол в геометрии или точка зрения.	education,science	angles
+core5000	core5000:announcement:noun:1	announcement	объявление	noun	A2	[ənˈaʊnsmənt]	We discussed the announcement at work.	Мы обсудили это на работе: объявление.	Announcement связано с announce — объявлять.	communication,work	announcements
+core5000	core5000:annual:adjective:1	annual	ежегодный	adjective	B1	[ˈænjuːəl]	The example is annual.	Пример такой: ежегодный.	Annual связано с year: annual report — ежегодный отчёт.	time,work	
+core5000	core5000:anxiety:noun:1	anxiety	тревога; беспокойство	noun	B1	[æŋzˈaɪətiː]	We discussed the anxiety.	Мы обсудили это: тревога.	Anxiety = тревога/беспокойство. Anxious = тревожный.	emotions,health	anxieties
+core5000	core5000:appeal:noun:1	appeal	призыв; обращение	noun	B1	[əpˈiːl]	We discussed the appeal.	Мы обсудили это: призыв.		communication,society	appeals
+core5000	core5000:application:noun:1	application	приложение; заявка	noun	A2	[ˌæpləkˈeɪʃən]	Check the application before you continue.	Проверь это перед продолжением: приложение.	Application = приложение или заявка. App — короткая форма.	IT,work	applications
+core5000	core5000:appointment:noun:1	appointment	встреча; запись	noun	A2	[əpˈɔɪntmənt]	We discussed the appointment at work.	Мы обсудили это на работе: встреча.	Appointment = назначенная встреча или запись к врачу.	health,work	appointments
+core5000	core5000:appreciate:verb:1	appreciate	ценить; быть благодарным	verb	B1	[əprˈiːʃiːˌeɪt]	We need to appreciate this.	Нужно выполнить это действие: ценить.	Appreciate часто значит ценить или быть благодарным.	communication,people	appreciates,appreciated,appreciating
+core5000	core5000:approach:noun:1	approach	подход	noun	B1	[əprˈəʊtʃ]	We discussed the approach at work.	Мы обсудили это на работе: подход.	Approach = подход к задаче или способ действия.	work,education	approaches
+core5000	core5000:approval:noun:1	approval	одобрение	noun	B1	[əprˈuːvəl]	We discussed the approval at work.	Мы обсудили это на работе: одобрение.	Approval связано с approve — одобрять.	work,communication	approvals
+core5000	core5000:architecture:noun:1	architecture	архитектура	noun	B1	[ˈɑːrkətˌektʃɜː]	Check the architecture before you continue.	Проверь это перед продолжением: архитектура.	Architecture почти как “архитектура”. В IT тоже значит структура системы.	city,IT	architectures
+core5000	core5000:archive:noun:1	archive	архив	noun	B1	[ˈɑːrkˌaɪv]	Check the archive before you continue.	Проверь это перед продолжением: архив.	Archive почти как “архив”.	IT,work	archives
+core5000	core5000:argue:verb:1	argue	спорить; утверждать	verb	A2	[ˈɑːrɡjuː]	We need to argue this.	Нужно выполнить это действие: спорить.	Argue = спорить, а также приводить доводы.	communication,people	argues,argued,arguing
+core5000	core5000:arrangement:noun:1	arrangement	договорённость; расположение	noun	B1	[ɜːˈeɪndʒmənt]	We discussed the arrangement at work.	Мы обсудили это на работе: договорённость.	Arrangement связано с arrange — организовывать/располагать.	work,daily life	arrangements
+core5000	core5000:arrest:noun:1	arrest	арест; задержание	noun	B1	[ɜːˈest]	We discussed the arrest.	Мы обсудили это: арест.	Arrest почти как “арест”.	society	arrests
+core5000	core5000:assignment:noun:1	assignment	задание	noun	B1	[əsˈaɪnmənt]	We discussed the assignment at work.	Мы обсудили это на работе: задание.	Assignment связано с assign — назначать/поручать.	education,work	assignments
+core5000	core5000:atmosphere:noun:1	atmosphere	атмосфера	noun	A2	[ˈætməsfˌɪr]	We discussed the atmosphere.	Мы обсудили это: атмосфера.	Atmosphere почти как “атмосфера”.	nature,emotions	atmospheres
+core5000	core5000:attach:verb:1	attach	прикреплять	verb	B1	[ətˈætʃ]	We need to attach this.	Нужно выполнить это действие: прикреплять.	Attach = прикрепить. Attachment = вложение в письме.	IT,communication	attachs,attached,attaching
+core5000	core5000:attraction:noun:1	attraction	достопримечательность; привлекательность	noun	A2	[ətrˈækʃən]	We discussed the attraction before the trip.	Мы обсудили это перед поездкой: достопримечательность.	Attraction связано с attract — привлекать.	travel,emotions	attractions
+core5000	core5000:automatic:adjective:1	automatic	автоматический	adjective	A2	[ˌɔːtəmˈætɪk]	The example is automatic.	Пример такой: автоматический.	Automatic почти как “автоматический”.	technology,IT	
+core5000	core5000:award:noun:1	award	награда	noun	A2	[əwˈɔːrd]	We discussed the award at work.	Мы обсудили это на работе: награда.	Award = награда/премия.	work,art	awards
+core5000	core5000:aware:adjective:1	aware	осведомлённый; знающий	adjective	B1	[əwˈer]	The example is aware.	Пример такой: осведомлённый.	Aware часто в be aware of — знать о чём-то.	communication,education	
+core5000	core5000:backward:adjective:1	backward	назад; обратный	adjective	B1	[bˈækwɜːd]	The example is backward.	Пример такой: назад.	Backward связано с back — назад.	time,IT	
+core5000	core5000:bacteria:noun:1	bacteria	бактерии	noun	B1	[bæktˈɪriːə]	We discussed the bacteria.	Мы обсудили это: бактерии.	Bacteria почти как “бактерии”. Обычно множественное число.	science,health	
+core5000	core5000:badly:adverb:1	badly	плохо; сильно	adverb	A2	[bˈædliː]	She answered badly.	Она ответила так: плохо.	Badly = bad + -ly: плохо.	daily life,communication	
+core5000	core5000:bank:noun:1	bank	банк; берег	noun	A1	[bˈæŋk]	We discussed the bank.	Мы обсудили это: банк.	Bank = банк, но также берег реки.	money,nature	banks
+core5000	core5000:bar:noun:1	bar	бар; полоса	noun	A2	[bˈɑːr]	Check the bar before you continue.	Проверь это перед продолжением: бар.	Bar = бар или полоса. Search bar = строка поиска.	food,IT	bars
+core5000	core5000:barely:adverb:1	barely	едва	adverb	B1	[bˈerliː]	She answered barely.	Она ответила так: едва.	Barely = едва, почти не.	communication,time	
+core5000	core5000:basis:noun:1	basis	основа	noun	B1	[bˈeɪsəs]	We discussed the basis at work.	Мы обсудили это на работе: основа.	Basis связано с base — основа.	education,work	basises
+core5000	core5000:battery:noun:1	battery	батарея; аккумулятор	noun	A2	[bˈætɜːiː]	Check the battery before you continue.	Проверь это перед продолжением: батарея.	Battery почти как “батарея”.	technology,IT	batteries
+core5000	core5000:bedroom:noun:1	bedroom	спальня	noun	A1	[bˈedrˌuːm]	We discussed the bedroom.	Мы обсудили это: спальня.	Bedroom = bed + room: комната с кроватью.	home	bedrooms
+core5000	core5000:bell:noun:1	bell	колокол; звонок	noun	A2	[bˈel]	We discussed the bell.	Мы обсудили это: колокол.		daily life,school	bells
+core5000	core5000:bend:verb:1	bend	сгибать; изгибаться	verb	B1	[bˈend]	We need to bend this.	Нужно выполнить это действие: сгибать.	Bend = сгибать. Bent = согнутый.	body,daily life	bends,bent,bending
+core5000	core5000:bicycle:noun:1	bicycle	велосипед	noun	A2	[bˈaɪsɪkəl]	We discussed the bicycle before the trip.	Мы обсудили это перед поездкой: велосипед.	Bicycle = bi + cycle: два колеса.	transport,sport	bicycles
+core5000	core5000:biology:noun:1	biology	биология	noun	A2	[baɪˈɑːlədʒiː]	We discussed the biology in class.	Мы обсудили это на уроке: биология.	Biology почти как “биология”.	science,education	biologies
+core5000	core5000:blade:noun:1	blade	лезвие; клинок	noun	B1	[blˈeɪd]	We discussed the blade.	Мы обсудили это: лезвие.		daily life,technology	blades
+core5000	core5000:blame:verb:1	blame	винить	verb	B1	[blˈeɪm]	We need to blame this.	Нужно выполнить это действие: винить.	Blame = винить. Blame someone for something.	communication,people	blames,blamed,blaming
+core5000	core5000:blanket:noun:1	blanket	одеяло	noun	A2	[blˈæŋkət]	We discussed the blanket.	Мы обсудили это: одеяло.		home,daily life	blankets
+core5000	core5000:blind:adjective:1	blind	слепой	adjective	B1	[blˈaɪnd]	The example is blind.	Пример такой: слепой.	Blind = слепой. Blind spot = слепая зона.	body,health	
+core5000	core5000:bond:noun:1	bond	связь; облигация	noun	B1	[bˈɑːnd]	We discussed the bond.	Мы обсудили это: связь.	Bond = связь. В finance bond = облигация.	money,people	bonds
+core5000	core5000:bone:noun:1	bone	кость	noun	A2	[bˈəʊn]	We discussed the bone.	Мы обсудили это: кость.		body,health	bones
+core5000	core5000:bonus:noun:1	bonus	бонус	noun	B1	[bˈəʊnəs]	We discussed the bonus at work.	Мы обсудили это на работе: бонус.	Bonus почти как “бонус”.	money,work	bonuses
+core5000	core5000:boss:noun:1	boss	начальник	noun	A2	[bˈɑːs]	We discussed the boss at work.	Мы обсудили это на работе: начальник.	Boss = начальник.	work,people	bosses
+core5000	core5000:boundary:noun:1	boundary	граница; предел	noun	B1	[bˈaʊndɜːiː]	Check the boundary before you continue.	Проверь это перед продолжением: граница.	Boundary = граница/предел. В IT boundary часто значит границу области.	education,IT	boundaries
+core5000	core5000:bowl:noun:1	bowl	миска; чаша	noun	A2	[bˈəʊl]	We discussed the bowl.	Мы обсудили это: миска.		food,home	bowls
+core5000	core5000:brief:adjective:1	brief	краткий	adjective	B1	[brˈiːf]	The example is brief.	Пример такой: краткий.	Brief = краткий. Briefly = кратко.	communication,work	
+core5000	core5000:broad:adjective:1	broad	широкий	adjective	B1	[brˈɔːd]	The example is broad.	Пример такой: широкий.	Broad = широкий, часто в переносном смысле: broad topic.	communication,education	
+core5000	core5000:browser:noun:1	browser	браузер	noun	A2	[brˈaʊzɜː]	Check the browser before you continue.	Проверь это перед продолжением: браузер.	Browser почти как “браузер”.	IT,technology	browsers
+core5000	core5000:brush:noun:1	brush	щётка; чистить щёткой	noun	A2	[brˈʌʃ]	We discussed the brush.	Мы обсудили это: щётка.	Brush может быть noun и verb: щётка или чистить щёткой.	daily life,body	brushes
+core5000	core5000:bug:noun:1	bug	ошибка; жук	noun	B1	[bˈʌɡ]	Check the bug before you continue.	Проверь это перед продолжением: ошибка.	Bug = жук, а в IT bug = ошибка в программе.	IT,nature	bugs
+core5000	core5000:calculate:verb:1	calculate	вычислять	verb	B1	[kˈælkjəlˌeɪt]	We need to calculate this.	Нужно выполнить это действие: вычислять.	Calculate почти как “калькулировать”: вычислять.	education,IT	calculates,calculated,calculating
+core5000	core5000:camera:noun:1	camera	камера	noun	A1	[kˈæmɜːə]	We discussed the camera.	Мы обсудили это: камера.	Camera почти как “камера”.	technology,art	cameras
+core5000	core5000:campus:noun:1	campus	кампус	noun	B1	[kˈæmpəs]	We discussed the campus in class.	Мы обсудили это на уроке: кампус.	Campus почти как “кампус”.	education,city	campuses
+core5000	core5000:capability:noun:1	capability	способность; возможность	noun	B1	[kˌeɪpəbˈɪlətiː]	Check the capability before you continue.	Проверь это перед продолжением: способность.	Capability связано с capable — способный.	work,IT	capabilities
+core5000	core5000:cap:noun:1	cap	кепка; крышка	noun	A2	[kˈæp]	We discussed the cap.	Мы обсудили это: кепка.		clothes,daily life	caps
+core5000	core5000:capture:verb:1	capture	захватывать; фиксировать	verb	B1	[kˈæptʃɜː]	We need to capture this.	Нужно выполнить это действие: захватывать.	Capture = захватить/зафиксировать, например capture image.	IT,art	captures,captured,capturing
+core5000	core5000:cash:noun:1	cash	наличные	noun	A2	[kˈæʃ]	We discussed the cash.	Мы обсудили это: наличные.	Cash = наличные деньги.	money,shopping	
+core5000	core5000:castle:noun:1	castle	замок	noun	A2	[kˈæsəl]	We discussed the castle before the trip.	Мы обсудили это перед поездкой: замок.		travel,history	castles
+core5000	core5000:ceiling:noun:1	ceiling	потолок	noun	A2	[sˈiːlɪŋ]	We discussed the ceiling.	Мы обсудили это: потолок.		home,city	ceilings
+core5000	core5000:celebration:noun:1	celebration	празднование	noun	A2	[sˌeləbrˈeɪʃən]	We discussed the celebration.	Мы обсудили это: празднование.	Celebration связано с celebrate — праздновать.	daily life,people	celebrations
+core5000	core5000:cell:noun:1	cell	клетка; ячейка	noun	B1	[sˈel]	Check the cell before you continue.	Проверь это перед продолжением: клетка.	Cell = клетка, а в таблицах cell = ячейка.	science,IT	cells
+core5000	core5000:chain:noun:1	chain	цепь; сеть	noun	B1	[tʃˈeɪn]	We discussed the chain.	Мы обсудили это: цепь.	Chain = цепь или сеть магазинов/событий.	daily life,business	chains
+core5000	core5000:championship:noun:1	championship	чемпионат	noun	B1	[tʃˈæmpiːənʃˌɪp]	We discussed the championship.	Мы обсудили это: чемпионат.	Championship почти как “чемпионат”.	sport	championships
+core5000	core5000:charity:noun:1	charity	благотворительность	noun	B1	[tʃˈerɪtiː]	We discussed the charity.	Мы обсудили это: благотворительность.		society,people	charities
+core5000	core5000:chart:noun:1	chart	график; диаграмма	noun	A2	[tʃˈɑːrt]	Check the chart before you continue.	Проверь это перед продолжением: график.	Chart = график/диаграмма.	education,IT	charts
+core5000	core5000:cheek:noun:1	cheek	щека	noun	A2	[tʃˈiːk]	We discussed the cheek.	Мы обсудили это: щека.		body	cheeks
+core5000	core5000:chef:noun:1	chef	шеф-повар	noun	A2	[ʃˈef]	We discussed the chef at work.	Мы обсудили это на работе: шеф-повар.	Chef почти как “шеф”, но обычно значит шеф-повар.	food,work	cheves
+core5000	core5000:childhood:noun:1	childhood	детство	noun	A2	[tʃˈaɪldhˌʊd]	We discussed the childhood.	Мы обсудили это: детство.	Childhood = child + -hood: период детства.	people,time	childhoods
+core5000	core5000:circle:noun:1	circle	круг	noun	A2	[sˈɜːkəl]	We discussed the circle in class.	Мы обсудили это на уроке: круг.	Circle = круг.	education,art	circles
+core5000	core5000:classical:adjective:1	classical	классический	adjective	B1	[klˈæsɪkəl]	The example is classical.	Пример такой: классический.	Classical почти как “классический”.	music,art	
+core5000	core5000:clothing:noun:1	clothing	одежда	noun	A2	[klˈəʊðɪŋ]	We discussed the clothing.	Мы обсудили это: одежда.	Clothing = одежда как категория.	clothes,shopping	
+core5000	core5000:clue:noun:1	clue	подсказка; улика	noun	B1	[klˈuː]	We discussed the clue in class.	Мы обсудили это на уроке: подсказка.	Clue = подсказка или улика.	communication,education	clues
+core5000	core5000:coast:noun:1	coast	побережье	noun	A2	[kˈəʊst]	We discussed the coast before the trip.	Мы обсудили это перед поездкой: побережье.	Coast = побережье.	travel,nature	coasts
+core5000	core5000:coin:noun:1	coin	монета	noun	A2	[kˈɔɪn]	We discussed the coin.	Мы обсудили это: монета.	Coin = монета.	money	coins
+core5000	core5000:collapse:verb:1	collapse	разрушаться; падать	verb	B1	[kəlˈæps]	We need to collapse this.	Нужно выполнить это действие: разрушаться.	Collapse = резко рухнуть/обрушиться.	city,health	collapses,collapsed,collapsing
+core5000	core5000:colleague:noun:1	colleague	коллега	noun	A2	[kˈɑːliːɡ]	We discussed the colleague at work.	Мы обсудили это на работе: коллега.	Colleague почти как “коллега”.	work,people	colleagues
+core5000	core5000:comment:noun:1	comment	комментарий	noun	A2	[kˈɑːment]	Check the comment before you continue.	Проверь это перед продолжением: комментарий.	Comment почти как “комментарий”.	communication,IT	comments
+core5000	core5000:commercial:adjective:1	commercial	рекламный; коммерческий	adjective	B1	[kəmˈɜːʃəl]	The example is commercial.	Пример такой: рекламный.	Commercial почти как “коммерческий”.	business,communication	
+core5000	core5000:commit:verb:1	commit	совершать; фиксировать	verb	B1	[kəmˈɪt]	We need to commit this.	Нужно выполнить это действие: совершать.	Commit = совершить действие; в Git commit = зафиксировать изменения.	work,IT	commits,committed,committing
+core5000	core5000:committee:noun:1	committee	комитет	noun	B1	[kəmˈɪtiː]	We discussed the committee at work.	Мы обсудили это на работе: комитет.	Committee почти как “комитет”.	work,society	committees
+core5000	core5000:comparison:noun:1	comparison	сравнение	noun	B1	[kəmpˈerəsən]	We discussed the comparison in class.	Мы обсудили это на уроке: сравнение.	Comparison связано с compare — сравнивать.	education,communication	comparisons
+core5000	core5000:complaint:noun:1	complaint	жалоба	noun	B1	[kəmplˈeɪnt]	We discussed the complaint at work.	Мы обсудили это на работе: жалоба.	Complaint связано с complain — жаловаться.	communication,work	complaints
+core5000	core5000:conclusion:noun:1	conclusion	вывод; заключение	noun	B1	[kənklˈuːʒən]	We discussed the conclusion in class.	Мы обсудили это на уроке: вывод.	Conclusion связано с conclude — делать вывод.	education,communication	conclusions
+core5000	core5000:conduct:verb:1	conduct	проводить; вести	verb	B1	[kˈɑːndəkt]	We need to conduct this.	Нужно выполнить это действие: проводить.	Conduct research = проводить исследование.	work,science	conducts,conducted,conducting
+core5000	core5000:conference:noun:1	conference	конференция	noun	A2	[kˈɑːnfɜːəns]	We discussed the conference at work.	Мы обсудили это на работе: конференция.	Conference почти как “конференция”.	work,education	conferences
+core5000	core5000:confirm:verb:1	confirm	подтверждать	verb	B1	[kənfˈɜːm]	We need to confirm this.	Нужно выполнить это действие: подтверждать.	Confirm почти как “подтвердить”. Confirmation = подтверждение.	communication,IT	confirms,confirmed,confirming
+core5000	core5000:conflict:noun:1	conflict	конфликт	noun	B1	[kˈɑːnflɪkt]	We discussed the conflict.	Мы обсудили это: конфликт.	Conflict почти как “конфликт”.	society,people	conflicts
+core5000	core5000:confusion:noun:1	confusion	путаница; замешательство	noun	B1	[kənfjˈuːʒən]	We discussed the confusion.	Мы обсудили это: путаница.	Confusion связано с confuse — путать.	emotions,communication	confusions
+core5000	core5000:construction:noun:1	construction	строительство; конструкция	noun	B1	[kənstrˈʌkʃən]	We discussed the construction at work.	Мы обсудили это на работе: строительство.	Construction почти как “конструкция”, но часто значит строительство.	city,work	constructions
+core5000	core5000:content:noun:1	content	содержимое; контент	noun	B1	[kˈɑːntent]	Check the content before you continue.	Проверь это перед продолжением: содержимое.	Content почти как “контент”.	IT,communication	contents
+core5000	core5000:contract:noun:1	contract	договор; контракт	noun	B1	[kˈɑːntrˌækt]	We discussed the contract at work.	Мы обсудили это на работе: договор.	Contract почти как “контракт”.	work,money	contracts
+core5000	core5000:contrast:noun:1	contrast	контраст; различие	noun	B1	[kˈɑːntræst]	We discussed the contrast.	Мы обсудили это: контраст.	Contrast почти как “контраст”.	art,communication	contrasts
+core5000	core5000:contribution:noun:1	contribution	вклад	noun	B1	[kˌɑːntrəbjˈuːʃən]	We discussed the contribution at work.	Мы обсудили это на работе: вклад.	Contribution связано с contribute — вносить вклад.	work,society	contributions
+core5000	core5000:convenience:noun:1	convenience	удобство	noun	B1	[kənvˈiːnjəns]	We discussed the convenience at work.	Мы обсудили это на работе: удобство.	Convenience связано с convenient — удобный.	daily life,work	conveniences
+core5000	core5000:core:noun:1	core	ядро; основа	noun	B1	[kˈɔːr]	Check the core before you continue.	Проверь это перед продолжением: ядро.	Core = ядро/основа. Core idea = главная идея.	IT,education	cores
+core5000	core5000:courage:noun:1	courage	смелость	noun	B1	[kˈɜːədʒ]	We discussed the courage.	Мы обсудили это: смелость.	Courage = смелость. Brave = смелый.	emotions,people	courages
+core5000	core5000:cousin:noun:1	cousin	двоюродный брат/сестра	noun	A2	[kˈʌzən]	We discussed the cousin.	Мы обсудили это: двоюродный брат/сестра.		family,people	cousins
+core5000	core5000:crack:noun:1	crack	трещина	noun	B1	[krˈæk]	We discussed the crack.	Мы обсудили это: трещина.	Crack = трещина; to crack = треснуть.	daily life,technology	cracks
+core5000	core5000:craft:noun:1	craft	ремесло; мастерство	noun	B1	[krˈæft]	We discussed the craft at work.	Мы обсудили это на работе: ремесло.	Craft = ремесло/мастерство.	art,work	crafts
+core5000	core5000:crash:noun:1	crash	авария; сбой	noun	B1	[krˈæʃ]	Check the crash before you continue.	Проверь это перед продолжением: авария.	Crash = авария, а в IT crash = сбой программы.	transport,IT	crashes
+core5000	core5000:creature:noun:1	creature	существо	noun	B1	[krˈiːtʃɜː]	We discussed the creature.	Мы обсудили это: существо.	Creature = живое существо.	animals,nature	creatures
+core5000	core5000:credit:noun:1	credit	кредит; заслуга	noun	B1	[krˈedət]	We discussed the credit in class.	Мы обсудили это на уроке: кредит.	Credit = кредит или зачёт/заслуга.	money,education	credits
+core5000	core5000:crew:noun:1	crew	экипаж; команда	noun	B1	[krˈuː]	We discussed the crew before the trip.	Мы обсудили это перед поездкой: экипаж.	Crew = экипаж или команда людей.	transport,work	crews
+core5000	core5000:crime:noun:1	crime	преступление	noun	A2	[krˈaɪm]	We discussed the crime.	Мы обсудили это: преступление.	Crime = преступление.	society	crimes
+core5000	core5000:crisis:noun:1	crisis	кризис	noun	B1	[krˈaɪsəs]	We discussed the crisis at work.	Мы обсудили это на работе: кризис.	Crisis почти как “кризис”.	society,work	crisises
+core5000	core5000:critical:adjective:1	critical	критический; важный	adjective	B1	[krˈɪtɪkəl]	The example is critical.	Пример такой: критический.	Critical почти как “критический”.	work,health	
+core5000	core5000:crop:noun:1	crop	урожай; культура	noun	B1	[krˈɑːp]	We discussed the crop at work.	Мы обсудили это на работе: урожай.	Crop = урожай/сельхозкультура.	nature,work	crops
+core5000	core5000:currency:noun:1	currency	валюта	noun	B1	[kˈɜːənsiː]	We discussed the currency.	Мы обсудили это: валюта.	Currency = валюта.	money	currencies
+core5000	core5000:curve:noun:1	curve	кривая; изгиб	noun	B1	[kˈɜːv]	We discussed the curve in class.	Мы обсудили это на уроке: кривая.	Curve = кривая линия/изгиб.	education,science	curves
+core5000	core5000:custom:adjective:1	custom	пользовательский; обычай	adjective	B1	[kˈʌstəm]	The example is custom.	Пример такой: пользовательский.	Custom в IT часто значит пользовательский/настроенный под себя.	IT,society	
+core5000	core5000:decade:noun:1	decade	десятилетие	noun	A2	[dekˈeɪd]	We discussed the decade.	Мы обсудили это: десятилетие.	Decade = период в 10 лет.	time,history	decades
+core5000	core5000:deck:noun:1	deck	палуба; колода	noun	B1	[dˈek]	We discussed the deck before the trip.	Мы обсудили это перед поездкой: палуба.	Deck = палуба или колода карт.	transport,daily life	decks
+core5000	core5000:definitely:adverb:1	definitely	определённо; точно	adverb	A2	[dˈefənətliː]	She answered definitely.	Она ответила так: определённо.	Definitely = точно/определённо.	communication	
+core5000	core5000:delivery:noun:1	delivery	доставка	noun	A2	[dɪlˈɪvɜːiː]	We discussed the delivery at work.	Мы обсудили это на работе: доставка.	Delivery связано с deliver — доставлять.	shopping,work	deliveries
+core5000	core5000:depth:noun:1	depth	глубина	noun	B1	[dˈepθ]	We discussed the depth.	Мы обсудили это: глубина.	Depth связано с deep — глубокий.	science,nature	depths
+core5000	core5000:despite:preposition:1	despite	несмотря на	preposition	B1	[dɪspˈaɪt]	The shop is despite the station.	Магазин находится так относительно станции: несмотря на.	Despite = несмотря на.	communication	
+core5000	core5000:destination:noun:1	destination	пункт назначения	noun	B1	[dˌestənˈeɪʃən]	We discussed the destination before the trip.	Мы обсудили это перед поездкой: пункт назначения.	Destination = место, куда направляются.	travel	destinations
+core5000	core5000:digital:adjective:1	digital	цифровой	adjective	A2	[dˈɪdʒətəl]	The example is digital.	Пример такой: цифровой.	Digital почти как “цифровой”.	IT,technology	
+core5000	core5000:dimension:noun:1	dimension	измерение; размерность	noun	B1	[dɪmˈenʃən]	Check the dimension before you continue.	Проверь это перед продолжением: измерение.	Dimension = измерение или размерность.	science,IT	dimensions
+core5000	core5000:dirty:adjective:1	dirty	грязный	adjective	A1	[dˈɜːtiː]	The example is dirty.	Пример такой: грязный.	Dirty = грязный.	daily life	
+core5000	core5000:disaster:noun:1	disaster	катастрофа	noun	B1	[dɪzˈæstɜː]	We discussed the disaster.	Мы обсудили это: катастрофа.	Disaster = катастрофа.	society,nature	disasters
+core5000	core5000:discount:noun:1	discount	скидка	noun	A2	[dɪskˈaʊnt]	We discussed the discount.	Мы обсудили это: скидка.	Discount = скидка.	shopping,money	discounts
+core5000	core5000:dish:noun:1	dish	блюдо; тарелка	noun	A1	[dˈɪʃ]	We discussed the dish.	Мы обсудили это: блюдо.	Dish = блюдо или тарелка.	food,home	dishes
+core5000	core5000:disk:noun:1	disk	диск	noun	B1	[dˈɪsk]	Check the disk before you continue.	Проверь это перед продолжением: диск.	Disk почти как “диск”.	IT,technology	disks
+core5000	core5000:distribution:noun:1	distribution	распределение	noun	B1	[dˌɪstrəbjˈuːʃən]	Check the distribution before you continue.	Проверь это перед продолжением: распределение.	Distribution связано с distribute — распределять.	work,IT	distributions
+core5000	core5000:district:noun:1	district	район; округ	noun	B1	[dˈɪstrɪkt]	We discussed the district.	Мы обсудили это: район.	District = район/округ.	city,society	districts
+core5000	core5000:download:verb:1	download	скачивать	verb	A2	[dˈaʊnlˌəʊd]	We need to download this.	Нужно выполнить это действие: скачивать.	Download = загрузить вниз, скачать. Пара: upload — download.	IT,technology	downloads,downloaded,downloading
+core5000	core5000:dozen:noun:1	dozen	дюжина	noun	B1	[dˈʌzən]	We discussed the dozen.	Мы обсудили это: дюжина.	Dozen = 12 штук, дюжина.	daily life,shopping	dozens
+core5000	core5000:drama:noun:1	drama	драма	noun	A2	[drˈɑːmə]	We discussed the drama.	Мы обсудили это: драма.	Drama почти как “драма”.	art,emotions	dramas
+core5000	core5000:driver:noun:1	driver	водитель; драйвер	noun	A1	[drˈaɪvɜː]	Check the driver before you continue.	Проверь это перед продолжением: водитель.	Driver = водитель, а в IT driver = драйвер устройства.	transport,IT	drivers
+core5000	core5000:economy:noun:1	economy	экономика	noun	A2	[ɪkˈɑːnəmiː]	We discussed the economy.	Мы обсудили это: экономика.	Economy почти как “экономика”.	money,society	economies
+core5000	core5000:editor:noun:1	editor	редактор	noun	A2	[ˈedətɜː]	Check the editor before you continue.	Проверь это перед продолжением: редактор.	Editor почти как “редактор”.	work,IT	editors
+core5000	core5000:efficient:adjective:1	efficient	эффективный	adjective	B1	[ɪfˈɪʃənt]	The example is efficient.	Пример такой: эффективный.	Efficient = эффективный, без лишних затрат времени/ресурсов.	work,IT	
+core5000	core5000:electronic:adjective:1	electronic	электронный	adjective	A2	[ˌɪlˌektrˈɑːnɪk]	The example is electronic.	Пример такой: электронный.	Electronic почти как “электронный”.	IT,technology	
+core5000	core5000:email:noun:1	email	email; электронная почта	noun	A1	[iːmˈeɪl]	Check the email before you continue.	Проверь это перед продолжением: email.	Email = electronic mail: электронная почта.	IT,communication	emails
+core5000	core5000:entire:adjective:1	entire	весь; целый	adjective	B1	[ɪntˈaɪɜː]	The example is entire.	Пример такой: весь.	Entire = весь целиком.	communication	
+core5000	core5000:environment:noun:1	environment	окружающая среда; среда	noun	A2	[ɪnvˈaɪrənmənt]	Check the environment before you continue.	Проверь это перед продолжением: окружающая среда.	Environment = окружающая среда, а в IT — среда выполнения/разработки.	nature,IT	environments
+core5000	core5000:essay:noun:1	essay	эссе; сочинение	noun	A2	[esˈeɪ]	We discussed the essay in class.	Мы обсудили это на уроке: эссе.	Essay почти как “эссе”.	education	essays
+core5000	core5000:estate:noun:1	estate	имущество; недвижимость	noun	B1	[ɪstˈeɪt]	We discussed the estate.	Мы обсудили это: имущество.	Real estate = недвижимость.	money,home	estates
+core5000	core5000:except:preposition:1	except	кроме; за исключением	preposition	A2	[ɪksˈept]	The shop is except the station.	Магазин находится так относительно станции: кроме.	Except = кроме/за исключением.	communication	
+core5000	core5000:excitement:noun:1	excitement	волнение; возбуждение	noun	B1	[ɪksˈaɪtmənt]	We discussed the excitement.	Мы обсудили это: волнение.	Excitement связано с excited — взволнованный.	emotions	excitements
+core5000	core5000:exercise:noun:1	exercise	упражнение	noun	A1	[ˈeksɜːsˌaɪz]	We discussed the exercise in class.	Мы обсудили это на уроке: упражнение.	Exercise = упражнение; also физическая нагрузка.	health,education	exercises
+core5000	core5000:existence:noun:1	existence	существование	noun	B1	[eɡzˈɪstəns]	We discussed the existence in class.	Мы обсудили это на уроке: существование.	Existence связано с exist — существовать.	education	existences
+core5000	core5000:expensive:adjective:1	expensive	дорогой	adjective	A1	[ɪkspˈensɪv]	The example is expensive.	Пример такой: дорогой.	Expensive = дорогой по цене.	money,shopping	
+core5000	core5000:experiment:noun:1	experiment	эксперимент	noun	A2	[ɪkspˈerəmənt]	We discussed the experiment in class.	Мы обсудили это на уроке: эксперимент.	Experiment почти как “эксперимент”.	science,education	experiments
+core5000	core5000:export:noun:1	export	экспорт; экспортировать	noun	B1	[ˈekspɔːrt]	Check the export before you continue.	Проверь это перед продолжением: экспорт.	Export почти как “экспорт”. В IT export = выгрузка данных.	money,IT	exports
+core5000	core5000:exposure:noun:1	exposure	воздействие; экспозиция	noun	B1	[ɪkspˈəʊʒɜː]	We discussed the exposure.	Мы обсудили это: воздействие.	Exposure связано с expose — подвергать воздействию/показывать.	health,art	exposures
+core5000	core5000:factory:noun:1	factory	фабрика; завод	noun	A2	[fˈæktɜːiː]	We discussed the factory at work.	Мы обсудили это на работе: фабрика.	Factory похоже на “фабрика”: место, где производят вещи.	work,city	factories
+core5000	core5000:familiar:adjective:1	familiar	знакомый	adjective	B1	[fəmˈɪljɜː]	The example is familiar.	Пример такой: знакомый.	Familiar = знакомый, хорошо известный.	people,education	
+core5000	core5000:fan:noun:1	fan	фанат; вентилятор	noun	A2	[fˈæn]	We discussed the fan.	Мы обсудили это: фанат.	Fan = фанат или вентилятор.	people,technology	fans
+core5000	core5000:farmer:noun:1	farmer	фермер	noun	A1	[fˈɑːrmɜː]	We discussed the farmer at work.	Мы обсудили это на работе: фермер.	Farmer = farm + -er: человек, который работает на ферме.	work,nature	farmers
+core5000	core5000:fast:adjective:1	fast	быстрый	adjective	A1	[fˈæst]	The example is fast.	Пример такой: быстрый.	Fast = быстрый. Пара: fast — slow.	time,transport	
+core5000	core5000:favorite:adjective:1	favorite	любимый	adjective	A1	[fˈeɪvɜːɪt]	The example is favorite.	Пример такой: любимый.	Favorite = любимый, предпочитаемый.	daily life,emotions	
+core5000	core5000:feed:verb:1	feed	кормить; лента	verb	A2	[fˈiːd]	We need to feed this.	Нужно выполнить это действие: кормить.	Feed = кормить. В IT/social media feed = лента.	food,IT	feeds,fed,feeding
+core5000	core5000:feedback:noun:1	feedback	обратная связь	noun	B1	[fˈiːdbˌæk]	Check the feedback before you continue.	Проверь это перед продолжением: обратная связь.	Feedback = feed + back: ответная реакция/обратная связь.	communication,IT	
+core5000	core5000:festival:noun:1	festival	фестиваль	noun	A1	[fˈestəvəl]	We discussed the festival.	Мы обсудили это: фестиваль.	Festival почти как “фестиваль”.	art,society	festivals
+core5000	core5000:finance:noun:1	finance	финансы	noun	B1	[fənˈæns]	We discussed the finance at work.	Мы обсудили это на работе: финансы.	Finance почти как “финансы”.	money,work	
+core5000	core5000:flag:noun:1	flag	флаг	noun	A2	[flˈæɡ]	Check the flag before you continue.	Проверь это перед продолжением: флаг.	Flag = флаг. В IT flag может быть настройка-переключатель.	society,IT	flags
+core5000	core5000:flame:noun:1	flame	пламя	noun	B1	[flˈeɪm]	We discussed the flame.	Мы обсудили это: пламя.	Flame = пламя.	nature,daily life	flames
+core5000	core5000:flash:noun:1	flash	вспышка; мигать	noun	B1	[flˈæʃ]	Check the flash before you continue.	Проверь это перед продолжением: вспышка.	Flash = вспышка. Flash drive = флешка.	technology,IT	flashes
+core5000	core5000:flexible:adjective:1	flexible	гибкий	adjective	B1	[flˈeksəbəl]	The example is flexible.	Пример такой: гибкий.	Flexible почти как “флексибл”: гибкий, легко меняющийся.	work,IT	
+core5000	core5000:fold:verb:1	fold	складывать	verb	B1	[fˈəʊld]	We need to fold this.	Нужно выполнить это действие: складывать.	Fold = складывать. Folder связано с идеей сложенной папки.	daily life,IT	folds,folded,folding
+core5000	core5000:formal:adjective:1	formal	формальный; официальный	adjective	B1	[fˈɔːrməl]	The example is formal.	Пример такой: формальный.	Formal почти как “формальный”.	work,communication	
+core5000	core5000:fortune:noun:1	fortune	состояние; удача	noun	B1	[fˈɔːrtʃən]	We discussed the fortune.	Мы обсудили это: состояние.	Fortune = богатство или удача.	money,emotions	fortunes
+core5000	core5000:foundation:noun:1	foundation	основа; фонд	noun	B1	[faʊndˈeɪʃən]	We discussed the foundation at work.	Мы обсудили это на работе: основа.	Foundation связано с found — основывать.	work,society	foundations
+core5000	core5000:frequency:noun:1	frequency	частота	noun	B1	[frˈiːkwənsiː]	We discussed the frequency.	Мы обсудили это: частота.	Frequency почти как “частота/фреквенция”.	science,technology	frequencies
+core5000	core5000:friendly:adjective:1	friendly	дружелюбный	adjective	A1	[frˈendliː]	The example is friendly.	Пример такой: дружелюбный.	Friendly = friend + -ly: по-дружески, дружелюбный.	people,communication	
+core5000	core5000:fruit:noun:1	fruit	фрукт	noun	A1	[frˈuːt]	We discussed the fruit.	Мы обсудили это: фрукт.	Fruit = фрукт.	food,nature	fruits
+core5000	core5000:generation:noun:1	generation	поколение; генерация	noun	B1	[dʒˌenɜːˈeɪʃən]	Check the generation before you continue.	Проверь это перед продолжением: поколение.	Generation почти как “генерация/поколение”.	people,IT	generations
+core5000	core5000:grammar:noun:1	grammar	грамматика	noun	A1	[ɡrˈæmɜː]	We discussed the grammar in class.	Мы обсудили это на уроке: грамматика.	Grammar почти как “грамматика”.	education,language	
+core5000	core5000:grocery:noun:1	grocery	продукты; продуктовый магазин	noun	A2	[ɡrˈəʊsɜːiː]	We discussed the grocery.	Мы обсудили это: продукты.	Groceries обычно значит продукты из магазина.	shopping,food	groceries
+core5000	core5000:guarantee:noun:1	guarantee	гарантия; гарантировать	noun	B1	[ɡˌerəntˈiː]	We discussed the guarantee.	Мы обсудили это: гарантия.	Guarantee почти как “гарантия”.	money,shopping	guarantees

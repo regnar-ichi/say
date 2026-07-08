@@ -1,0 +1,101 @@
+source	source_key	text	translate	type	level	transcription	example	example_ru	memory_hint	topics	forms
+oxford3000	oxford3000:any:pronoun:1	any	кто-нибудь; что-нибудь; любой	pronoun	A1	[ˈeni]	Do you need any?	Тебе что-нибудь нужно?		grammar,basic words	
+oxford3000	oxford3000:boring:adjective:1	boring	скучный	adjective	A1	[ˈbɔːrɪŋ]	This film is boring.	Этот фильм скучный.		emotions,describing things	
+oxford3000	oxford3000:anyone:pronoun:1	anyone	кто-нибудь; любой человек	pronoun	A1	[ˈeniwʌn]	Can anyone help me?	Кто-нибудь может мне помочь?		people,grammar	
+oxford3000	oxford3000:born:verb:1	born	родившийся; родиться	verb	A1	[bɔːn]	She was born in April.	Она родилась в апреле.		family,people	
+oxford3000	oxford3000:cold:noun:1	cold	простуда; холод	noun	A1	[kəʊld]	I have a cold.	У меня простуда.		health,weather	colds
+oxford3000	oxford3000:down:adverb:1	down	вниз; ниже	adverb	A1	[daʊn]	Sit down, please.	Сядь, пожалуйста.		movement,place	
+oxford3000	oxford3000:down:preposition:1	down	вниз по; вдоль	preposition	A1	[daʊn]	She walked down the street.	Она шла вниз по улице.		movement,place	
+oxford3000	oxford3000:anything:pronoun:1	anything	что-нибудь; что-либо	pronoun	A1	[ˈeniθɪŋ]	Did you buy anything?	Ты что-нибудь купил?		grammar,basic words	
+oxford3000	oxford3000:both:determiner:1	both	оба; обе	determiner	A1	[bəʊθ]	Both answers are correct.	Оба ответа правильные.		grammar,numbers	
+oxford3000	oxford3000:both:pronoun:1	both	оба; обе	pronoun	A1	[bəʊθ]	Both are good.	Оба хорошие.		grammar,numbers	
+oxford3000	oxford3000:college:noun:1	college	колледж; учебное заведение	noun	A1	[ˈkɒlɪdʒ]	She studies at college.	Она учится в колледже.		education,place	colleges
+oxford3000	oxford3000:downstairs:adverb:1	downstairs	внизу; вниз по лестнице	adverb	A1	[ˌdaʊnˈsteəz]	The kitchen is downstairs.	Кухня находится внизу.		home,place	
+oxford3000	oxford3000:apartment:noun:1	apartment	квартира	noun	A1	[əˈpɑːtmənt]	They live in a small apartment.	Они живут в маленькой квартире.		home,place	apartments
+oxford3000	oxford3000:bottle:noun:1	bottle	бутылка	noun	A1	[ˈbɒtl]	I bought a bottle of water.	Я купил бутылку воды.		food,daily life	bottles
+oxford3000	oxford3000:colour:noun:1	colour	цвет	noun	A1	[ˈkʌlə]	What colour is your bag?	Какого цвета твоя сумка?		colors,describing things	colours
+oxford3000	oxford3000:draw:verb:1	draw	рисовать; тянуть	verb	A1	[drɔː]	She likes to draw animals.	Она любит рисовать животных.		art,education	draws,drew,drawn,drawing
+oxford3000	oxford3000:box:noun:1	box	коробка; ящик	noun	A1	[bɒks]	Put the books in the box.	Положи книги в коробку.		home,daily life	boxes
+oxford3000	oxford3000:dress:noun:1	dress	платье	noun	A1	[dres]	She bought a new dress.	Она купила новое платье.		clothes,daily life	dresses
+oxford3000	oxford3000:dress:verb:1	dress	одеваться; одевать	verb	A1	[dres]	Dress warmly today.	Оденься тепло сегодня.		clothes,daily life	dresses,dressed,dressing
+oxford3000	oxford3000:april:noun:1	april	апрель	noun	A1	[ˈeɪprəl]	My birthday is in April.	Мой день рождения в апреле.		time,calendar	
+oxford3000	oxford3000:boy:noun:1	boy	мальчик	noun	A1	[bɔɪ]	The boy is reading.	Мальчик читает.		people,family	boys
+oxford3000	oxford3000:drink:noun:1	drink	напиток	noun	A1	[drɪŋk]	Would you like a drink?	Хочешь напиток?		food,daily life	drinks
+oxford3000	oxford3000:drink:verb:1	drink	пить	verb	A1	[drɪŋk]	Drink some water.	Попей воды.		food,daily life	drinks,drank,drunk,drinking
+oxford3000	oxford3000:boyfriend:noun:1	boyfriend	парень; молодой человек	noun	A1	[ˈbɔɪfrend]	Her boyfriend is kind.	Её парень добрый.		people,relationships	boyfriends
+oxford3000	oxford3000:company:noun:1	company	компания; фирма	noun	A1	[ˈkʌmpəni]	He works for a big company.	Он работает в большой компании.		work,business	companies
+oxford3000	oxford3000:drive:verb:1	drive	водить машину; ехать	verb	A1	[draɪv]	Can you drive a car?	Ты умеешь водить машину?		transport,movement	drives,drove,driven,driving
+oxford3000	oxford3000:arm:noun:1	arm	рука	noun	A1	[ɑːm]	He broke his arm.	Он сломал руку.		body,health	arms
+oxford3000	oxford3000:around:preposition:1	around	вокруг; около	preposition	A1	[əˈraʊnd]	We walked around the park.	Мы гуляли вокруг парка.		place,movement	
+oxford3000	oxford3000:around:adverb:1	around	вокруг; поблизости; примерно	adverb	A1	[əˈraʊnd]	There were around ten people.	Было примерно десять человек.		place,numbers	
+oxford3000	oxford3000:break:verb:1	break	ломать; разбивать; нарушать	verb	A1	[breɪk]	Don't break the glass.	Не разбей стакан.		basic verbs,daily life	breaks,broke,broken,breaking
+oxford3000	oxford3000:break:noun:1	break	перерыв; пауза	noun	A1	[breɪk]	Let's take a short break.	Давай сделаем короткий перерыв.		time,work	breaks
+oxford3000	oxford3000:complete:adjective:1	complete	полный; законченный	adjective	A1	[kəmˈpliːt]	This is the complete list.	Это полный список.		describing things,education	
+oxford3000	oxford3000:during:preposition:1	during	во время; в течение	preposition	A1	[ˈdjʊərɪŋ]	I slept during the film.	Я спал во время фильма.		time,grammar	
+oxford3000	oxford3000:breakfast:noun:1	breakfast	завтрак	noun	A1	[ˈbrekfəst]	Breakfast is ready.	Завтрак готов.		food,daily life	breakfasts
+oxford3000	oxford3000:dvd:noun:1	dvd	DVD-диск	noun	A1	[ˌdiː viː ˈdiː]	We watched a DVD.	Мы посмотрели DVD-диск.		technology,media	dvds
+oxford3000	oxford3000:art:noun:1	art	искусство; рисование	noun	A1	[ɑːt]	She studies art.	Она изучает искусство.		art,education	
+oxford3000	oxford3000:bring:verb:1	bring	приносить; приводить	verb	A1	[brɪŋ]	Bring your book tomorrow.	Принеси свою книгу завтра.		basic verbs,movement	brings,brought,bringing
+oxford3000	oxford3000:concert:noun:1	concert	концерт	noun	A1	[ˈkɒnsət]	We went to a concert.	Мы ходили на концерт.		music,art	concerts
+oxford3000	oxford3000:each:determiner:1	each	каждый	determiner	A1	[iːtʃ]	Each student has a book.	У каждого студента есть книга.		grammar,basic words	
+oxford3000	oxford3000:each:pronoun:1	each	каждый; каждый из них	pronoun	A1	[iːtʃ]	Each has a different colour.	У каждого свой цвет.		grammar,basic words	
+oxford3000	oxford3000:each:adverb:1	each	каждому; за штуку	adverb	A1	[iːtʃ]	Tickets cost ten dollars each.	Билеты стоят по десять долларов каждый.		money,numbers	
+oxford3000	oxford3000:brother:noun:1	brother	брат	noun	A1	[ˈbrʌðə]	My brother is older than me.	Мой брат старше меня.		family,people	brothers
+oxford3000	oxford3000:conversation:noun:1	conversation	разговор; беседа	noun	A1	[ˌkɒnvəˈseɪʃən]	We had a short conversation.	У нас был короткий разговор.		communication,people	conversations
+oxford3000	oxford3000:ear:noun:1	ear	ухо	noun	A1	[ɪə]	My ear hurts.	У меня болит ухо.		body,health	ears
+oxford3000	oxford3000:brown:adjective:1	brown	коричневый	adjective	A1	[braʊn]	He has brown eyes.	У него карие глаза.		colors,appearance	
+oxford3000	oxford3000:brown:noun:1	brown	коричневый цвет	noun	A1	[braʊn]	Brown is a warm colour.	Коричневый — тёплый цвет.		colors,art	
+oxford3000	oxford3000:cook:verb:1	cook	готовить еду	verb	A1	[kʊk]	I can cook dinner.	Я могу приготовить ужин.		food,daily life	cooks,cooked,cooking
+oxford3000	oxford3000:early:adjective:1	early	ранний	adjective	A1	[ˈɜːli]	We took an early train.	Мы сели на ранний поезд.		time,describing things	earlier,earliest
+oxford3000	oxford3000:early:adverb:1	early	рано	adverb	A1	[ˈɜːli]	I woke up early.	Я проснулся рано.		time,daily life	earlier,earliest
+oxford3000	oxford3000:as:preposition:1	as	как; в качестве	preposition	A1	[æz]	He works as a teacher.	Он работает учителем.		grammar,work	
+oxford3000	oxford3000:build:verb:1	build	строить	verb	A1	[bɪld]	They build houses.	Они строят дома.		work,home	builds,built,building
+oxford3000	oxford3000:cooking:noun:1	cooking	готовка; кулинария	noun	A1	[ˈkʊkɪŋ]	I enjoy cooking.	Мне нравится готовить.		food,daily life	
+oxford3000	oxford3000:east:noun:1	east	восток	noun	A1	[iːst]	The sun rises in the east.	Солнце встаёт на востоке.		place,geography	
+oxford3000	oxford3000:east:adjective:1	east	восточный	adjective	A1	[iːst]	They live on the east side.	Они живут на восточной стороне.		place,geography	
+oxford3000	oxford3000:east:adverb:1	east	на восток; к востоку	adverb	A1	[iːst]	Drive east for ten minutes.	Езжай на восток десять минут.		place,travel	
+oxford3000	oxford3000:building:noun:1	building	здание	noun	A1	[ˈbɪldɪŋ]	This building is old.	Это здание старое.		city,place	buildings
+oxford3000	oxford3000:cool:adjective:1	cool	прохладный; классный	adjective	A1	[kuːl]	The water is cool.	Вода прохладная.		weather,describing things	cooler,coolest
+oxford3000	oxford3000:at:preposition:1	at	в; у; на	preposition	A1	[æt]	Meet me at the station.	Встреть меня на станции.		grammar,place	
+oxford3000	oxford3000:correct:verb:1	correct	исправлять; проверять	verb	A1	[kəˈrekt]	Correct the mistakes.	Исправь ошибки.		education,communication	corrects,corrected,correcting
+oxford3000	oxford3000:eat:verb:1	eat	есть; кушать	verb	A1	[iːt]	Let's eat lunch.	Давай пообедаем.		food,daily life	eats,ate,eaten,eating
+oxford3000	oxford3000:august:noun:1	august	август	noun	A1	[ˈɔːɡəst]	We travel in August.	Мы путешествуем в августе.		time,calendar	
+oxford3000	oxford3000:cost:verb:1	cost	стоить	verb	A1	[kɒst]	How much does it cost?	Сколько это стоит?		money,shopping	costs,cost,costing
+oxford3000	oxford3000:egg:noun:1	egg	яйцо	noun	A1	[eɡ]	I had an egg for breakfast.	Я съел яйцо на завтрак.		food,daily life	eggs
+oxford3000	oxford3000:aunt:noun:1	aunt	тётя	noun	A1	[ɑːnt]	My aunt lives in London.	Моя тётя живёт в Лондоне.		family,people	aunts
+oxford3000	oxford3000:busy:adjective:1	busy	занятый	adjective	A1	[ˈbɪzi]	I am busy now.	Я сейчас занят.		work,daily life	busier,busiest
+oxford3000	oxford3000:could:verb:1	could	мог; могла; мог бы	verb	A1	[kʊd]	Could you help me?	Не мог бы ты мне помочь?		grammar,communication	
+oxford3000	oxford3000:eight:number:1	eight	восемь	number	A1	[eɪt]	There are eight chairs.	Здесь восемь стульев.		numbers,basic words	
+oxford3000	oxford3000:autumn:noun:1	autumn	осень	noun	A1	[ˈɔːtəm]	Autumn is my favourite season.	Осень — моё любимое время года.		time,nature	autumns
+oxford3000	oxford3000:but:conjunction:1	but	но	conjunction	A1	[bʌt]	I like tea, but not coffee.	Я люблю чай, но не кофе.		grammar,communication	
+oxford3000	oxford3000:country:noun:1	country	страна; сельская местность	noun	A1	[ˈkʌntri]	France is a country in Europe.	Франция — страна в Европе.		geography,place	countries
+oxford3000	oxford3000:eighteen:number:1	eighteen	восемнадцать	number	A1	[ˌeɪˈtiːn]	She is eighteen years old.	Ей восемнадцать лет.		numbers,basic words	
+oxford3000	oxford3000:away:adverb:1	away	прочь; далеко; в стороне	adverb	A1	[əˈweɪ]	Go away, please.	Пожалуйста, уйди.		movement,place	
+oxford3000	oxford3000:butter:noun:1	butter	сливочное масло	noun	A1	[ˈbʌtə]	Put some butter on the bread.	Намажь немного масла на хлеб.		food,daily life	
+oxford3000	oxford3000:course:noun:1	course	курс; блюдо	noun	A1	[kɔːs]	She is taking an English course.	Она проходит курс английского.		education,food	courses
+oxford3000	oxford3000:eighty:number:1	eighty	восемьдесят	number	A1	[ˈeɪti]	My grandfather is eighty.	Моему дедушке восемьдесят.		numbers,basic words	
+oxford3000	oxford3000:baby:noun:1	baby	младенец; малыш	noun	A1	[ˈbeɪbi]	The baby is sleeping.	Малыш спит.		family,people	babies
+oxford3000	oxford3000:buy:verb:1	buy	покупать	verb	A1	[baɪ]	I need to buy milk.	Мне нужно купить молоко.		shopping,money	buys,bought,buying
+oxford3000	oxford3000:elephant:noun:1	elephant	слон	noun	A1	[ˈelɪfənt]	An elephant is a large animal.	Слон — большое животное.		animals,nature	elephants
+oxford3000	oxford3000:back:noun:1	back	спина; задняя часть	noun	A1	[bæk]	My back hurts.	У меня болит спина.		body,place	backs
+oxford3000	oxford3000:back:adverb:1	back	назад; обратно	adverb	A1	[bæk]	Come back soon.	Возвращайся скорее.		movement,place	
+oxford3000	oxford3000:by:preposition:1	by	у; рядом с; с помощью; к	preposition	A1	[baɪ]	The hotel is by the sea.	Отель находится у моря.		grammar,place	
+oxford3000	oxford3000:cow:noun:1	cow	корова	noun	A1	[kaʊ]	The cow is in the field.	Корова в поле.		animals,nature	cows
+oxford3000	oxford3000:eleven:number:1	eleven	одиннадцать	number	A1	[ɪˈlevn]	The lesson starts at eleven.	Урок начинается в одиннадцать.		numbers,time	
+oxford3000	oxford3000:bye:exclamation:1	bye	пока; до свидания	exclamation	A1	[baɪ]	Bye! See you tomorrow.	Пока! Увидимся завтра.		communication,basic words	
+oxford3000	oxford3000:cream:noun:1	cream	сливки; крем	noun	A1	[kriːm]	Add cream to the soup.	Добавь сливки в суп.		food,daily life	creams
+oxford3000	oxford3000:else:adverb:1	else	ещё; другой	adverb	A1	[els]	What else do you need?	Что ещё тебе нужно?		grammar,communication	
+oxford3000	oxford3000:cafe:noun:1	cafe	кафе	noun	A1	[ˈkæfeɪ]	Let's meet in a cafe.	Давай встретимся в кафе.		food,place	cafes
+oxford3000	oxford3000:email:verb:1	email	отправлять по электронной почте	verb	A1	[ˈiːmeɪl]	Email me the file.	Отправь мне файл по электронной почте.		IT,communication	emails,emailed,emailing
+oxford3000	oxford3000:ball:noun:1	ball	мяч; шар	noun	A1	[bɔːl]	The children are playing with a ball.	Дети играют с мячом.		sport,daily life	balls
+oxford3000	oxford3000:cake:noun:1	cake	торт; пирог; кекс	noun	A1	[keɪk]	She made a chocolate cake.	Она приготовила шоколадный торт.		food,daily life	cakes
+oxford3000	oxford3000:end:noun:1	end	конец	noun	A1	[end]	This is the end of the story.	Это конец истории.		time,place	ends
+oxford3000	oxford3000:end:verb:1	end	заканчивать; заканчиваться	verb	A1	[end]	The film ends at nine.	Фильм заканчивается в девять.		time,basic verbs	ends,ended,ending
+oxford3000	oxford3000:banana:noun:1	banana	банан	noun	A1	[bəˈnɑːnə]	I ate a banana.	Я съел банан.		food,daily life	bananas
+oxford3000	oxford3000:call:verb:1	call	звонить; называть	verb	A1	[kɔːl]	Call me later.	Позвони мне позже.		communication,basic verbs	calls,called,calling
+oxford3000	oxford3000:call:noun:1	call	звонок; вызов	noun	A1	[kɔːl]	I missed your call.	Я пропустил твой звонок.		communication,daily life	calls
+oxford3000	oxford3000:cup:noun:1	cup	чашка; кубок	noun	A1	[kʌp]	Would you like a cup of tea?	Хочешь чашку чая?		food,daily life	cups
+oxford3000	oxford3000:enjoy:verb:1	enjoy	наслаждаться; получать удовольствие	verb	A1	[ɪnˈdʒɔɪ]	Enjoy your meal.	Приятного аппетита.		emotions,daily life	enjoys,enjoyed,enjoying
+oxford3000	oxford3000:band:noun:1	band	группа; музыкальная группа	noun	A1	[bænd]	My favourite band is playing tonight.	Моя любимая группа играет сегодня вечером.		music,people	bands
+oxford3000	oxford3000:enough:determiner:1	enough	достаточно	determiner	A1	[ɪˈnʌf]	We have enough time.	У нас достаточно времени.		grammar,basic words	
+oxford3000	oxford3000:enough:pronoun:1	enough	достаточно; хватит	pronoun	A1	[ɪˈnʌf]	That's enough.	Этого достаточно.		grammar,basic words	

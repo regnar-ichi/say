@@ -1,0 +1,101 @@
+word	type	level	transcription	translation	example_en	example_ru	topics	memory_hint	forms
+enough	adverb	A1	/ɪˈnʌf/	достаточно	We have enough time.	У нас достаточно времени.	General,Quantity		
+can	verb	A1	/kæn/	мочь; уметь	I can help you.	Я могу тебе помочь.	General,Grammar		
+cut	verb	A1	/kʌt/	резать; разрезать	Please cut the bread.	Пожалуйста, нарежь хлеб.	Actions,Food		
+euro	noun	A1	/ˈjʊərəʊ/	евро	The ticket costs ten euros.	Билет стоит десять евро.	Money,Travel		
+bath	noun	A1	/bɑːθ/	ванна	She takes a bath in the evening.	Она принимает ванну вечером.	Home,Daily life		
+even	adverb	A1	/ˈiːvən/	даже	Even children can do it.	Даже дети могут это сделать.	General,Grammar		
+front	adjective	A1	/frʌnt/	передний	Use the front door.	Используй переднюю дверь.	Place,Home		
+ice	noun	A1	/aɪs/	лёд	There is ice on the road.	На дороге лёд.	Nature,Weather		
+ice cream	noun	A1	/ˌaɪs ˈkriːm/	мороженое	I want chocolate ice cream.	Я хочу шоколадное мороженое.	Food,Daily life		
+magazine	noun	A1	/ˌmæɡəˈziːn/	журнал	She reads a fashion magazine.	Она читает модный журнал.	Media,Daily life		
+event	noun	A1	/ɪˈvent/	событие; мероприятие	The event starts at six.	Мероприятие начинается в шесть.	Social life,Time		
+full	adjective	A1	/fʊl/	полный; сытый	The bus is full.	Автобус полный.	General,Quantity		
+ever	adverb	A1	/ˈevə(r)/	когда-либо	Have you ever been to London?	Ты когда-нибудь был в Лондоне?	General,Time		
+fun	noun	A1	/fʌn/	веселье; удовольствие	We had fun at the party.	Мы хорошо повеселились на вечеринке.	Emotions,Social life		
+if	conjunction	A1	/ɪf/	если	Call me if you need help.	Позвони мне, если нужна помощь.	General,Grammar		
+every	determiner	A1	/ˈevri/	каждый	I go for a walk every day.	Я гуляю каждый день.	General,Time		
+funny	adjective	A1	/ˈfʌni/	смешной	That story is funny.	Эта история смешная.	Emotions,Descriptions		
+man	noun	A1	/mæn/	мужчина; человек	A man is waiting outside.	Мужчина ждёт снаружи.	People,General		
+everybody	pronoun	A1	/ˈevribɒdi/	все; каждый	Everybody is here.	Все здесь.	People,Grammar		
+many	determiner	A1	/ˈmeni/	много; многие	There are many books on the table.	На столе много книг.	General,Quantity		
+many	pronoun	A1	/ˈmeni/	многие	Many agree with this idea.	Многие согласны с этой идеей.	People,Quantity		
+everyone	pronoun	A1	/ˈevriwʌn/	все; каждый	Everyone needs water.	Всем нужна вода.	People,Grammar		
+game	noun	A1	/ɡeɪm/	игра	This game is easy.	Эта игра простая.	Sport,Entertainment		
+everything	pronoun	A1	/ˈevriθɪŋ/	всё	Everything is ready.	Всё готово.	General,Grammar		
+garden	noun	A1	/ˈɡɑːdn/	сад	There are flowers in the garden.	В саду есть цветы.	Home,Nature		
+in	preposition	A1	/ɪn/	в; внутри	The keys are in my bag.	Ключи в моей сумке.	Place,Grammar		
+in	adverb	A1	/ɪn/	внутрь; дома	Come in, please.	Заходи, пожалуйста.	Place,Grammar		
+march	noun	A1	/mɑːtʃ/	март	My birthday is in March.	Мой день рождения в марте.	Time,Calendar		
+exam	noun	A1	/ɪɡˈzæm/	экзамен	I have an English exam tomorrow.	Завтра у меня экзамен по английскому.	Education,Testing		
+geography	noun	A1	/dʒiˈɒɡrəfi/	география	Geography is my favourite subject.	География — мой любимый предмет.	Education,World		
+get	verb	A1	/ɡet/	получать; становиться	I get many messages every day.	Я получаю много сообщений каждый день.	Actions,General		
+married	adjective	A1	/ˈmærid/	женатый; замужняя	They are married.	Они женаты.	Family,Relationships		
+excited	adjective	A1	/ɪkˈsaɪtɪd/	взволнованный; радостный	I am excited about the trip.	Я очень рад поездке.	Emotions,Travel		
+girl	noun	A1	/ɡɜːl/	девочка; девушка	The girl is reading.	Девочка читает.	People,Family		
+interest	verb	A1	/ˈɪntrəst/	интересовать	Music interests me.	Музыка меня интересует.	Emotions,General		
+email	noun	A1	/ˈiːmeɪl/	электронное письмо; email	I sent you an email.	Я отправил тебе электронное письмо.	Communication,IT		
+email	verb	A1	/ˈiːmeɪl/	писать по электронной почте	Please email me the file.	Пожалуйста, отправь мне файл по электронной почте.	Communication,IT		
+exciting	adjective	A1	/ɪkˈsaɪtɪŋ/	увлекательный; захватывающий	The film was exciting.	Фильм был захватывающим.	Emotions,Entertainment		
+girlfriend	noun	A1	/ˈɡɜːlfrend/	девушка; подруга	He is meeting his girlfriend today.	Сегодня он встречается со своей девушкой.	People,Relationships		
+interested	adjective	A1	/ˈɪntrəstɪd/	заинтересованный	I am interested in history.	Я интересуюсь историей.	Emotions,Education		
+may	noun	A1	/meɪ/	май	School ends in May.	Школа заканчивается в мае.	Time,Calendar		
+exercise	verb	A1	/ˈeksəsaɪz/	тренироваться; упражняться	I exercise every morning.	Я тренируюсь каждое утро.	Health,Sport		
+interesting	adjective	A1	/ˈɪntrəstɪŋ/	интересный	This is an interesting book.	Это интересная книга.	Descriptions,Education		
+maybe	adverb	A1	/ˈmeɪbi/	может быть	Maybe we can go tomorrow.	Может быть, мы сможем пойти завтра.	General,Grammar		
+glass	noun	A1	/ɡlɑːs/	стакан; стекло	Can I have a glass of water?	Можно мне стакан воды?	Home,Food		
+me	pronoun	A1	/miː/	меня; мне	Please help me.	Пожалуйста, помоги мне.	People,Grammar		
+interview	verb	A1	/ˈɪntəvjuː/	брать интервью; проводить собеседование	They will interview her tomorrow.	Они проведут с ней интервью завтра.	Work,Communication		
+meal	noun	A1	/miːl/	приём пищи; еда	Breakfast is an important meal.	Завтрак — важный приём пищи.	Food,Daily life		
+extra	adjective	A1	/ˈekstrə/	дополнительный	We need extra chairs.	Нам нужны дополнительные стулья.	General,Quantity		
+into	preposition	A1	/ˈɪntə/	в; внутрь	She went into the room.	Она вошла в комнату.	Place,Grammar		
+mean	verb	A1	/miːn/	значить; иметь в виду	What does this word mean?	Что значит это слово?	Communication,Education		
+goodbye	exclamation	A1	/ˌɡʊdˈbaɪ/	до свидания	Goodbye! See you tomorrow.	До свидания! Увидимся завтра.	Communication,Social life		
+goodbye	noun	A1	/ˌɡʊdˈbaɪ/	прощание	It was a long goodbye.	Это было долгое прощание.	Communication,Social life		
+meaning	noun	A1	/ˈmiːnɪŋ/	значение; смысл	Do you know the meaning of this word?	Ты знаешь значение этого слова?	Education,Communication		
+face	noun	A1	/feɪs/	лицо	She has a friendly face.	У неё дружелюбное лицо.	Body,People		
+grandfather	noun	A1	/ˈɡrænfɑːðə(r)/	дедушка	My grandfather lives with us.	Мой дедушка живёт с нами.	Family,People		
+meat	noun	A1	/miːt/	мясо	I do not eat much meat.	Я не ем много мяса.	Food,Daily life		
+fact	noun	A1	/fækt/	факт	That is an important fact.	Это важный факт.	Education,General		
+grandmother	noun	A1	/ˈɡrænmʌðə(r)/	бабушка	My grandmother makes great soup.	Моя бабушка готовит отличный суп.	Family,People		
+it	pronoun	A1	/ɪt/	это; он; она; оно	It is cold today.	Сегодня холодно.	General,Grammar		
+meet	verb	A1	/miːt/	встречать; знакомиться	Let's meet at five.	Давай встретимся в пять.	Social life,Communication		
+fall	verb	A1	/fɔːl/	падать	Leaves fall in autumn.	Листья падают осенью.	Actions,Nature		
+grandparent	noun	A1	/ˈɡrænpeərənt/	дедушка или бабушка	One grandparent came to the school concert.	Один из бабушек или дедушек пришёл на школьный концерт.	Family,People		
+its	determiner	A1	/ɪts/	его; её; свой	The cat is washing its face.	Кот умывает свою мордочку.	General,Grammar		
+meeting	noun	A1	/ˈmiːtɪŋ/	встреча; собрание	The meeting starts at nine.	Собрание начинается в девять.	Work,Communication		
+false	adjective	A1	/fɔːls/	ложный; неверный	That answer is false.	Этот ответ неверный.	Education,Descriptions		
+great	adjective	A1	/ɡreɪt/	отличный; великий	You did a great job.	Ты отлично справился.	Descriptions,Emotions		
+jacket	noun	A1	/ˈdʒækɪt/	куртка; пиджак	Take a jacket. It is cold.	Возьми куртку. Холодно.	Clothes,Weather		
+member	noun	A1	/ˈmembə(r)/	член; участник	She is a member of the team.	Она член команды.	People,Social life		
+family	adjective	A1	/ˈfæməli/	семейный	This is a family restaurant.	Это семейный ресторан.	Family,Descriptions		
+green	adjective	A1	/ɡriːn/	зелёный	She is wearing a green dress.	На ней зелёное платье.	Colours,Descriptions		
+green	noun	A1	/ɡriːn/	зелёный цвет	Green is my favourite colour.	Зелёный — мой любимый цвет.	Colours,Descriptions		
+january	noun	A1	/ˈdʒænjuəri/	январь	January is the first month.	Январь — первый месяц.	Time,Calendar		
+menu	noun	A1	/ˈmenjuː/	меню	Can I see the menu, please?	Можно посмотреть меню?	Food,Travel		
+famous	adjective	A1	/ˈfeɪməs/	известный	She is a famous singer.	Она известная певица.	People,Descriptions		
+grey	adjective	A1	/ɡreɪ/	серый	The sky is grey today.	Сегодня небо серое.	Colours,Weather		
+grey	noun	A1	/ɡreɪ/	серый цвет	I like grey and blue.	Мне нравятся серый и синий.	Colours,Descriptions		
+jeans	noun	A1	/dʒiːnz/	джинсы	He is wearing jeans.	На нём джинсы.	Clothes,Daily life		
+fantastic	adjective	A1	/fænˈtæstɪk/	фантастический; отличный	The view is fantastic.	Вид фантастический.	Descriptions,Emotions		
+metre	noun	A1	/ˈmiːtə(r)/	метр	The table is one metre long.	Стол длиной один метр.	Measurements,General		
+far	adverb	A1	/fɑː(r)/	далеко	The station is not far.	Станция недалеко.	Place,Travel		
+join	verb	A1	/dʒɔɪn/	присоединяться	Do you want to join us?	Хочешь присоединиться к нам?	Social life,Actions		
+farm	noun	A1	/fɑːm/	ферма	They live on a farm.	Они живут на ферме.	Nature,Places		
+guess	noun	A1	/ɡes/	догадка; предположение	That is a good guess.	Это хорошая догадка.	Communication,Education		
+mile	noun	A1	/maɪl/	миля	The village is two miles away.	Деревня в двух милях отсюда.	Measurements,Travel		
+guitar	noun	A1	/ɡɪˈtɑː(r)/	гитара	He plays the guitar.	Он играет на гитаре.	Music,Entertainment		
+juice	noun	A1	/dʒuːs/	сок	I drink orange juice.	Я пью апельсиновый сок.	Food,Daily life		
+fast	adverb	A1	/fɑːst/	быстро	She runs fast.	Она быстро бегает.	Actions,Sport		
+gym	noun	A1	/dʒɪm/	спортзал; гимнастический зал	I go to the gym after school.	Я хожу в спортзал после школы.	Sport,Health		
+july	noun	A1	/dʒuˈlaɪ/	июль	We travel in July.	Мы путешествуем в июле.	Time,Calendar		
+fat	adjective	A1	/fæt/	толстый; жирный	This cheese is quite fat.	Этот сыр довольно жирный.	Descriptions,Food		
+hair	noun	A1	/heə(r)/	волосы	She has long hair.	У неё длинные волосы.	Body,People		
+june	noun	A1	/dʒuːn/	июнь	June is often warm.	В июне часто тепло.	Time,Calendar		
+minute	noun	A1	/ˈmɪnɪt/	минута	Wait a minute, please.	Подожди минуту, пожалуйста.	Time,General		
+father	noun	A1	/ˈfɑːðə(r)/	отец	My father works in a bank.	Мой отец работает в банке.	Family,People		
+half	determiner	A1	/hɑːf/	половина; пол-	Half the class is here.	Половина класса здесь.	Quantity,Grammar		
+half	pronoun	A1	/hɑːf/	половина	Half of them are ready.	Половина из них готова.	Quantity,Grammar		
+just	adverb	A1	/dʒʌst/	только что; просто	I just called you.	Я только что тебе звонил.	General,Time		
+favourite	adjective	A1	/ˈfeɪvərɪt/	любимый	This is my favourite song.	Это моя любимая песня.	Emotions,Descriptions		
+favourite	noun	A1	/ˈfeɪvərɪt/	любимец; любимая вещь	This song is my favourite.	Эта песня — моя любимая.	Emotions,Descriptions		

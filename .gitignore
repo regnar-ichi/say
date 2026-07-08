@@ -1,0 +1,25 @@
+# Local environment
+.env
+.osp/
+.vscode/
+.codex-tmp/
+_server-only/
+
+# FTP deploy state
+.ftp-deploy-sync-state.json
+
+# DB config with passwords
+/config/db.php
+
+# Logs and backups
+/storage/backups/
+/storage/logs/
+*.log
+
+# Runtime/cache
+/cache/
+/storage/cache/
+
+# OS files
+.DS_Store
+Thumbs.db

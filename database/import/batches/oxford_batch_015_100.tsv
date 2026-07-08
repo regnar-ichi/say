@@ -1,0 +1,101 @@
+source	source_key	text	translate	type	level	transcription	example	example_ru	memory_hint	topics	forms
+oxford3000	oxford3000:keep:verb:1	keep	держать; хранить; продолжать	verb	A1	[kiːp]	Keep your ticket until the end.	Сохраняй билет до конца.		daily life,actions	keeps,kept,keeping
+oxford3000	oxford3000:mistake:noun:1	mistake	ошибка	noun	A1	[mɪˈsteɪk]	I made a mistake in the answer.	Я сделал ошибку в ответе.		education,communication	mistakes
+oxford3000	oxford3000:february:noun:1	february	февраль	noun	A1	[ˈfebruəri]	My birthday is in February.	Мой день рождения в феврале.		time	
+oxford3000	oxford3000:happen:verb:1	happen	случаться; происходить	verb	A1	[ˈhæpən]	What happened yesterday?	Что случилось вчера?		daily life,events	happens,happened,happening
+oxford3000	oxford3000:key:noun:1	key	ключ	noun	A1	[kiː]	I cannot find my key.	Я не могу найти свой ключ.		daily life,home	keys
+oxford3000	oxford3000:key:adjective:1	key	ключевой; основной	adjective	A1	[kiː]	This is a key point.	Это ключевой момент.		communication,education	
+oxford3000	oxford3000:feel:verb:1	feel	чувствовать; ощущать	verb	A1	[fiːl]	I feel tired today.	Сегодня я чувствую себя уставшим.		emotions,health	feels,felt,feeling
+oxford3000	oxford3000:kilometre:noun:1	kilometre	километр	noun	A1	[ˈkɪləmiːtə(r)]	The hotel is one kilometre from here.	Отель находится в одном километре отсюда.		travel,numbers	kilometres
+oxford3000	oxford3000:feeling:noun:1	feeling	чувство; ощущение	noun	A1	[ˈfiːlɪŋ]	I had a strange feeling.	У меня было странное чувство.		emotions,health	feelings
+oxford3000	oxford3000:hard:adverb:1	hard	усердно; сильно; тяжело	adverb	A1	[hɑːd]	She works hard every day.	Она усердно работает каждый день.		work,actions	
+oxford3000	oxford3000:kind:noun:1	kind	вид; тип	noun	A1	[kaɪnd]	What kind of music do you like?	Какой вид музыки тебе нравится?		communication,basic words	kinds
+oxford3000	oxford3000:hat:noun:1	hat	шляпа; шапка	noun	A1	[hæt]	He is wearing a black hat.	На нём чёрная шляпа.		clothes,daily life	hats
+oxford3000	oxford3000:kitchen:noun:1	kitchen	кухня	noun	A1	[ˈkɪtʃɪn]	We are cooking in the kitchen.	Мы готовим на кухне.		home,food	kitchens
+oxford3000	oxford3000:monday:noun:1	monday	понедельник	noun	A1	[ˈmʌndeɪ]	The lesson is on Monday.	Урок в понедельник.		time,education	mondays
+oxford3000	oxford3000:few:determiner:1	few	несколько; мало	determiner	A1	[fjuː]	I have a few questions.	У меня есть несколько вопросов.		grammar,numbers	
+oxford3000	oxford3000:few:adjective:1	few	немногие; немногочисленные	adjective	A1	[fjuː]	Few people know this place.	Немногие люди знают это место.		grammar,people	
+oxford3000	oxford3000:few:pronoun:1	few	немногие; несколько человек или вещей	pronoun	A1	[fjuː]	A few stayed after class.	Несколько человек остались после урока.		grammar,people	
+oxford3000	oxford3000:hate:verb:1	hate	ненавидеть; очень не любить	verb	A1	[heɪt]	I hate cold weather.	Я ненавижу холодную погоду.		emotions,daily life	hates,hated,hating
+oxford3000	oxford3000:fifteen:number:1	fifteen	пятнадцать	number	A1	[ˌfɪfˈtiːn]	There are fifteen students in the room.	В комнате пятнадцать студентов.		numbers	
+oxford3000	oxford3000:have:verb:1	have	иметь; обладать	verb	A1	[hæv]	I have a new phone.	У меня есть новый телефон.		basic words,daily life	has,had,having
+oxford3000	oxford3000:month:noun:1	month	месяц	noun	A1	[mʌnθ]	January is the first month.	Январь — первый месяц.		time	months
+oxford3000	oxford3000:fifth:number:1	fifth	пятый	number	A1	[fɪfθ]	This is the fifth question.	Это пятый вопрос.		numbers,time	
+oxford3000	oxford3000:have to:verb:1	have to	быть должным; приходиться	verb	A1	[ˈhæv tə]	I have to go now.	Мне нужно идти сейчас.		grammar,daily life	has to,had to,having to
+oxford3000	oxford3000:more:determiner:1	more	больше; ещё	determiner	A1	[mɔː(r)]	We need more time.	Нам нужно больше времени.		grammar,numbers	
+oxford3000	oxford3000:more:pronoun:1	more	больше; ещё больше	pronoun	A1	[mɔː(r)]	Would you like more?	Хочешь ещё?		grammar,communication	
+oxford3000	oxford3000:more:adverb:1	more	более; больше	adverb	A1	[mɔː(r)]	Please speak more slowly.	Пожалуйста, говори медленнее.		grammar,communication	
+oxford3000	oxford3000:fifty:number:1	fifty	пятьдесят	number	A1	[ˈfɪfti]	The ticket costs fifty euros.	Билет стоит пятьдесят евро.		numbers,money	
+oxford3000	oxford3000:he:pronoun:1	he	он	pronoun	A1	[hiː]	He is my brother.	Он мой брат.		grammar,people	
+oxford3000	oxford3000:fill:verb:1	fill	наполнять; заполнять	verb	A1	[fɪl]	Please fill the bottle with water.	Пожалуйста, наполни бутылку водой.		actions,daily life	fills,filled,filling
+oxford3000	oxford3000:last:determiner:1	last	последний; прошлый	determiner	A1	[lɑːst]	I saw her last week.	Я видел её на прошлой неделе.		time,grammar	
+oxford3000	oxford3000:most:determiner:1	most	большинство; большая часть	determiner	A1	[məʊst]	Most people like music.	Большинство людей любят музыку.		grammar,people	
+oxford3000	oxford3000:most:pronoun:1	most	большинство; большая часть	pronoun	A1	[məʊst]	Most were happy with the answer.	Большинство были довольны ответом.		grammar,people	
+oxford3000	oxford3000:most:adverb:1	most	больше всего; наиболее	adverb	A1	[məʊst]	What do you like most?	Что тебе нравится больше всего?		grammar,communication	
+oxford3000	oxford3000:film:noun:1	film	фильм	noun	A1	[fɪlm]	We watched a good film.	Мы посмотрели хороший фильм.		art,entertainment	films
+oxford3000	oxford3000:health:noun:1	health	здоровье	noun	A1	[helθ]	Good food is important for health.	Хорошая еда важна для здоровья.		health,food	
+oxford3000	oxford3000:late:adjective:1	late	поздний; опоздавший	adjective	A1	[leɪt]	The train is late.	Поезд опаздывает.		time,travel	later,latest
+oxford3000	oxford3000:late:adverb:1	late	поздно	adverb	A1	[leɪt]	We arrived late.	Мы приехали поздно.		time,travel	
+oxford3000	oxford3000:mother:noun:1	mother	мать; мама	noun	A1	[ˈmʌðə(r)]	My mother is a teacher.	Моя мама — учитель.		family,people	mothers
+oxford3000	oxford3000:final:adjective:1	final	последний; финальный	adjective	A1	[ˈfaɪnl]	This is the final lesson.	Это последний урок.		education,time	
+oxford3000	oxford3000:healthy:adjective:1	healthy	здоровый; полезный для здоровья	adjective	A1	[ˈhelθi]	Fruit is a healthy snack.	Фрукты — полезный перекус.		health,food	healthier,healthiest
+oxford3000	oxford3000:later:adverb:1	later	позже	adverb	A1	[ˈleɪtə(r)]	I will call you later.	Я позвоню тебе позже.		time,communication	
+oxford3000	oxford3000:mountain:noun:1	mountain	гора	noun	A1	[ˈmaʊntən]	There is snow on the mountain.	На горе лежит снег.		nature,travel	mountains
+oxford3000	oxford3000:find:verb:1	find	находить	verb	A1	[faɪnd]	I cannot find my bag.	Я не могу найти свою сумку.		daily life,actions	finds,found,finding
+oxford3000	oxford3000:hear:verb:1	hear	слышать	verb	A1	[hɪə(r)]	Can you hear the music?	Ты слышишь музыку?		communication,body	hears,heard,hearing
+oxford3000	oxford3000:laugh:verb:1	laugh	смеяться	verb	A1	[lɑːf]	The children laugh at the joke.	Дети смеются над шуткой.		emotions,communication	laughs,laughed,laughing
+oxford3000	oxford3000:laugh:noun:1	laugh	смех	noun	A1	[lɑːf]	She has a nice laugh.	У неё приятный смех.		emotions,communication	laughs
+oxford3000	oxford3000:mouse:noun:1	mouse	мышь; компьютерная мышь	noun	A1	[maʊs]	I saw a mouse in the garden.	Я увидел мышь в саду.		animals,technology	mice,mouses
+oxford3000	oxford3000:fine:adjective:1	fine	хороший; нормальный; прекрасный	adjective	A1	[faɪn]	I feel fine today.	Сегодня я чувствую себя хорошо.		health,communication	finer,finest
+oxford3000	oxford3000:hello:exclamation:1	hello	привет; здравствуйте	exclamation	A1	[həˈləʊ]	Hello, how are you?	Привет, как дела?		communication,greetings	
+oxford3000	oxford3000:hello:noun:1	hello	приветствие; слово «привет»	noun	A1	[həˈləʊ]	She said hello with a smile.	Она сказала привет с улыбкой.		communication,greetings	hellos
+oxford3000	oxford3000:mouth:noun:1	mouth	рот	noun	A1	[maʊθ]	Open your mouth, please.	Открой рот, пожалуйста.		body,health	mouths
+oxford3000	oxford3000:help:noun:1	help	помощь	noun	A1	[help]	Thank you for your help.	Спасибо за твою помощь.		communication,daily life	
+oxford3000	oxford3000:leave:verb:1	leave	уходить; покидать; оставлять	verb	A1	[liːv]	We leave home at eight.	Мы уходим из дома в восемь.		travel,daily life	leaves,left,leaving
+oxford3000	oxford3000:move:verb:1	move	двигаться; переезжать	verb	A1	[muːv]	Please move your chair.	Пожалуйста, подвинь свой стул.		actions,daily life	moves,moved,moving
+oxford3000	oxford3000:her:pronoun:1	her	её; ей	pronoun	A1	[hə(r)]	I saw her at school.	Я видел её в школе.		grammar,people	
+oxford3000	oxford3000:her:determiner:1	her	её	determiner	A1	[hə(r)]	This is her book.	Это её книга.		grammar,people	
+oxford3000	oxford3000:left:adjective:1	left	левый; оставшийся	adjective	A1	[left]	Turn at the left corner.	Поверни на левом углу.		place,directions	
+oxford3000	oxford3000:left:adverb:1	left	налево; слева	adverb	A1	[left]	Turn left after the shop.	Поверни налево после магазина.		place,directions	
+oxford3000	oxford3000:left:noun:1	left	левая сторона	noun	A1	[left]	The bank is on the left.	Банк находится слева.		place,directions	
+oxford3000	oxford3000:movie:noun:1	movie	фильм; кино	noun	A1	[ˈmuːvi]	Let us watch a movie tonight.	Давай посмотрим фильм сегодня вечером.		art,entertainment	movies
+oxford3000	oxford3000:first:determiner:1	first	первый	determiner	A1	[fɜːst]	This is my first visit.	Это мой первый визит.		numbers,time	
+oxford3000	oxford3000:first:number:1	first	первый	number	A1	[fɜːst]	She finished first.	Она финишировала первой.		numbers,sport	
+oxford3000	oxford3000:first:adverb:1	first	сначала; сперва	adverb	A1	[fɜːst]	First, read the question.	Сначала прочитай вопрос.		time,education	
+oxford3000	oxford3000:here:adverb:1	here	здесь; сюда	adverb	A1	[hɪə(r)]	Come here, please.	Иди сюда, пожалуйста.		place,communication	
+oxford3000	oxford3000:leg:noun:1	leg	нога	noun	A1	[leɡ]	My leg hurts.	У меня болит нога.		body,health	legs
+oxford3000	oxford3000:much:determiner:1	much	много; большое количество	determiner	A1	[mʌtʃ]	There is not much water left.	Осталось немного воды.		grammar,numbers	
+oxford3000	oxford3000:much:pronoun:1	much	многое; многое количество	pronoun	A1	[mʌtʃ]	Much has changed this year.	Многое изменилось в этом году.		grammar,communication	
+oxford3000	oxford3000:much:adverb:1	much	намного; очень	adverb	A1	[mʌtʃ]	I feel much better now.	Сейчас я чувствую себя намного лучше.		grammar,health	
+oxford3000	oxford3000:fish:noun:1	fish	рыба	noun	A1	[fɪʃ]	We had fish for dinner.	На ужин у нас была рыба.		animals,food	fishes
+oxford3000	oxford3000:hey:exclamation:1	hey	эй; привет	exclamation	A1	[heɪ]	Hey, wait for me!	Эй, подожди меня!		communication,greetings	
+oxford3000	oxford3000:lesson:noun:1	lesson	урок	noun	A1	[ˈlesn]	The lesson starts at nine.	Урок начинается в девять.		education,time	lessons
+oxford3000	oxford3000:mum:noun:1	mum	мама	noun	A1	[mʌm]	My mum is at work.	Моя мама на работе.		family,people	mums
+oxford3000	oxford3000:five:number:1	five	пять	number	A1	[faɪv]	I have five books.	У меня пять книг.		numbers	
+oxford3000	oxford3000:hi:exclamation:1	hi	привет	exclamation	A1	[haɪ]	Hi, nice to meet you.	Привет, приятно познакомиться.		communication,greetings	
+oxford3000	oxford3000:let:verb:1	let	позволять; давать возможность	verb	A1	[let]	Let me help you.	Позволь мне помочь тебе.		communication,actions	lets,letting
+oxford3000	oxford3000:museum:noun:1	museum	музей	noun	A1	[mjuˈziːəm]	We visited a museum in Paris.	Мы посетили музей в Париже.		art,travel	museums
+oxford3000	oxford3000:flat:noun:1	flat	квартира	noun	A1	[flæt]	She lives in a small flat.	Она живёт в маленькой квартире.		home,place	flats
+oxford3000	oxford3000:high:adjective:1	high	высокий	adjective	A1	[haɪ]	The wall is very high.	Стена очень высокая.		place,describing things	higher,highest
+oxford3000	oxford3000:letter:noun:1	letter	письмо; буква	noun	A1	[ˈletə(r)]	I wrote a letter to my friend.	Я написал письмо другу.		communication,education	letters
+oxford3000	oxford3000:music:noun:1	music	музыка	noun	A1	[ˈmjuːzɪk]	I listen to music every day.	Я слушаю музыку каждый день.		art,entertainment	
+oxford3000	oxford3000:flight:noun:1	flight	рейс; полёт	noun	A1	[flaɪt]	Our flight is at six.	Наш рейс в шесть.		travel	flights
+oxford3000	oxford3000:him:pronoun:1	him	его; ему	pronoun	A1	[hɪm]	I called him yesterday.	Я позвонил ему вчера.		grammar,people	
+oxford3000	oxford3000:library:noun:1	library	библиотека	noun	A1	[ˈlaɪbrəri]	I study in the library.	Я занимаюсь в библиотеке.		education,place	libraries
+oxford3000	oxford3000:must:verb:1	must	должен; обязан	verb	A1	[mʌst]	You must wear a seat belt.	Ты должен пристегнуть ремень безопасности.		grammar,daily life	
+oxford3000	oxford3000:floor:noun:1	floor	пол; этаж	noun	A1	[flɔː(r)]	My bag is on the floor.	Моя сумка на полу.		home,place	floors
+oxford3000	oxford3000:his:determiner:1	his	его	determiner	A1	[hɪz]	This is his car.	Это его машина.		grammar,people	
+oxford3000	oxford3000:my:determiner:1	my	мой; моя; моё; мои	determiner	A1	[maɪ]	This is my room.	Это моя комната.		grammar,people	
+oxford3000	oxford3000:flower:noun:1	flower	цветок	noun	A1	[ˈflaʊə(r)]	This flower is beautiful.	Этот цветок красивый.		nature,home	flowers
+oxford3000	oxford3000:life:noun:1	life	жизнь	noun	A1	[laɪf]	Life in the city is busy.	Жизнь в городе насыщенная.		daily life,people	lives
+oxford3000	oxford3000:name:noun:1	name	имя; название	noun	A1	[neɪm]	What is your name?	Как тебя зовут?		communication,people	names
+oxford3000	oxford3000:name:verb:1	name	называть; давать имя	verb	A1	[neɪm]	They named the dog Max.	Они назвали собаку Макс.		communication,people	names,named,naming
+oxford3000	oxford3000:fly:verb:1	fly	летать; лететь	verb	A1	[flaɪ]	Birds can fly.	Птицы умеют летать.		animals,travel	flies,flew,flown,flying
+oxford3000	oxford3000:hobby:noun:1	hobby	хобби; увлечение	noun	A1	[ˈhɒbi]	Reading is my favourite hobby.	Чтение — моё любимое хобби.		daily life,entertainment	hobbies
+oxford3000	oxford3000:follow:verb:1	follow	следовать; идти за; подписываться	verb	A1	[ˈfɒləʊ]	Follow me to the station.	Иди за мной к станции.		actions,communication	follows,followed,following
+oxford3000	oxford3000:holiday:noun:1	holiday	праздник; отпуск; каникулы	noun	A1	[ˈhɒlədeɪ]	We are on holiday in Spain.	Мы в отпуске в Испании.		travel,time	holidays
+oxford3000	oxford3000:near:preposition:1	near	рядом с; около	preposition	A1	[nɪə(r)]	The shop is near the station.	Магазин находится рядом со станцией.		place,directions	
+oxford3000	oxford3000:near:adjective:1	near	близкий; ближайший	adjective	A1	[nɪə(r)]	The nearest shop is open.	Ближайший магазин открыт.		place,directions	nearer,nearest
+oxford3000	oxford3000:near:adverb:1	near	близко; рядом	adverb	A1	[nɪə(r)]	Come near and look.	Подойди ближе и посмотри.		place,directions	nearer,nearest
+oxford3000	oxford3000:home:noun:1	home	дом; жильё	noun	A1	[həʊm]	This is my home.	Это мой дом.		home,place	homes
+oxford3000	oxford3000:home:adverb:1	home	домой; дома	adverb	A1	[həʊm]	I am going home now.	Сейчас я иду домой.		home,place	

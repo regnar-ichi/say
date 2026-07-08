@@ -1,0 +1,42 @@
+<?php
+
+use App\Controllers\Page\WordsPageController;
+use App\Controllers\Page\HomePageController;
+use App\Controllers\Page\TestsPageController;
+use App\Controllers\Page\WordEditPageController;
+use App\Controllers\AuthController;
+use App\Controllers\Page\AiMapController;
+use App\Controllers\Page\AiDbMapController;
+use App\Controllers\Page\BackupController;
+use App\Controllers\Page\AiClickUpController;
+use App\Controllers\Page\AboutPageController;
+use App\Controllers\Page\SearchPageController;
+use App\Controllers\Page\AccountPageController;
+use App\Controllers\Page\ReaderPageController;
+use App\Controllers\Page\LibraryPageController;
+
+$router->add('', [HomePageController::class, 'index']);
+$router->add('words', [WordsPageController::class, 'index']);
+$router->add('tests', [TestsPageController::class, 'index']);
+$router->add('backup', [BackupController::class, 'index']);
+$router->add('word-edit', [WordEditPageController::class, 'index']);
+$router->add('login', [AuthController::class, 'showLogin']);
+$router->add('login', [AuthController::class, 'login'], 'POST');
+$router->add('register', [AuthController::class, 'showRegister']);
+$router->add('register', [AuthController::class, 'register'], 'POST');
+$router->add('logout', [AuthController::class, 'logout']);
+$router->add('ai-map', [AiMapController::class, 'index']);
+$router->add('ai-raw/*', [AiMapController::class, 'raw']);
+$router->add('ai-bundle', [AiMapController::class, 'bundle']);
+$router->add('ai-bundle/*', [AiMapController::class, 'bundle']);
+$router->add('ai-db-map', [AiDbMapController::class, 'index']);
+$router->add('ai-db-map/*', [AiDbMapController::class, 'table']);
+//$router->add('ai-clickup', [AiClickUpController::class, 'handle']);
+$router->add('about', [AboutPageController::class, 'index']);
+$router->add('search', [SearchPageController::class, 'index']);
+$router->add('account', [AccountPageController::class, 'index']);
+$router->add('reader', [ReaderPageController::class, 'index']);
+$router->add('library', [LibraryPageController::class, 'index']);
+$router->add('library/save-text', [LibraryPageController::class, 'saveText'], 'POST');
+$router->add('library/upload-fb2', [LibraryPageController::class, 'uploadFb2'], 'POST');
+$router->add('library/delete', [LibraryPageController::class, 'delete'], 'POST');

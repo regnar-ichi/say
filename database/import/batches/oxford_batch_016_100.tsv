@@ -1,0 +1,101 @@
+source	source_key	text	translate	type	level	transcription	example	example_ru	memory_hint	topics	forms
+oxford3000	oxford3000:like:preposition:1	like	как; подобно	preposition	A1	[laɪk]	She sings like a professional.	Она поёт как профессионал.		grammar,communication	
+oxford3000	oxford3000:foot:noun:1	foot	ступня; фут	noun	A1	[fʊt]	My left foot hurts.	У меня болит левая ступня.		body,health	feet
+oxford3000	oxford3000:homework:noun:1	homework	домашнее задание	noun	A1	[ˈhəʊmwɜːk]	I finished my homework after dinner.	Я закончил домашнее задание после ужина.		education,daily life	
+oxford3000	oxford3000:like:verb:1	like	нравиться; любить	verb	A1	[laɪk]	I like this song.	Мне нравится эта песня.		communication,daily life	likes,liked,liking
+oxford3000	oxford3000:football:noun:1	football	футбол	noun	A1	[ˈfʊtbɔːl]	We play football on Saturday.	Мы играем в футбол в субботу.		sport,daily life	footballs
+oxford3000	oxford3000:hope:verb:1	hope	надеяться	verb	A1	[həʊp]	I hope you feel better soon.	Я надеюсь, что тебе скоро станет лучше.		communication,emotions	hopes,hoped,hoping
+oxford3000	oxford3000:neighbour:noun:1	neighbour	сосед; соседка	noun	A1	[ˈneɪbə(r)]	Our neighbour is very friendly.	Наш сосед очень дружелюбный.		people,home	neighbours
+oxford3000	oxford3000:for:preposition:1	for	для; за; в течение	preposition	A1	[fə(r)]	This present is for you.	Этот подарок для тебя.		grammar,communication	
+oxford3000	oxford3000:horse:noun:1	horse	лошадь	noun	A1	[hɔːs]	The horse is running in the field.	Лошадь бежит по полю.		animals,nature	horses
+oxford3000	oxford3000:lion:noun:1	lion	лев	noun	A1	[ˈlaɪən]	A lion is a strong animal.	Лев — сильное животное.		animals,nature	lions
+oxford3000	oxford3000:list:verb:1	list	перечислять; вносить в список	verb	A1	[lɪst]	List three things you need.	Перечисли три вещи, которые тебе нужны.		education,communication	lists,listed,listing
+oxford3000	oxford3000:form:verb:1	form	образовывать; формировать	verb	A1	[fɔːm]	Clouds form in the sky.	Облака образуются в небе.		education,nature	forms,formed,forming
+oxford3000	oxford3000:news:noun:1	news	новости	noun	A1	[njuːz]	I read the news every morning.	Я читаю новости каждое утро.		communication,daily life	
+oxford3000	oxford3000:forty:number:1	forty	сорок	number	A1	[ˈfɔːti]	There are forty chairs in the hall.	В зале сорок стульев.		numbers	
+oxford3000	oxford3000:little:adjective:1	little	маленький; небольшой	adjective	A1	[ˈlɪtl]	They live in a little house.	Они живут в маленьком доме.		daily life,home	littler,littlest
+oxford3000	oxford3000:little:determiner:1	little	мало; немного	determiner	A1	[ˈlɪtl]	There is little time left.	Осталось мало времени.		grammar,time	
+oxford3000	oxford3000:little:pronoun:1	little	мало; небольшое количество	pronoun	A1	[ˈlɪtl]	Little was known about the plan.	О плане было мало что известно.		grammar,communication	
+oxford3000	oxford3000:newspaper:noun:1	newspaper	газета	noun	A1	[ˈnjuːzpeɪpə(r)]	My father reads a newspaper at breakfast.	Мой отец читает газету за завтраком.		communication,daily life	newspapers
+oxford3000	oxford3000:four:number:1	four	четыре	number	A1	[fɔː(r)]	I have four pencils.	У меня четыре карандаша.		numbers	
+oxford3000	oxford3000:hour:noun:1	hour	час	noun	A1	[ˈaʊə(r)]	The lesson lasts one hour.	Урок длится один час.		time,education	hours
+oxford3000	oxford3000:live:verb:1	live	жить	verb	A1	[lɪv]	I live near the park.	Я живу рядом с парком.		home,daily life	lives,lived,living
+oxford3000	oxford3000:next:adjective:1	next	следующий; ближайший	adjective	A1	[nekst]	The next train leaves at six.	Следующий поезд отправляется в шесть.		time,travel	
+oxford3000	oxford3000:next:adverb:1	next	затем; потом; дальше	adverb	A1	[nekst]	What happened next?	Что случилось потом?		time,communication	
+oxford3000	oxford3000:fourteen:number:1	fourteen	четырнадцать	number	A1	[ˌfɔːˈtiːn]	She is fourteen years old.	Ей четырнадцать лет.		numbers,people	
+oxford3000	oxford3000:next to:preposition:1	next to	рядом с; около	preposition	A1	[ˈnekst tə]	The bank is next to the hotel.	Банк находится рядом с отелем.		place,directions	
+oxford3000	oxford3000:fourth:number:1	fourth	четвёртый	number	A1	[fɔːθ]	This is the fourth page.	Это четвёртая страница.		numbers,education	
+oxford3000	oxford3000:how:adverb:1	how	как; каким образом; насколько	adverb	A1	[haʊ]	How do you spell your name?	Как пишется твоё имя?		grammar,communication	
+oxford3000	oxford3000:long:adjective:1	long	длинный; долгий	adjective	A1	[lɒŋ]	It was a long journey.	Это было долгое путешествие.		time,travel	longer,longest
+oxford3000	oxford3000:long:adverb:1	long	долго	adverb	A1	[lɒŋ]	Have you lived here long?	Ты давно здесь живёшь?		time,communication	longer,longest
+oxford3000	oxford3000:nice:adjective:1	nice	приятный; хороший	adjective	A1	[naɪs]	She is a nice person.	Она приятный человек.		people,communication	nicer,nicest
+oxford3000	oxford3000:however:adverb:1	however	однако; тем не менее	adverb	A1	[haʊˈevə(r)]	It was cold; however, we went outside.	Было холодно; однако мы вышли на улицу.		communication,grammar	
+oxford3000	oxford3000:night:noun:1	night	ночь	noun	A1	[naɪt]	I sleep at night.	Я сплю ночью.		time,daily life	nights
+oxford3000	oxford3000:friday:noun:1	friday	пятница	noun	A1	[ˈfraɪdeɪ]	We have a test on Friday.	У нас тест в пятницу.		time,education	fridays
+oxford3000	oxford3000:hundred:number:1	hundred	сто; сотня	number	A1	[ˈhʌndrəd]	The book has one hundred pages.	В книге сто страниц.		numbers	hundreds
+oxford3000	oxford3000:nine:number:1	nine	девять	number	A1	[naɪn]	The class starts at nine.	Урок начинается в девять.		numbers,time	
+oxford3000	oxford3000:hungry:adjective:1	hungry	голодный	adjective	A1	[ˈhʌŋɡri]	I am hungry after school.	Я голоден после школы.		food,body	hungrier,hungriest
+oxford3000	oxford3000:lot:pronoun:1	lot	много; многое	pronoun	A1	[lɒt]	A lot has changed.	Многое изменилось.		grammar,communication	
+oxford3000	oxford3000:lot:determiner:1	lot	много; множество	determiner	A1	[lɒt]	There are a lot of people here.	Здесь много людей.		grammar,people	
+oxford3000	oxford3000:lot:adverb:1	lot	много; очень	adverb	A1	[lɒt]	I like it a lot.	Мне это очень нравится.		grammar,communication	
+oxford3000	oxford3000:nineteen:number:1	nineteen	девятнадцать	number	A1	[ˌnaɪnˈtiːn]	There are nineteen students today.	Сегодня девятнадцать студентов.		numbers,education	
+oxford3000	oxford3000:husband:noun:1	husband	муж	noun	A1	[ˈhʌzbənd]	Her husband works in an office.	Её муж работает в офисе.		people,daily life	husbands
+oxford3000	oxford3000:love:noun:1	love	любовь	noun	A1	[lʌv]	Their love was strong.	Их любовь была сильной.		people,emotions	
+oxford3000	oxford3000:love:verb:1	love	любить	verb	A1	[lʌv]	I love my family.	Я люблю свою семью.		people,emotions	loves,loved,loving
+oxford3000	oxford3000:ninety:number:1	ninety	девяносто	number	A1	[ˈnaɪnti]	My grandfather is ninety.	Моему дедушке девяносто.		numbers,people	
+oxford3000	oxford3000:from:preposition:1	from	из; от; с	preposition	A1	[frɒm]	She is from Canada.	Она из Канады.		grammar,place	
+oxford3000	oxford3000:i:pronoun:1	i	я	pronoun	A1	[aɪ]	I am ready.	Я готов.		grammar,people	
+oxford3000	oxford3000:lunch:noun:1	lunch	обед; ланч	noun	A1	[lʌntʃ]	We have lunch at one o’clock.	Мы обедаем в час.		food,daily life	lunches
+oxford3000	oxford3000:no:exclamation:1	no	нет	exclamation	A1	[nəʊ]	No, I cannot come today.	Нет, я не могу прийти сегодня.		communication,grammar	
+oxford3000	oxford3000:no:determiner:1	no	никакой; ни один	determiner	A1	[nəʊ]	There is no milk in the fridge.	В холодильнике нет молока.		grammar,food	
+oxford3000	oxford3000:no one:pronoun:1	no one	никто	pronoun	A1	[nəʊ wʌn]	No one answered the phone.	Никто не ответил на звонок.		grammar,people	
+oxford3000	oxford3000:saturday:noun:1	saturday	суббота	noun	A1	[ˈsætədeɪ]	I play football on Saturday.	Я играю в футбол в субботу.		time,sport	saturdays
+oxford3000	oxford3000:statement:noun:1	statement	утверждение; заявление	noun	A1	[ˈsteɪtmənt]	The statement is true.	Это утверждение верно.		communication,education	statements
+oxford3000	oxford3000:nobody:pronoun:1	nobody	никто	pronoun	A1	[ˈnəʊbədi]	Nobody was at home.	Дома никого не было.		grammar,people	
+oxford3000	oxford3000:plan:noun:1	plan	план	noun	A1	[plæn]	We need a plan for the trip.	Нам нужен план поездки.		travel,work	plans
+oxford3000	oxford3000:plan:verb:1	plan	планировать	verb	A1	[plæn]	They plan to visit London.	Они планируют посетить Лондон.		travel,work	plans,planned,planning
+oxford3000	oxford3000:say:verb:1	say	говорить; сказать	verb	A1	[seɪ]	What did you say?	Что ты сказал?		communication,basic words	says,said,saying
+oxford3000	oxford3000:north:noun:1	north	север	noun	A1	[nɔːθ]	The wind comes from the north.	Ветер дует с севера.		place,nature	
+oxford3000	oxford3000:north:adjective:1	north	северный	adjective	A1	[nɔːθ]	We live on the north side of the city.	Мы живём на северной стороне города.		place,directions	
+oxford3000	oxford3000:north:adverb:1	north	на север; к северу	adverb	A1	[nɔːθ]	Drive north for ten kilometres.	Едьте на север десять километров.		place,directions	
+oxford3000	oxford3000:plane:noun:1	plane	самолёт	noun	A1	[pleɪn]	The plane lands at noon.	Самолёт приземляется в полдень.		travel,technology	planes
+oxford3000	oxford3000:stay:verb:1	stay	оставаться; останавливаться	verb	A1	[steɪ]	We will stay at a hotel.	Мы остановимся в отеле.		travel,daily life	stays,stayed,staying
+oxford3000	oxford3000:nose:noun:1	nose	нос	noun	A1	[nəʊz]	My nose is cold.	У меня холодный нос.		body,health	noses
+oxford3000	oxford3000:still:adverb:1	still	всё ещё; до сих пор	adverb	A1	[stɪl]	She is still at school.	Она всё ещё в школе.		time,grammar	
+oxford3000	oxford3000:not:adverb:1	not	не	adverb	A1	[nɒt]	I am not tired.	Я не устал.		grammar,basic words	
+oxford3000	oxford3000:play:verb:1	play	играть	verb	A1	[pleɪ]	Children play in the park.	Дети играют в парке.		sport,daily life	plays,played,playing
+oxford3000	oxford3000:play:noun:1	play	пьеса; игра	noun	A1	[pleɪ]	We watched a play at the theatre.	Мы посмотрели пьесу в театре.		art,entertainment	plays
+oxford3000	oxford3000:stop:verb:1	stop	останавливать; прекращать	verb	A1	[stɒp]	Please stop talking.	Пожалуйста, перестань говорить.		actions,communication	stops,stopped,stopping
+oxford3000	oxford3000:stop:noun:1	stop	остановка; прекращение	noun	A1	[stɒp]	The bus stop is near my house.	Автобусная остановка рядом с моим домом.		travel,place	stops
+oxford3000	oxford3000:note:noun:1	note	заметка; записка; нота	noun	A1	[nəʊt]	I wrote a note in my book.	Я написал заметку в книге.		education,communication	notes
+oxford3000	oxford3000:player:noun:1	player	игрок	noun	A1	[ˈpleɪə(r)]	He is a good tennis player.	Он хороший теннисист.		sport,people	players
+oxford3000	oxford3000:nothing:pronoun:1	nothing	ничего	pronoun	A1	[ˈnʌθɪŋ]	There is nothing in the box.	В коробке ничего нет.		grammar,daily life	
+oxford3000	oxford3000:please:exclamation:1	please	пожалуйста	exclamation	A1	[pliːz]	Please open the window.	Пожалуйста, открой окно.		communication,grammar	
+oxford3000	oxford3000:november:noun:1	november	ноябрь	noun	A1	[nəʊˈvembə(r)]	My course starts in November.	Мой курс начинается в ноябре.		time,education	
+oxford3000	oxford3000:strong:adjective:1	strong	сильный; крепкий	adjective	A1	[strɒŋ]	He is strong and healthy.	Он сильный и здоровый.		body,health	stronger,strongest
+oxford3000	oxford3000:now:adverb:1	now	сейчас; теперь	adverb	A1	[naʊ]	I am ready now.	Сейчас я готов.		time,communication	
+oxford3000	oxford3000:police:noun:1	police	полиция	noun	A1	[pəˈliːs]	The police arrived quickly.	Полиция быстро приехала.		people,work	
+oxford3000	oxford3000:second:noun:1	second	секунда; мгновение	noun	A1	[ˈsekənd]	Wait a second, please.	Подожди секунду, пожалуйста.		time,numbers	seconds
+oxford3000	oxford3000:number:noun:1	number	число; номер	noun	A1	[ˈnʌmbə(r)]	What is your phone number?	Какой у тебя номер телефона?		numbers,communication	numbers
+oxford3000	oxford3000:policeman:noun:1	policeman	полицейский	noun	A1	[pəˈliːsmən]	A policeman helped us cross the road.	Полицейский помог нам перейти дорогу.		people,work	policemen
+oxford3000	oxford3000:study:noun:1	study	учёба; изучение	noun	A1	[ˈstʌdi]	The study of English takes time.	Изучение английского требует времени.		education,work	studies
+oxford3000	oxford3000:study:verb:1	study	учиться; изучать	verb	A1	[ˈstʌdi]	I study English every day.	Я изучаю английский каждый день.		education,work	studies,studied,studying
+oxford3000	oxford3000:nurse:noun:1	nurse	медсестра; медбрат	noun	A1	[nɜːs]	The nurse checked my temperature.	Медсестра измерила мне температуру.		health,work	nurses
+oxford3000	oxford3000:pool:noun:1	pool	бассейн; водоём	noun	A1	[puːl]	The children swim in the pool.	Дети плавают в бассейне.		sport,place	pools
+oxford3000	oxford3000:poor:adjective:1	poor	бедный; плохой; слабый	adjective	A1	[pɔː(r)]	The family was poor but happy.	Семья была бедной, но счастливой.		people,money	poorer,poorest
+oxford3000	oxford3000:o'clock:adverb:1	o'clock	часов; по часам	adverb	A1	[əˈklɒk]	The meeting starts at three o’clock.	Встреча начинается в три часа.		time,numbers	
+oxford3000	oxford3000:popular:adjective:1	popular	популярный	adjective	A1	[ˈpɒpjələ(r)]	This song is very popular.	Эта песня очень популярна.		art,people	more popular,most popular
+oxford3000	oxford3000:october:noun:1	october	октябрь	noun	A1	[ɒkˈtəʊbə(r)]	School starts in October here.	Здесь школа начинается в октябре.		time,education	
+oxford3000	oxford3000:sugar:noun:1	sugar	сахар	noun	A1	[ˈʃʊɡə(r)]	Do you want sugar in your tea?	Ты хочешь сахар в чай?		food,daily life	
+oxford3000	oxford3000:of:preposition:1	of	из; от; принадлежность	preposition	A1	[əv]	This is a photo of my family.	Это фотография моей семьи.		grammar,basic words	
+oxford3000	oxford3000:september:noun:1	september	сентябрь	noun	A1	[sepˈtembə(r)]	My classes begin in September.	Мои занятия начинаются в сентябре.		time,education	
+oxford3000	oxford3000:off:adverb:1	off	выключено; прочь; далеко	adverb	A1	[ɒf]	Please turn the light off.	Пожалуйста, выключи свет.		daily life,actions	
+oxford3000	oxford3000:off:preposition:1	off	с; от; вне	preposition	A1	[ɒf]	He fell off his bike.	Он упал с велосипеда.		place,actions	
+oxford3000	oxford3000:post:noun:1	post	почта; сообщение; должность	noun	A1	[pəʊst]	I saw your post online.	Я увидел твоё сообщение в интернете.		communication,technology	posts
+oxford3000	oxford3000:post:verb:1	post	отправлять; публиковать	verb	A1	[pəʊst]	I will post the letter today.	Я отправлю письмо сегодня.		communication,technology	posts,posted,posting
+oxford3000	oxford3000:seven:number:1	seven	семь	number	A1	[ˈsevn]	There are seven days in a week.	В неделе семь дней.		numbers,time	
+oxford3000	oxford3000:office:noun:1	office	офис; кабинет	noun	A1	[ˈɒfɪs]	She works in an office.	Она работает в офисе.		work,place	offices
+oxford3000	oxford3000:potato:noun:1	potato	картофель; картофелина	noun	A1	[pəˈteɪtəʊ]	I need one potato for the soup.	Мне нужна одна картофелина для супа.		food,daily life	potatoes
+oxford3000	oxford3000:seventeen:number:1	seventeen	семнадцать	number	A1	[ˌsevnˈtiːn]	He is seventeen years old.	Ему семнадцать лет.		numbers,people	
+oxford3000	oxford3000:sunday:noun:1	sunday	воскресенье	noun	A1	[ˈsʌndeɪ]	We visit our grandparents on Sunday.	Мы навещаем бабушку и дедушку в воскресенье.		time,people	sundays
+oxford3000	oxford3000:pound:noun:1	pound	фунт; фунт стерлингов	noun	A1	[paʊnd]	The ticket costs ten pounds.	Билет стоит десять фунтов.		money,numbers	pounds

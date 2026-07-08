@@ -1,0 +1,101 @@
+text	translate	type	level	transcription	example	example_ru	memory_hint	topics
+apple	яблоко	noun	A1	[ˈæpəl]	I eat an apple every morning.	Я ем яблоко каждое утро.	Apple похоже на “аппетит”: яблоко часто вызывает аппетит.	food,daily life
+book	книга	noun	A1	[bʊk]	This book is easy to read.	Эту книгу легко читать.	Book звучит коротко, как “бук”: буквы живут в книге.	education,daily life
+table	стол	noun	A1	[ˈteɪbəl]	Put the cup on the table.	Поставь чашку на стол.	Table можно представить как “табло” на столе: обе вещи плоские перед глазами.	home,daily life
+chair	стул	noun	A1	[tʃeə]	She sat on a chair.	Она села на стул.	Chair звучит как “чей?” — чей это стул?	home,daily life
+water	вода	noun	A1	[ˈwɔːtə]	Can I have some water?	Можно мне немного воды?	Water ассоциируй с кулером: вода в бутылке.	food,daily life
+family	семья	noun	A1	[ˈfæməli]	My family lives in a small town.	Моя семья живёт в маленьком городе.	Family похоже на “фамилия”: семья часто имеет одну фамилию.	people,daily life
+friend	друг	noun	A1	[frend]	My friend called me yesterday.	Мой друг позвонил мне вчера.	Friend похож на “френд” в соцсетях — это друг.	people,daily life
+school	школа	noun	A1	[skuːl]	The children go to school.	Дети ходят в школу.	School легко связать со словом “школа”: звучание очень близкое.	education,daily life
+teacher	учитель	noun	A1	[ˈtiːtʃə]	The teacher explained the rule.	Учитель объяснил правило.	Teacher — тот, кто teaches, то есть учит.	education,people
+student	студент	noun	A1	[ˈstjuːdənt]	She is a new student.	Она новая студентка.	Student почти как “студент” по-русски.	education,people
+house	дом	noun	A1	[haʊs]	They bought a small house.	Они купили маленький дом.	House звучит как “хаус”: представь большой дом в стиле house music.	home,daily life
+room	комната	noun	A1	[ruːm]	My room is very small.	Моя комната очень маленькая.	Room похоже на “рум” в hotel room — комната.	home,daily life
+door	дверь	noun	A1	[dɔː]	Please close the door.	Пожалуйста, закрой дверь.	Door звучит как “дорога”: дверь открывает дорогу в комнату.	home,daily life
+window	окно	noun	A1	[ˈwɪndəʊ]	Open the window, please.	Открой окно, пожалуйста.	Window содержит wind: через окно может дуть ветер.	home,daily life
+city	город	noun	A1	[ˈsɪti]	Kyiv is a big city.	Киев — большой город.	City похоже на “сити” в названиях районов и бизнес-центров.	city,travel
+street	улица	noun	A1	[striːt]	The shop is on this street.	Магазин находится на этой улице.	Street вспоминай как “стрит” в street food — еда на улице.	city,daily life
+car	машина	noun	A1	[kɑː]	His car is red.	Его машина красная.	Car короткое как звук мотора: кар-кар, машина едет.	transport,daily life
+bus	автобус	noun	A1	[bʌs]	We took a bus to the city center.	Мы поехали на автобусе в центр города.	Bus почти спрятан в слове “автобус”.	transport,city
+train	поезд	noun	A1	[treɪn]	The train leaves at nine.	Поезд отправляется в девять.	Train можно связать с “тренироваться”: поезд тренирует рельсы каждый день.	transport,travel
+ticket	билет	noun	A1	[ˈtɪkɪt]	I bought a ticket online.	Я купил билет онлайн.	Ticket звучит как “тикет” — так часто говорят про билет или заявку.	travel,transport
+food	еда	noun	A1	[fuːd]	The food is ready.	Еда готова.	Food звучит как “фуд” в food court — место с едой.	food,daily life
+bread	хлеб	noun	A1	[bred]	I need some bread.	Мне нужен хлеб.	Bread звучит как “бред”: без хлеба завтрак — бред.	food,daily life
+milk	молоко	noun	A1	[mɪlk]	She drinks milk every day.	Она пьёт молоко каждый день.	Milk похоже на “милк” из milkshake — молочный коктейль.	food,daily life
+coffee	кофе	noun	A1	[ˈkɒfi]	He drinks coffee in the morning.	Он пьёт кофе утром.	Coffee почти как “кофе”, только английское звучание.	food,daily life
+tea	чай	noun	A1	[tiː]	Would you like some tea?	Хотите чаю?	Tea звучит как буква T: представь чашку чая в форме T.	food,daily life
+work	работа	noun	A1	[wɜːk]	I have a lot of work today.	У меня сегодня много работы.	Work звучит тяжело: “ворк” — работа, которую нужно ворочать.	work,daily life
+job	работа; должность	noun	A1	[dʒɒb]	She found a new job.	Она нашла новую работу.	Job короткое как “Джобс”: Стив Джобс — человек работы и бизнеса.	work,daily life
+money	деньги	noun	A1	[ˈmʌni]	I don't have much money.	У меня не так много денег.	Money похоже на “мани” — так часто говорят о деньгах.	money,daily life
+shop	магазин	noun	A1	[ʃɒp]	There is a small shop near my house.	Рядом с моим домом есть маленький магазин.	Shop звучит как “шопинг”: магазин и покупки.	shopping,daily life
+price	цена	noun	A1	[praɪs]	What is the price of this bag?	Какая цена этой сумки?	Price похож на “прайс” — список цен.	shopping,money
+big	большой	adjective	A1	[bɪɡ]	They live in a big house.	Они живут в большом доме.	Big короткое и “большое”: представь огромную букву B.	basic adjectives,daily life
+small	маленький	adjective	A1	[smɔːl]	This is a small problem.	Это маленькая проблема.	Small звучит мягко и мелко: маленькая капля смолы.	basic adjectives,daily life
+new	новый	adjective	A1	[njuː]	I bought a new phone.	Я купил новый телефон.	New похоже на “нью” в New York — новый город в названии.	basic adjectives,daily life
+old	старый	adjective	A1	[əʊld]	This is an old photo.	Это старая фотография.	Old похоже на “олд” в old school — старая школа.	basic adjectives,daily life
+good	хороший	adjective	A1	[ɡʊd]	This is a good idea.	Это хорошая идея.	Good звучит как “гуд” — часто значит хорошо.	basic adjectives,daily life
+bad	плохой	adjective	A1	[bæd]	The weather is bad today.	Сегодня плохая погода.	Bad похоже на “бэд” в bad guy — плохой парень.	basic adjectives,daily life
+happy	счастливый	adjective	A1	[ˈhæpi]	She looks happy.	Она выглядит счастливой.	Happy похоже на “хэппи” в Happy Birthday.	emotions,daily life
+sad	грустный	adjective	A1	[sæd]	He felt sad after the movie.	Он почувствовал грусть после фильма.	Sad короткое и грустное: звук как вздох.	emotions,daily life
+hot	горячий; жаркий	adjective	A1	[hɒt]	The soup is too hot.	Суп слишком горячий.	Hot вспоминай как hot dog — горячая еда.	weather,food
+cold	холодный	adjective	A1	[kəʊld]	It is cold outside.	На улице холодно.	Cold звучит как “колд”: колет холодом.	weather,daily life
+go	идти; ехать	verb	A1	[ɡəʊ]	I go to work by bus.	Я езжу на работу автобусом.	Go — короткая команда: “го!” значит пошли.	basic verbs,daily life
+come	приходить	verb	A1	[kʌm]	Please come here.	Пожалуйста, подойди сюда.	Come похоже на “кам”: come here — кам хиар, иди сюда.	basic verbs,daily life
+see	видеть	verb	A1	[siː]	I can see the river.	Я вижу реку.	See звучит как “смотри”: глазами see.	basic verbs,daily life
+look	смотреть	verb	A1	[lʊk]	Look at this picture.	Посмотри на эту картинку.	Look похоже на “лук”: посмотри на лук на кухне.	basic verbs,daily life
+make	делать; создавать	verb	A1	[meɪk]	Can you make dinner?	Ты можешь приготовить ужин?	Make вспоминай как “мейкер”: maker делает вещи.	basic verbs,work
+take	брать	verb	A1	[teɪk]	Take this book, please.	Возьми эту книгу, пожалуйста.	Take звучит как “тейк” в take away — взять с собой.	basic verbs,daily life
+give	давать	verb	A1	[ɡɪv]	Give me your phone number.	Дай мне свой номер телефона.	Give похоже на giveaway — раздача, когда дают подарки.	basic verbs,daily life
+want	хотеть	verb	A1	[wɒnt]	I want a glass of water.	Я хочу стакан воды.	Want звучит как “вон то”: хочу вон то.	basic verbs,daily life
+need	нуждаться; нужно	verb	A1	[niːd]	I need your help.	Мне нужна твоя помощь.	Need похоже на “нить”: нужна нить, чтобы починить одежду.	basic verbs,daily life
+like	нравиться	verb	A1	[laɪk]	I like this song.	Мне нравится эта песня.	Like знакомо по лайкам: если нравится — ставишь like.	emotions,daily life
+know	знать	verb	A1	[nəʊ]	I know the answer.	Я знаю ответ.	Know звучит как “ноу”: знай, что k не читается.	basic verbs,education
+think	думать	verb	A1	[θɪŋk]	I think it is true.	Я думаю, что это правда.	Think начинается как “синк”: синхронизируй мысли — думай.	basic verbs,daily life
+speak	говорить	verb	A1	[spiːk]	Do you speak English?	Вы говорите по-английски?	Speak вспоминай как speaker — тот, кто говорит.	communication,education
+read	читать	verb	A1	[riːd]	I read books in English.	Я читаю книги на английском.	Read похоже на reader — читатель.	education,daily life
+write	писать	verb	A1	[raɪt]	Write your name here.	Напишите своё имя здесь.	Write звучит как right: писать правильно — write right.	education,daily life
+listen	слушать	verb	A1	[ˈlɪsən]	Listen to the teacher.	Слушай учителя.	Listen — представь лист, который тихо падает: слушаешь тишину.	communication,education
+ask	спрашивать	verb	A1	[ɑːsk]	Can I ask a question?	Можно задать вопрос?	Ask короткое как вопрос: “аск?” — спроси.	communication,education
+answer	отвечать; ответ	verb	A1	[ˈɑːnsə]	Please answer the question.	Пожалуйста, ответь на вопрос.	Answer звучит как “ансвер”: ответ на вопрос.	communication,education
+help	помогать; помощь	verb	A1	[help]	Can you help me?	Ты можешь мне помочь?	Help часто слышно в фильмах: help! — помогите!	communication,daily life
+learn	учить; изучать	verb	A1	[lɜːn]	I learn English every day.	Я учу английский каждый день.	Learn похоже на learner — ученик, изучающий язык.	education,daily life
+weather	погода	noun	A1	[ˈweðə]	The weather is nice today.	Сегодня хорошая погода.	Weather содержит wet: погода часто бывает мокрой.	weather,daily life
+rain	дождь	noun	A1	[reɪn]	The rain started in the evening.	Дождь начался вечером.	Rain звучит как “рейн”: представь raincoat — плащ от дождя.	weather,daily life
+snow	снег	noun	A1	[snəʊ]	The snow is beautiful.	Снег красивый.	Snow похоже на “сноу” в snowboard — доска для снега.	weather,daily life
+sun	солнце	noun	A1	[sʌn]	The sun is very bright.	Солнце очень яркое.	Sun звучит как “сан”: San часто ассоциируется с солнечными местами.	weather,nature
+wind	ветер	noun	A1	[wɪnd]	The wind is strong today.	Сегодня сильный ветер.	Wind похож на window: ветер часто дует в окно.	weather,nature
+doctor	врач	noun	A1	[ˈdɒktə]	You should see a doctor.	Тебе стоит обратиться к врачу.	Doctor почти как “доктор” по-русски.	health,people
+hospital	больница	noun	A1	[ˈhɒspɪtəl]	He works in a hospital.	Он работает в больнице.	Hospital похоже на “госпиталь”.	health,city
+medicine	лекарство	noun	A2	[ˈmedsən]	Take this medicine twice a day.	Принимай это лекарство два раза в день.	Medicine похоже на “медицина”: лекарство связано с медициной.	health,daily life
+head	голова	noun	A1	[hed]	My head hurts.	У меня болит голова.	Head вспоминай как header: верхняя часть страницы, как голова сверху.	body,health
+hand	рука; кисть	noun	A1	[hænd]	She held the cup in her hand.	Она держала чашку в руке.	Hand похоже на handmade — сделано руками.	body,daily life
+eye	глаз	noun	A1	[aɪ]	Close your eyes.	Закрой глаза.	Eye звучит как буква I: один глаз похож на точку над i.	body,health
+phone	телефон	noun	A1	[fəʊn]	My phone is on the table.	Мой телефон на столе.	Phone похоже на “фон” в смартфон.	technology,daily life
+computer	компьютер	noun	A1	[kəmˈpjuːtə]	I use a computer for work.	Я использую компьютер для работы.	Computer почти как “компьютер” по-русски.	technology,work
+internet	интернет	noun	A1	[ˈɪntənet]	The internet is slow today.	Интернет сегодня медленный.	Internet почти как “интернет”, только английское произношение.	technology,daily life
+message	сообщение	noun	A1	[ˈmesɪdʒ]	I sent her a message.	Я отправил ей сообщение.	Message похоже на “месседж” — сообщение.	technology,communication
+photo	фото	noun	A1	[ˈfəʊtəʊ]	This photo is beautiful.	Это фото красивое.	Photo почти как “фото”.	technology,daily life
+travel	путешествовать	verb	A1	[ˈtrævəl]	They travel every summer.	Они путешествуют каждое лето.	Travel похоже на “тревел” из travel-блогов.	travel,daily life
+hotel	отель	noun	A1	[həʊˈtel]	We stayed in a small hotel.	Мы остановились в маленьком отеле.	Hotel почти как “отель”.	travel,city
+airport	аэропорт	noun	A1	[ˈeəpɔːt]	The airport is far from the city.	Аэропорт далеко от города.	Airport = air + port: воздушный порт.	travel,transport
+map	карта	noun	A1	[mæp]	Look at the map.	Посмотри на карту.	Map короткое как “мапа” в украинском — карта.	travel,city
+bag	сумка	noun	A1	[bæɡ]	Her bag is black.	Её сумка чёрная.	Bag звучит как “бэг” в backpack — сумка-рюкзак.	travel,daily life
+shirt	рубашка	noun	A1	[ʃɜːt]	He is wearing a white shirt.	На нём белая рубашка.	Shirt похоже на T-shirt — футболка, одежда для верха.	clothes,daily life
+shoes	обувь; туфли	noun	A1	[ʃuːz]	These shoes are comfortable.	Эта обувь удобная.	Shoes звучит как “шузы” — разговорно про обувь.	clothes,daily life
+coat	пальто	noun	A1	[kəʊt]	Take your coat; it is cold.	Возьми пальто, холодно.	Coat похоже на “кот”: кот спрятался в пальто.	clothes,weather
+color	цвет	noun	A1	[ˈkʌlə]	What color is your car?	Какого цвета твоя машина?	Color похоже на “колор” — цвет.	basic adjectives,daily life
+red	красный	adjective	A1	[red]	The apple is red.	Яблоко красное.	Red звучит резко, как красный сигнал стоп.	colors,daily life
+black	чёрный	adjective	A1	[blæk]	She has a black bag.	У неё чёрная сумка.	Black вспоминай как black coffee — чёрный кофе.	colors,daily life
+white	белый	adjective	A1	[waɪt]	He wore a white shirt.	Он был в белой рубашке.	White звучит как “вайт”: белый экран слишком bright.	colors,daily life
+morning	утро	noun	A1	[ˈmɔːnɪŋ]	I drink coffee in the morning.	Я пью кофе утром.	Morning похоже на “моргнуть”: утром проснулся и моргнул.	time,daily life
+evening	вечер	noun	A1	[ˈiːvnɪŋ]	We watch TV in the evening.	Мы смотрим телевизор вечером.	Evening звучит мягко: вечер — время выдохнуть.	time,daily life
+today	сегодня	adverb	A1	[təˈdeɪ]	I am busy today.	Я сегодня занят.	Today = to + day: этот день прямо сейчас.	time,daily life
+tomorrow	завтра	adverb	A1	[təˈmɒrəʊ]	See you tomorrow.	Увидимся завтра.	Tomorrow звучит как “to morning”: к следующему утру.	time,daily life
+yesterday	вчера	adverb	A1	[ˈjestədeɪ]	I saw him yesterday.	Я видел его вчера.	Yesterday = yester + day: предыдущий день.	time,daily life
+always	всегда	adverb	A1	[ˈɔːlweɪz]	She always comes on time.	Она всегда приходит вовремя.	Always = all ways: во всех случаях, всегда.	time,daily life
+often	часто	adverb	A1	[ˈɒfən]	We often cook at home.	Мы часто готовим дома.	Often звучит как повторяющийся звук: часто-часто.	time,daily life
+never	никогда	adverb	A1	[ˈnevə]	I never drink milk.	Я никогда не пью молоко.	Never похоже на “не”: не было и не будет — никогда.	time,daily life
+easy	лёгкий; простой	adjective	A1	[ˈiːzi]	This exercise is easy.	Это упражнение лёгкое.	Easy часто звучит как “изи” в играх — легко.	education,basic adjectives
+difficult	трудный	adjective	A1	[ˈdɪfɪkəlt]	This question is difficult.	Этот вопрос трудный.	Difficult длинное и само выглядит трудным.	education,basic adjectives
+important	важный	adjective	A1	[ɪmˈpɔːtənt]	This is an important rule.	Это важное правило.	Important похоже на “импортант” — важно импортировать в память.	education,work
+different	другой; разный	adjective	A1	[ˈdɪfərənt]	We have different ideas.	У нас разные идеи.	Different содержит differ — отличаться, быть разным.	basic adjectives,daily life

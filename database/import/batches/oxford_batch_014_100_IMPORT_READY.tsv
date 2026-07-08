@@ -1,0 +1,101 @@
+source	source_key	text	translate	type	level	transcription	example	example_ru	memory_hint	topics	forms
+oxford3000	oxford3000:enough:adverb:1	enough	достаточно	adverb	A1	[ɪˈnʌf]	We have enough time.	У нас достаточно времени.		daily life,numbers	
+oxford3000	oxford3000:can:verb:1	can	мочь; уметь	verb	A1	[kæn]	I can help you.	Я могу тебе помочь.		daily life,grammar	could
+oxford3000	oxford3000:cut:verb:1	cut	резать; разрезать	verb	A1	[kʌt]	Please cut the bread.	Пожалуйста, нарежь хлеб.		daily life,food	cuts,cutting
+oxford3000	oxford3000:euro:noun:1	euro	евро	noun	A1	[ˈjʊərəʊ]	The ticket costs ten euros.	Билет стоит десять евро.		money,travel	euros
+oxford3000	oxford3000:bath:noun:1	bath	ванна	noun	A1	[bɑːθ]	She takes a bath in the evening.	Она принимает ванну вечером.		home,daily-life	baths
+oxford3000	oxford3000:even:adverb:1	even	даже	adverb	A1	[ˈiːvən]	Even children can do it.	Даже дети могут это сделать.		daily life,grammar	
+oxford3000	oxford3000:front:adjective:1	front	передний	adjective	A1	[frʌnt]	Use the front door.	Используй переднюю дверь.		place,home	
+oxford3000	oxford3000:ice:noun:1	ice	лёд	noun	A1	[aɪs]	There is ice on the road.	На дороге лёд.		nature,weather	
+oxford3000	oxford3000:ice cream:noun:1	ice cream	мороженое	noun	A1	[ˌaɪs ˈkriːm]	I want chocolate ice cream.	Я хочу шоколадное мороженое.		food,daily-life	
+oxford3000	oxford3000:magazine:noun:1	magazine	журнал	noun	A1	[ˌmæɡəˈziːn]	She reads a fashion magazine.	Она читает модный журнал.		art,daily-life	magazines
+oxford3000	oxford3000:event:noun:1	event	событие; мероприятие	noun	A1	[ɪˈvent]	The event starts at six.	Мероприятие начинается в шесть.		social-life,time	events
+oxford3000	oxford3000:full:adjective:1	full	полный; сытый	adjective	A1	[fʊl]	The bus is full.	Автобус полный.		daily life,numbers	fuller,fullest
+oxford3000	oxford3000:ever:adverb:1	ever	когда-либо	adverb	A1	[ˈevə(r)]	Have you ever been to London?	Ты когда-нибудь был в Лондоне?		daily life,time	
+oxford3000	oxford3000:fun:noun:1	fun	веселье; удовольствие	noun	A1	[fʌn]	We had fun at the party.	Мы хорошо повеселились на вечеринке.		people,social-life	
+oxford3000	oxford3000:if:conjunction:1	if	если	conjunction	A1	[ɪf]	Call me if you need help.	Позвони мне, если нужна помощь.		daily life,grammar	
+oxford3000	oxford3000:every:determiner:1	every	каждый	determiner	A1	[ˈevri]	I go for a walk every day.	Я гуляю каждый день.		daily life,time	
+oxford3000	oxford3000:funny:adjective:1	funny	смешной	adjective	A1	[ˈfʌni]	That story is funny.	Эта история смешная.		people,daily life	funnier,funniest
+oxford3000	oxford3000:man:noun:1	man	мужчина; человек	noun	A1	[mæn]	A man is waiting outside.	Мужчина ждёт снаружи.		people,daily life	men
+oxford3000	oxford3000:everybody:pronoun:1	everybody	все; каждый	pronoun	A1	[ˈevribɒdi]	Everybody is here.	Все здесь.		people,grammar	
+oxford3000	oxford3000:many:determiner:1	many	много; многие	determiner	A1	[ˈmeni]	There are many books on the table.	На столе много книг.		daily life,numbers	
+oxford3000	oxford3000:many:pronoun:1	many	многие	pronoun	A1	[ˈmeni]	Many agree with this idea.	Многие согласны с этой идеей.		people,numbers	
+oxford3000	oxford3000:everyone:pronoun:1	everyone	все; каждый	pronoun	A1	[ˈevriwʌn]	Everyone needs water.	Всем нужна вода.		people,grammar	
+oxford3000	oxford3000:game:noun:1	game	игра	noun	A1	[ɡeɪm]	This game is easy.	Эта игра простая.		sport,entertainment	games
+oxford3000	oxford3000:everything:pronoun:1	everything	всё	pronoun	A1	[ˈevriθɪŋ]	Everything is ready.	Всё готово.		daily life,grammar	
+oxford3000	oxford3000:garden:noun:1	garden	сад	noun	A1	[ˈɡɑːdn]	There are flowers in the garden.	В саду есть цветы.		home,nature	gardens
+oxford3000	oxford3000:in:preposition:1	in	в; внутри	preposition	A1	[ɪn]	The keys are in my bag.	Ключи в моей сумке.		place,grammar	
+oxford3000	oxford3000:in:adverb:1	in	внутрь; дома	adverb	A1	[ɪn]	Come in, please.	Заходи, пожалуйста.		place,grammar	
+oxford3000	oxford3000:march:noun:1	march	март	noun	A1	[mɑːtʃ]	My birthday is in March.	Мой день рождения в марте.		time,calendar	marches
+oxford3000	oxford3000:exam:noun:1	exam	экзамен	noun	A1	[ɪɡˈzæm]	I have an English exam tomorrow.	Завтра у меня экзамен по английскому.		education,testing	exams
+oxford3000	oxford3000:geography:noun:1	geography	география	noun	A1	[dʒiˈɒɡrəfi]	Geography is my favourite subject.	География — мой любимый предмет.		education,world	
+oxford3000	oxford3000:get:verb:1	get	получать; становиться	verb	A1	[ɡet]	I get many messages every day.	Я получаю много сообщений каждый день.		daily life	gets,got,gotten,getting
+oxford3000	oxford3000:married:adjective:1	married	женатый; замужняя	adjective	A1	[ˈmærid]	They are married.	Они женаты.		people,relationships	
+oxford3000	oxford3000:excited:adjective:1	excited	взволнованный; радостный	adjective	A1	[ɪkˈsaɪtɪd]	I am excited about the trip.	Я очень рад поездке.		people,travel	
+oxford3000	oxford3000:girl:noun:1	girl	девочка; девушка	noun	A1	[ɡɜːl]	The girl is reading.	Девочка читает.		people	girls
+oxford3000	oxford3000:interest:verb:1	interest	интересовать	verb	A1	[ˈɪntrəst]	Music interests me.	Музыка меня интересует.		people,daily life	interests,interested,interesting
+oxford3000	oxford3000:email:noun:1	email	электронное письмо; email	noun	A1	[ˈiːmeɪl]	I sent you an email.	Я отправил тебе электронное письмо.		communication,it	emails
+oxford3000	oxford3000:email:verb:1	email	писать по электронной почте	verb	A1	[ˈiːmeɪl]	Please email me the file.	Пожалуйста, отправь мне файл по электронной почте.		communication,it	emails,emailed,emailing
+oxford3000	oxford3000:exciting:adjective:1	exciting	увлекательный; захватывающий	adjective	A1	[ɪkˈsaɪtɪŋ]	The film was exciting.	Фильм был захватывающим.		people,entertainment	
+oxford3000	oxford3000:girlfriend:noun:1	girlfriend	девушка; подруга	noun	A1	[ˈɡɜːlfrend]	He is meeting his girlfriend today.	Сегодня он встречается со своей девушкой.		people,relationships	girlfriends
+oxford3000	oxford3000:interested:adjective:1	interested	заинтересованный	adjective	A1	[ˈɪntrəstɪd]	I am interested in history.	Я интересуюсь историей.		people,education	
+oxford3000	oxford3000:may:noun:1	may	май	noun	A1	[meɪ]	School ends in May.	Школа заканчивается в мае.		time,calendar	
+oxford3000	oxford3000:exercise:verb:1	exercise	тренироваться; упражняться	verb	A1	[ˈeksəsaɪz]	I exercise every morning.	Я тренируюсь каждое утро.		health,sport	exercises,exercised,exercising
+oxford3000	oxford3000:interesting:adjective:1	interesting	интересный	adjective	A1	[ˈɪntrəstɪŋ]	This is an interesting book.	Это интересная книга.		daily life,education	
+oxford3000	oxford3000:maybe:adverb:1	maybe	может быть	adverb	A1	[ˈmeɪbi]	Maybe we can go tomorrow.	Может быть, мы сможем пойти завтра.		daily life,grammar	
+oxford3000	oxford3000:glass:noun:1	glass	стакан; стекло	noun	A1	[ɡlɑːs]	Can I have a glass of water?	Можно мне стакан воды?		home,food	glasses
+oxford3000	oxford3000:me:pronoun:1	me	меня; мне	pronoun	A1	[miː]	Please help me.	Пожалуйста, помоги мне.		people,grammar	
+oxford3000	oxford3000:interview:verb:1	interview	брать интервью; проводить собеседование	verb	A1	[ˈɪntəvjuː]	They will interview her tomorrow.	Они проведут с ней интервью завтра.		work,communication	interviews,interviewed,interviewing
+oxford3000	oxford3000:meal:noun:1	meal	приём пищи; еда	noun	A1	[miːl]	Breakfast is an important meal.	Завтрак — важный приём пищи.		food,daily-life	meals
+oxford3000	oxford3000:extra:adjective:1	extra	дополнительный	adjective	A1	[ˈekstrə]	We need extra chairs.	Нам нужны дополнительные стулья.		daily life,numbers	
+oxford3000	oxford3000:into:preposition:1	into	в; внутрь	preposition	A1	[ˈɪntə]	She went into the room.	Она вошла в комнату.		place,grammar	
+oxford3000	oxford3000:mean:verb:1	mean	значить; иметь в виду	verb	A1	[miːn]	What does this word mean?	Что значит это слово?		communication,education	means,meant,meaning
+oxford3000	oxford3000:goodbye:exclamation:1	goodbye	до свидания	exclamation	A1	[ˌɡʊdˈbaɪ]	Goodbye! See you tomorrow.	До свидания! Увидимся завтра.		communication,social-life	
+oxford3000	oxford3000:goodbye:noun:1	goodbye	прощание	noun	A1	[ˌɡʊdˈbaɪ]	It was a long goodbye.	Это было долгое прощание.		communication,social-life	goodbyes
+oxford3000	oxford3000:meaning:noun:1	meaning	значение; смысл	noun	A1	[ˈmiːnɪŋ]	Do you know the meaning of this word?	Ты знаешь значение этого слова?		education,communication	meanings
+oxford3000	oxford3000:face:noun:1	face	лицо	noun	A1	[feɪs]	She has a friendly face.	У неё дружелюбное лицо.		body,people	faces
+oxford3000	oxford3000:grandfather:noun:1	grandfather	дедушка	noun	A1	[ˈɡrænfɑːðə(r)]	My grandfather lives with us.	Мой дедушка живёт с нами.		people	grandfathers
+oxford3000	oxford3000:meat:noun:1	meat	мясо	noun	A1	[miːt]	I do not eat much meat.	Я не ем много мяса.		food,daily-life	
+oxford3000	oxford3000:fact:noun:1	fact	факт	noun	A1	[fækt]	That is an important fact.	Это важный факт.		education,daily life	facts
+oxford3000	oxford3000:grandmother:noun:1	grandmother	бабушка	noun	A1	[ˈɡrænmʌðə(r)]	My grandmother makes great soup.	Моя бабушка готовит отличный суп.		people	grandmothers
+oxford3000	oxford3000:it:pronoun:1	it	это; он; она; оно	pronoun	A1	[ɪt]	It is cold today.	Сегодня холодно.		daily life,grammar	
+oxford3000	oxford3000:meet:verb:1	meet	встречать; знакомиться	verb	A1	[miːt]	Let's meet at five.	Давай встретимся в пять.		social-life,communication	meets,met,meeting
+oxford3000	oxford3000:fall:verb:1	fall	падать	verb	A1	[fɔːl]	Leaves fall in autumn.	Листья падают осенью.		daily life,nature	falls,fell,fallen,falling
+oxford3000	oxford3000:grandparent:noun:1	grandparent	дедушка или бабушка	noun	A1	[ˈɡrænpeərənt]	One grandparent came to the school concert.	Один из бабушек или дедушек пришёл на школьный концерт.		people	grandparents
+oxford3000	oxford3000:its:determiner:1	its	его; её; свой	determiner	A1	[ɪts]	The cat is washing its face.	Кот умывает свою мордочку.		daily life,grammar	
+oxford3000	oxford3000:meeting:noun:1	meeting	встреча; собрание	noun	A1	[ˈmiːtɪŋ]	The meeting starts at nine.	Собрание начинается в девять.		work,communication	meetings
+oxford3000	oxford3000:false:adjective:1	false	ложный; неверный	adjective	A1	[fɔːls]	That answer is false.	Этот ответ неверный.		education,daily life	falser,falsest
+oxford3000	oxford3000:great:adjective:1	great	отличный; великий	adjective	A1	[ɡreɪt]	You did a great job.	Ты отлично справился.		daily life,people	greater,greatest
+oxford3000	oxford3000:jacket:noun:1	jacket	куртка; пиджак	noun	A1	[ˈdʒækɪt]	Take a jacket. It is cold.	Возьми куртку. Холодно.		clothes,weather	jackets
+oxford3000	oxford3000:member:noun:1	member	член; участник	noun	A1	[ˈmembə(r)]	She is a member of the team.	Она член команды.		people,social-life	members
+oxford3000	oxford3000:family:adjective:1	family	семейный	adjective	A1	[ˈfæməli]	This is a family restaurant.	Это семейный ресторан.		people,daily life	
+oxford3000	oxford3000:green:adjective:1	green	зелёный	adjective	A1	[ɡriːn]	She is wearing a green dress.	На ней зелёное платье.		colours,daily life	greener,greenest
+oxford3000	oxford3000:green:noun:1	green	зелёный цвет	noun	A1	[ɡriːn]	Green is my favourite colour.	Зелёный — мой любимый цвет.		colours,daily life	greens
+oxford3000	oxford3000:january:noun:1	january	январь	noun	A1	[ˈdʒænjuəri]	January is the first month.	Январь — первый месяц.		time,calendar	
+oxford3000	oxford3000:menu:noun:1	menu	меню	noun	A1	[ˈmenjuː]	Can I see the menu, please?	Можно посмотреть меню?		food,travel	menus
+oxford3000	oxford3000:famous:adjective:1	famous	известный	adjective	A1	[ˈfeɪməs]	She is a famous singer.	Она известная певица.		people,daily life	
+oxford3000	oxford3000:grey:adjective:1	grey	серый	adjective	A1	[ɡreɪ]	The sky is grey today.	Сегодня небо серое.		colours,weather	greyer,greyest
+oxford3000	oxford3000:grey:noun:1	grey	серый цвет	noun	A1	[ɡreɪ]	I like grey and blue.	Мне нравятся серый и синий.		colours,daily life	greys
+oxford3000	oxford3000:jeans:noun:1	jeans	джинсы	noun	A1	[dʒiːnz]	He is wearing jeans.	На нём джинсы.		clothes,daily-life	
+oxford3000	oxford3000:fantastic:adjective:1	fantastic	фантастический; отличный	adjective	A1	[fænˈtæstɪk]	The view is fantastic.	Вид фантастический.		daily life,people	
+oxford3000	oxford3000:metre:noun:1	metre	метр	noun	A1	[ˈmiːtə(r)]	The table is one metre long.	Стол длиной один метр.		measurements,daily life	metres
+oxford3000	oxford3000:far:adverb:1	far	далеко	adverb	A1	[fɑː(r)]	The station is not far.	Станция недалеко.		place,travel	farther,farthest,further,furthest
+oxford3000	oxford3000:join:verb:1	join	присоединяться	verb	A1	[dʒɔɪn]	Do you want to join us?	Хочешь присоединиться к нам?		social-life,daily life	joins,joined,joining
+oxford3000	oxford3000:farm:noun:1	farm	ферма	noun	A1	[fɑːm]	They live on a farm.	Они живут на ферме.		nature,place	farms
+oxford3000	oxford3000:guess:noun:1	guess	догадка; предположение	noun	A1	[ɡes]	That is a good guess.	Это хорошая догадка.		communication,education	guesses
+oxford3000	oxford3000:mile:noun:1	mile	миля	noun	A1	[maɪl]	The village is two miles away.	Деревня в двух милях отсюда.		measurements,travel	miles
+oxford3000	oxford3000:guitar:noun:1	guitar	гитара	noun	A1	[ɡɪˈtɑː(r)]	He plays the guitar.	Он играет на гитаре.		music,entertainment	guitars
+oxford3000	oxford3000:juice:noun:1	juice	сок	noun	A1	[dʒuːs]	I drink orange juice.	Я пью апельсиновый сок.		food,daily-life	
+oxford3000	oxford3000:fast:adverb:1	fast	быстро	adverb	A1	[fɑːst]	She runs fast.	Она быстро бегает.		daily life,sport	faster,fastest
+oxford3000	oxford3000:gym:noun:1	gym	спортзал; гимнастический зал	noun	A1	[dʒɪm]	I go to the gym after school.	Я хожу в спортзал после школы.		sport,health	gyms
+oxford3000	oxford3000:july:noun:1	july	июль	noun	A1	[dʒuˈlaɪ]	We travel in July.	Мы путешествуем в июле.		time,calendar	
+oxford3000	oxford3000:fat:adjective:1	fat	толстый; жирный	adjective	A1	[fæt]	This cheese is quite fat.	Этот сыр довольно жирный.		daily life,food	fatter,fattest
+oxford3000	oxford3000:hair:noun:1	hair	волосы	noun	A1	[heə(r)]	She has long hair.	У неё длинные волосы.		body,people	
+oxford3000	oxford3000:june:noun:1	june	июнь	noun	A1	[dʒuːn]	June is often warm.	В июне часто тепло.		time,calendar	
+oxford3000	oxford3000:minute:noun:1	minute	минута	noun	A1	[ˈmɪnɪt]	Wait a minute, please.	Подожди минуту, пожалуйста.		time,daily life	minutes
+oxford3000	oxford3000:father:noun:1	father	отец	noun	A1	[ˈfɑːðə(r)]	My father works in a bank.	Мой отец работает в банке.		people	fathers
+oxford3000	oxford3000:half:determiner:1	half	половина; пол-	determiner	A1	[hɑːf]	Half the class is here.	Половина класса здесь.		numbers,grammar	
+oxford3000	oxford3000:half:pronoun:1	half	половина	pronoun	A1	[hɑːf]	Half of them are ready.	Половина из них готова.		numbers,grammar	halves
+oxford3000	oxford3000:just:adverb:1	just	только что; просто	adverb	A1	[dʒʌst]	I just called you.	Я только что тебе звонил.		daily life,time	
+oxford3000	oxford3000:favourite:adjective:1	favourite	любимый	adjective	A1	[ˈfeɪvərɪt]	This is my favourite song.	Это моя любимая песня.		people,daily life	
+oxford3000	oxford3000:favourite:noun:1	favourite	любимец; любимая вещь	noun	A1	[ˈfeɪvərɪt]	This song is my favourite.	Эта песня — моя любимая.		people,daily life	favourites

@@ -1,0 +1,201 @@
+source	source_key	text	translate	type	level	transcription	example	example_ru	memory_hint	topics	forms
+core5000	core5000:highlight:verb:1	highlight	выделять; подчёркивать	verb	B1		We need to highlight it.	Нужно выполнить действие: выделять; подчёркивать.	Highlight = high + light: как будто подсветить важное.	education,IT	highlights,highlighted,highlighting
+core5000	core5000:highway:noun:1	highway	шоссе; автомагистраль	noun	A2		The highway is important.	Это важно: шоссе; автомагистраль.	Highway = high + way: большая главная дорога.	transport,travel	highways
+core5000	core5000:historic:adjective:1	historic	исторически важный	adjective	B1		This is historic.	Это можно описать как: исторически важный.	Historic = исторически важный. Historical = связанный с историей.	history,society	
+core5000	core5000:historical:adjective:1	historical	исторический	adjective	A2		This is historical.	Это можно описать как: исторический.	Historical = связанный с историей. Historic = исторически важный.	history,art	
+core5000	core5000:honor:noun:1	honor	честь	noun	B2		The honor is important.	Это важно: честь.	Honor = честь.	people,society	honors
+core5000	core5000:horizon:noun:1	horizon	горизонт	noun	B1		The horizon is important.	Это важно: горизонт.	Horizon почти как “горизонт”.	nature,travel	horizons
+core5000	core5000:horizontal:adjective:1	horizontal	горизонтальный	adjective	B1		This is horizontal.	Это можно описать как: горизонтальный.	Horizontal связано с horizon — горизонт.	education,IT	
+core5000	core5000:horror:noun:1	horror	ужас; хоррор	noun	B1		The horror is important.	Это важно: ужас; хоррор.	Horror почти как “хоррор”: жанр ужасов или чувство ужаса.	art,emotions	
+core5000	core5000:household:noun:1	household	домохозяйство; семья	noun	B1		The household is important.	Это важно: домохозяйство; семья.	Household = house + hold: люди, живущие вместе в доме.	home,society	households
+core5000	core5000:housework:noun:1	housework	работа по дому	noun	A2		The housework is important.	Это важно: работа по дому.	Housework = house + work: работа по дому.	home,daily life	
+core5000	core5000:humor:noun:1	humor	юмор	noun	B1		The humor is important.	Это важно: юмор.	Humor почти как “юмор”.	emotions,communication	
+core5000	core5000:identity:noun:1	identity	личность; идентичность	noun	B2		The identity is important.	Это важно: личность; идентичность.	Identity связано с identify — идентифицировать.	people,society,IT	identities
+core5000	core5000:illustrate:verb:1	illustrate	иллюстрировать; показывать примером	verb	B2		We need to illustrate it.	Нужно выполнить действие: иллюстрировать; показывать примером.	Illustrate почти как “иллюстрировать”.	education,art	illustrates,illustrated,illustrating
+core5000	core5000:illustration:noun:1	illustration	иллюстрация	noun	B1		The illustration is important.	Это важно: иллюстрация.	Illustration связано с illustrate — иллюстрировать.	art,education	illustrations
+core5000	core5000:immense:adjective:1	immense	огромный	adjective	B2		This is immense.	Это можно описать как: огромный.	Immense = очень большой, огромный.	work,communication	
+core5000	core5000:immigrant:noun:1	immigrant	иммигрант	noun	B1		The immigrant is important.	Это важно: иммигрант.	Immigrant похоже на “иммигрант”.	people,society	immigrants
+core5000	core5000:immigration:noun:1	immigration	иммиграция	noun	B1		The immigration is important.	Это важно: иммиграция.	Immigration почти как “иммиграция”.	society,people	
+core5000	core5000:implement:verb:1	implement	реализовывать; внедрять	verb	B2		We need to implement it.	Нужно выполнить действие: реализовывать; внедрять.	Implement = внедрить/реализовать план или функцию.	work,IT	implements,implemented,implementing
+core5000	core5000:implementation:noun:1	implementation	реализация; внедрение	noun	B2		The implementation is important.	Это важно: реализация; внедрение.	Implementation связано с implement — реализовывать.	work,IT	implementations
+core5000	core5000:implication:noun:1	implication	последствие; скрытый смысл	noun	B2		The implication is important.	Это важно: последствие; скрытый смысл.	Implication часто значит не прямой результат, а последствие или скрытый смысл.	communication,work	implications
+core5000	core5000:imply:verb:1	imply	подразумевать	verb	B2		We need to imply it.	Нужно выполнить действие: подразумевать.	Imply = подразумевать. Implication = скрытый смысл/последствие.	communication,education	implies,implied,implying
+core5000	core5000:import:verb:1	import	импортировать; ввозить	verb	B1		We need to import it.	Нужно выполнить действие: импортировать; ввозить.	Import почти как “импортировать”. Пара: import — export.	IT,business	imports,imported,importing
+core5000	core5000:inbox:noun:1	inbox	входящие	noun	B1		The inbox is important.	Это важно: входящие.	Inbox = in + box: ящик для входящих сообщений.	communication,IT	inboxes
+core5000	core5000:incident:noun:1	incident	инцидент; происшествие	noun	B1		The incident is important.	Это важно: инцидент; происшествие.	Incident почти как “инцидент”: происшествие, случай.	society,communication	incidents
+core5000	core5000:indicate:verb:1	indicate	указывать; показывать	verb	B1		We need to indicate it.	Нужно выполнить действие: указывать; показывать.	Indicate связано с indicator — указатель/индикатор.	communication,IT	indicates,indicated,indicating
+core5000	core5000:indicator:noun:1	indicator	индикатор; показатель	noun	B2		The indicator is important.	Это важно: индикатор; показатель.	Indicator почти как “индикатор”.	education,IT	indicators
+core5000	core5000:inevitable:adjective:1	inevitable	неизбежный	adjective	B2		This is inevitable.	Это можно описать как: неизбежный.	Inevitable = то, чего нельзя избежать.	communication,time	
+core5000	core5000:initially:adverb:1	initially	изначально; сначала	adverb	B2		It changed initially.	Это изменилось так: изначально; сначала.	Initially = initial + -ly: начальный → изначально.	time,work	
+core5000	core5000:innovation:noun:1	innovation	инновация; нововведение	noun	B2		The innovation is important.	Это важно: инновация; нововведение.	Innovation почти как “инновация”.	technology,work	innovations
+core5000	core5000:innovative:adjective:1	innovative	инновационный	adjective	B2		This is innovative.	Это можно описать как: инновационный.	Innovative связано с innovation — инновация.	technology,work	
+core5000	core5000:insight:noun:1	insight	понимание; озарение	noun	B2		The insight is important.	Это важно: понимание; озарение.	Insight = in + sight: как будто “видение внутрь”, глубокое понимание.	education,work	insights
+core5000	core5000:inspire:verb:1	inspire	вдохновлять	verb	B1		We need to inspire it.	Нужно выполнить действие: вдохновлять.	Inspire связано с inspiration — вдохновение.	emotions,art	inspires,inspired,inspiring
+core5000	core5000:install:verb:1	install	устанавливать	verb	A2		We need to install it.	Нужно выполнить действие: устанавливать.	Install почти как “инсталлировать/установить”.	IT,technology	installs,installed,installing
+core5000	core5000:institution:noun:1	institution	учреждение; институт	noun	B2		The institution is important.	Это важно: учреждение; институт.	Institution связано с institute — институт/учреждение.	education,society	institutions
+core5000	core5000:integration:noun:1	integration	интеграция	noun	B2		The integration is important.	Это важно: интеграция.	Integration почти как “интеграция”.	IT,work	integrations
+core5000	core5000:intellectual:adjective:1	intellectual	интеллектуальный	adjective	B2		This is intellectual.	Это можно описать как: интеллектуальный.	Intellectual почти как “интеллектуальный”.	education,people	
+core5000	core5000:intensity:noun:1	intensity	интенсивность	noun	B2		The intensity is important.	Это важно: интенсивность.	Intensity связано с intense — интенсивный, сильный.	weather,science	
+core5000	core5000:interaction:noun:1	interaction	взаимодействие	noun	B2		The interaction is important.	Это важно: взаимодействие.	Interaction = inter + action: действие между людьми или объектами.	communication,IT	interactions
+core5000	core5000:interpret:verb:1	interpret	толковать; интерпретировать	verb	B2		We need to interpret it.	Нужно выполнить действие: толковать; интерпретировать.	Interpret почти как “интерпретировать”.	communication,education	interprets,interpreted,interpreting
+core5000	core5000:interval:noun:1	interval	интервал; промежуток	noun	B1		The interval is important.	Это важно: интервал; промежуток.	Interval почти как “интервал”.	time,IT	intervals
+core5000	core5000:invest:verb:1	invest	инвестировать; вкладывать	verb	B1		We need to invest it.	Нужно выполнить действие: инвестировать; вкладывать.	Invest почти как “инвестировать”.	money,work	invests,invested,investing
+core5000	core5000:investment:noun:1	investment	инвестиция; вложение	noun	B1		The investment is important.	Это важно: инвестиция; вложение.	Investment связано с invest — инвестировать.	money,work	investments
+core5000	core5000:investor:noun:1	investor	инвестор	noun	B1		The investor is important.	Это важно: инвестор.	Investor = invest + -or: человек, который инвестирует.	money,work	investors
+core5000	core5000:journal:noun:1	journal	журнал; дневник	noun	B1		The journal is important.	Это важно: журнал; дневник.	Journal может быть журнал, дневник или научное издание.	education,communication	journals
+core5000	core5000:journalist:noun:1	journalist	журналист	noun	A2		The journalist is important.	Это важно: журналист.	Journalist почти как “журналист”.	media,people	journalists
+core5000	core5000:keyboard:noun:1	keyboard	клавиатура	noun	A2		The keyboard is important.	Это важно: клавиатура.	Keyboard = key + board: доска с клавишами.	IT,technology	keyboards
+core5000	core5000:keyword:noun:1	keyword	ключевое слово	noun	B1		The keyword is important.	Это важно: ключевое слово.	Keyword = key + word: ключевое слово для поиска.	IT,education	keywords
+core5000	core5000:landscape:noun:1	landscape	пейзаж; ландшафт	noun	B1		The landscape is important.	Это важно: пейзаж; ландшафт.	Landscape почти как “ландшафт”.	nature,art	landscapes
+core5000	core5000:lane:noun:1	lane	полоса; переулок	noun	B1		The lane is important.	Это важно: полоса; переулок.	Lane = полоса движения или узкая улица.	transport,city	lanes
+core5000	core5000:largely:adverb:1	largely	в основном; в значительной степени	adverb	B2		It changed largely.	Это изменилось так: в основном; в значительной степени.	Largely = large + -ly: в большой степени.	communication,work	
+core5000	core5000:layer:verb:1	layer	накладывать слоями	verb	B2		We need to layer it.	Нужно выполнить действие: накладывать слоями.	Layer как noun = слой, как verb = накладывать слоями.	IT,art	layers,layered,layering
+core5000	core5000:leadership:noun:1	leadership	лидерство; руководство	noun	B2		The leadership is important.	Это важно: лидерство; руководство.	Leadership = leader + -ship: качество/роль лидера.	work,people	
+core5000	core5000:lifetime:noun:1	lifetime	жизнь; срок службы	noun	B2		The lifetime is important.	Это важно: жизнь; срок службы.	Lifetime = life + time: время жизни или срок службы.	time,people	lifetimes
+core5000	core5000:literally:adverb:1	literally	буквально	adverb	B1		It changed literally.	Это изменилось так: буквально.	Literally = буквально. Не путать с figuratively — образно.	communication,education	
+core5000	core5000:literature:noun:1	literature	литература	noun	B1		The literature is important.	Это важно: литература.	Literature почти как “литература”.	art,education	
+core5000	core5000:living:adjective:1	living	живой; жилой	adjective	B1		This is living.	Это можно описать как: живой; жилой.	Living = live + -ing: живущий/живой.	nature,home	
+core5000	core5000:log:noun:1	log	журнал; лог	noun	B1		The log is important.	Это важно: журнал; лог.	Log = журнал записей. В IT log = файл/список событий.	IT,work	logs
+core5000	core5000:logical:adjective:1	logical	логичный	adjective	B1		This is logical.	Это можно описать как: логичный.	Logical связано с logic — логика.	education,communication	
+core5000	core5000:loose:adjective:1	loose	свободный; неплотный	adjective	B1		This is loose.	Это можно описать как: свободный; неплотный.	Loose = свободный/неплотный. Не путать с lose — терять.	clothes,daily life	looser,loosest
+core5000	core5000:loyal:adjective:1	loyal	верный; лояльный	adjective	B2		This is loyal.	Это можно описать как: верный; лояльный.	Loyal почти как “лояльный”, но чаще значит верный/преданный.	people,work	
+core5000	core5000:loyalty:noun:1	loyalty	верность; лояльность	noun	B2		The loyalty is important.	Это важно: верность; лояльность.	Loyalty связано с loyal — верный/лояльный.	people,work	
+core5000	core5000:maintenance:noun:1	maintenance	обслуживание; поддержание	noun	B2		The maintenance is important.	Это важно: обслуживание; поддержание.	Maintenance связано с maintain — поддерживать/обслуживать.	IT,work	
+core5000	core5000:majority:noun:1	majority	большинство	noun	B1		The majority is important.	Это важно: большинство.	Majority связано с major — главный/больший.	society,communication	majorities
+core5000	core5000:manufacturer:noun:1	manufacturer	производитель	noun	B2		The manufacturer is important.	Это важно: производитель.	Manufacturer связано с manufacture — производить.	business,shopping	manufacturers
+core5000	core5000:manufacture:verb:1	manufacture	производить	verb	B2		We need to manufacture it.	Нужно выполнить действие: производить.	Manufacture связано с factory по смыслу: промышленное производство.	business,technology	manufactures,manufactured,manufacturing
+core5000	core5000:margin:noun:1	margin	поле; запас; маржа	noun	B2		The margin is important.	Это важно: поле; запас; маржа.	Margin = поле на странице или запас/маржа. В CSS margin = внешний отступ.	IT,money	margins
+core5000	core5000:marketing:noun:1	marketing	маркетинг	noun	B1		The marketing is important.	Это важно: маркетинг.	Marketing почти как “маркетинг”.	business,work	
+core5000	core5000:massive:adjective:1	massive	огромный; массивный	adjective	B1		This is massive.	Это можно описать как: огромный; массивный.	Massive похоже на “массивный”: очень большой.	communication,work	
+core5000	core5000:mechanism:noun:1	mechanism	механизм	noun	B2		The mechanism is important.	Это важно: механизм.	Mechanism почти как “механизм”.	technology,science	mechanisms
+core5000	core5000:medium:noun:1	medium	средство; среда	noun	B1		The medium is important.	Это важно: средство; среда.	Medium = средство/среда. Media — множественное число.	communication,art	media
+core5000	core5000:membership:noun:1	membership	членство	noun	B2		The membership is important.	Это важно: членство.	Membership = member + -ship: статус члена группы/сервиса.	society,business	memberships
+core5000	core5000:memorable:adjective:1	memorable	запоминающийся	adjective	B2		This is memorable.	Это можно описать как: запоминающийся.	Memorable связано с memory — память.	travel,emotions	
+core5000	core5000:merchant:noun:1	merchant	торговец; продавец	noun	B2		The merchant is important.	Это важно: торговец; продавец.	Merchant = торговец. В e-commerce merchant = продавец/компания, принимающая платежи.	business,shopping	merchants
+core5000	core5000:merely:adverb:1	merely	просто; всего лишь	adverb	B2		It changed merely.	Это изменилось так: просто; всего лишь.	Merely = всего лишь, просто.	communication,education	
+core5000	core5000:merge:verb:1	merge	объединять; сливаться	verb	B2		We need to merge it.	Нужно выполнить действие: объединять; сливаться.	Merge = объединять. В Git merge = слияние веток.	IT,work	merges,merged,merging
+core5000	core5000:messenger:noun:1	messenger	посланник; мессенджер	noun	B1		The messenger is important.	Это важно: посланник; мессенджер.	Messenger = message + -er: тот, кто передаёт сообщение.	communication,IT	messengers
+core5000	core5000:midnight:noun:1	midnight	полночь	noun	A2		The midnight is important.	Это важно: полночь.	Midnight = mid + night: середина ночи.	time,travel	
+core5000	core5000:migrate:verb:1	migrate	мигрировать; переносить	verb	B2		We need to migrate it.	Нужно выполнить действие: мигрировать; переносить.	Migrate почти как “мигрировать”. В IT migrate = переносить данные/сайт.	IT,society	migrates,migrated,migrating
+core5000	core5000:migration:noun:1	migration	миграция; перенос	noun	B2		The migration is important.	Это важно: миграция; перенос.	Migration связано с migrate — переносить/мигрировать.	IT,society	migrations
+core5000	core5000:milestone:noun:1	milestone	важный этап	noun	B2		The milestone is important.	Это важно: важный этап.	Milestone = mile + stone: камень-указатель расстояния, затем важная веха/этап.	work,IT	milestones
+core5000	core5000:minor:adjective:1	minor	незначительный; младший	adjective	B1		This is minor.	Это можно описать как: незначительный; младший.	Minor = меньший/незначительный. Пара: major — minor.	work,education	
+core5000	core5000:minority:noun:1	minority	меньшинство	noun	B2		The minority is important.	Это важно: меньшинство.	Minority связано с minor — меньший. Пара: majority — minority.	society,communication	minorities
+core5000	core5000:mission:noun:1	mission	миссия; задача	noun	B1		The mission is important.	Это важно: миссия; задача.	Mission почти как “миссия”.	society,work	missions
+core5000	core5000:mode:noun:1	mode	режим	noun	B1		The mode is important.	Это важно: режим.	Mode = режим. Часто в интерфейсах: dark mode, edit mode.	IT,technology	modes
+core5000	core5000:modify:verb:1	modify	изменять; модифицировать	verb	B2		We need to modify it.	Нужно выполнить действие: изменять; модифицировать.	Modify почти как “модифицировать”.	IT,work	modifies,modified,modifying
+core5000	core5000:module:noun:1	module	модуль	noun	B1		The module is important.	Это важно: модуль.	Module почти как “модуль”.	IT,education	modules
+core5000	core5000:monitor:verb:1	monitor	отслеживать; контролировать	verb	B1		We need to monitor it.	Нужно выполнить действие: отслеживать; контролировать.	Monitor как noun = монитор, как verb = отслеживать/контролировать.	IT,work	monitors,monitored,monitoring
+core5000	core5000:moral:adjective:1	moral	моральный; нравственный	adjective	B2		This is moral.	Это можно описать как: моральный; нравственный.	Moral почти как “моральный”.	society,people	
+core5000	core5000:motivate:verb:1	motivate	мотивировать	verb	B1		We need to motivate it.	Нужно выполнить действие: мотивировать.	Motivate почти как “мотивировать”.	education,emotions	motivates,motivated,motivating
+core5000	core5000:motivation:noun:1	motivation	мотивация	noun	B1		The motivation is important.	Это важно: мотивация.	Motivation почти как “мотивация”.	education,emotions	
+core5000	core5000:mystery:noun:1	mystery	тайна; загадка	noun	B1		The mystery is important.	Это важно: тайна; загадка.	Mystery почти как “мистерия”, но чаще значит тайна/загадка.	art,communication	mysteries
+core5000	core5000:narrative:noun:1	narrative	повествование; рассказ	noun	B2		The narrative is important.	Это важно: повествование; рассказ.	Narrative связано с narrate — рассказывать.	art,communication	narratives
+core5000	core5000:nearby:adjective:1	nearby	близлежащий	adjective	B1		This is nearby.	Это можно описать как: близлежащий.	Nearby = near + by: находящийся рядом.	travel,city	
+core5000	core5000:necessity:noun:1	necessity	необходимость	noun	B2		The necessity is important.	Это важно: необходимость.	Necessity связано с necessary — необходимый.	daily life,health	necessities
+core5000	core5000:negotiate:verb:1	negotiate	вести переговоры	verb	B2		We need to negotiate it.	Нужно выполнить действие: вести переговоры.	Negotiate связано с negotiation — переговоры.	work,money	negotiates,negotiated,negotiating
+core5000	core5000:negotiation:noun:1	negotiation	переговоры	noun	B2		The negotiation is important.	Это важно: переговоры.	Negotiation связано с negotiate — вести переговоры.	work,communication	negotiations
+core5000	core5000:node:noun:1	node	узел	noun	B2		The node is important.	Это важно: узел.	Node = узел. В IT и сетях node = узел системы.	IT,technology	nodes
+core5000	core5000:nominate:verb:1	nominate	выдвигать; номинировать	verb	B2		We need to nominate it.	Нужно выполнить действие: выдвигать; номинировать.	Nominate почти как “номинировать”.	society,art	nominates,nominated,nominating
+core5000	core5000:nomination:noun:1	nomination	номинация; выдвижение	noun	B2		The nomination is important.	Это важно: номинация; выдвижение.	Nomination связано с nominate — номинировать.	art,society	nominations
+core5000	core5000:nonprofit:adjective:1	nonprofit	некоммерческий	adjective	B2		This is nonprofit.	Это можно описать как: некоммерческий.	Nonprofit = non + profit: без цели прибыли.	society,work	
+core5000	core5000:notion:noun:1	notion	понятие; представление	noun	B2		The notion is important.	Это важно: понятие; представление.	Notion = понятие/представление.	education,communication	notions
+core5000	core5000:numerous:adjective:1	numerous	многочисленный	adjective	B2		This is numerous.	Это можно описать как: многочисленный.	Numerous связано с number — число. Numerous = многочисленные.	education,communication	
+core5000	core5000:objective:noun:1	objective	цель; задача	noun	B2		The objective is important.	Это важно: цель; задача.	Objective может быть noun = цель и adjective = объективный.	work,education	objectives
+core5000	core5000:offline:adjective:1	offline	офлайн; без подключения	adjective	A2		This is offline.	Это можно описать как: офлайн; без подключения.	Offline = off + line: не подключённый к сети.	IT,technology	
+core5000	core5000:omit:verb:1	omit	пропускать; не включать	verb	B2		We need to omit it.	Нужно выполнить действие: пропускать; не включать.	Omit = не включить/пропустить в тексте или списке.	education,work	omits,omitted,omitting
+core5000	core5000:ongoing:adjective:1	ongoing	продолжающийся	adjective	B2		This is ongoing.	Это можно описать как: продолжающийся.	Ongoing = on + going: процесс всё ещё идёт.	time,work	
+core5000	core5000:operator:noun:1	operator	оператор	noun	B1		The operator is important.	Это важно: оператор.	Operator почти как “оператор”. В программировании operator = оператор действия.	work,IT	operators
+core5000	core5000:opponent:noun:1	opponent	соперник; оппонент	noun	B1		The opponent is important.	Это важно: соперник; оппонент.	Opponent почти как “оппонент”.	sport,communication	opponents
+core5000	core5000:optional:adjective:1	optional	необязательный; дополнительный	adjective	B1		This is optional.	Это можно описать как: необязательный; дополнительный.	Optional связано с option — вариант. Optional = необязательный.	IT,education	
+core5000	core5000:origin:noun:1	origin	происхождение; начало	noun	B1		The origin is important.	Это важно: происхождение; начало.	Origin связано с original — первоначальный.	education,history	origins
+core5000	core5000:outcome:noun:1	outcome	результат; исход	noun	B2		The outcome is important.	Это важно: результат; исход.	Outcome = out + come: то, что вышло в итоге.	work,communication	outcomes
+core5000	core5000:outline:noun:1	outline	план; контур	noun	B1		The outline is important.	Это важно: план; контур.	Outline = out + line: внешняя линия, контур; затем план текста.	education,art	outlines
+core5000	core5000:output:noun:1	output	вывод; результат	noun	B1		The output is important.	Это важно: вывод; результат.	Output = out + put: то, что система выдаёт наружу.	IT,education	outputs
+core5000	core5000:overcome:verb:1	overcome	преодолевать	verb	B2		We need to overcome it.	Нужно выполнить действие: преодолевать.	Overcome = over + come: пройти через трудность и справиться.	emotions,work	overcomes,overcame,overcome,overcoming
+core5000	core5000:overview:noun:1	overview	обзор	noun	B2		The overview is important.	Это важно: обзор.	Overview = over + view: взгляд сверху, общий обзор.	education,work	overviews
+core5000	core5000:ownership:noun:1	ownership	владение; право собственности	noun	B2		The ownership is important.	Это важно: владение; право собственности.	Ownership = owner + -ship: состояние владения.	money,society	
+core5000	core5000:panel:noun:1	panel	панель	noun	B1		The panel is important.	Это важно: панель.	Panel почти как “панель”.	IT,technology	panels
+core5000	core5000:parallel:adjective:1	parallel	параллельный	adjective	B1		This is parallel.	Это можно описать как: параллельный.	Parallel почти как “параллельный”.	education,IT	
+core5000	core5000:parameter:noun:1	parameter	параметр	noun	B2		The parameter is important.	Это важно: параметр.	Parameter почти как “параметр”.	IT,education	parameters
+core5000	core5000:participate:verb:1	participate	участвовать	verb	B1		We need to participate it.	Нужно выполнить действие: участвовать.	Participate связано с participant — участник.	education,society	participates,participated,participating
+core5000	core5000:participation:noun:1	participation	участие	noun	B2		The participation is important.	Это важно: участие.	Participation связано с participate — участвовать.	education,society	
+core5000	core5000:partnership:noun:1	partnership	партнёрство	noun	B2		The partnership is important.	Это важно: партнёрство.	Partnership = partner + -ship: отношения партнёров.	work,business	partnerships
+core5000	core5000:passage:noun:1	passage	отрывок; проход	noun	B1		The passage is important.	Это важно: отрывок; проход.	Passage = проход или отрывок текста.	education,travel	passages
+core5000	core5000:passive:adjective:1	passive	пассивный	adjective	B1		This is passive.	Это можно описать как: пассивный.	Passive почти как “пассивный”.	education,communication	
+core5000	core5000:patch:noun:1	patch	заплатка; исправление	noun	B2		The patch is important.	Это важно: заплатка; исправление.	Patch = заплатка. В IT patch = небольшое исправление программы.	IT,technology	patches
+core5000	core5000:payment:noun:1	payment	платёж; оплата	noun	A2		The payment is important.	Это важно: платёж; оплата.	Payment связано с pay — платить.	money,shopping	payments
+core5000	core5000:penalty:noun:1	penalty	штраф; наказание	noun	B1		The penalty is important.	Это важно: штраф; наказание.	Penalty почти как “пенальти” в футболе, но шире: штраф/наказание.	sport,money	penalties
+core5000	core5000:percentage:noun:1	percentage	процент; доля	noun	B1		The percentage is important.	Это важно: процент; доля.	Percentage связано с percent — процент.	money,education	percentages
+core5000	core5000:perception:noun:1	perception	восприятие	noun	B2		The perception is important.	Это важно: восприятие.	Perception связано с perceive — воспринимать.	body,communication	perceptions
+core5000	core5000:perfectly:adverb:1	perfectly	идеально; совершенно	adverb	A2		It changed perfectly.	Это изменилось так: идеально; совершенно.	Perfectly = perfect + -ly: идеальный → идеально.	communication,IT	
+core5000	core5000:permanent:adjective:1	permanent	постоянный	adjective	B1		This is permanent.	Это можно описать как: постоянный.	Permanent = постоянный. Пара: permanent — temporary.	time,work	
+core5000	core5000:phrase:noun:1	phrase	фраза	noun	A1		The phrase is important.	Это важно: фраза.	Phrase почти как “фраза”.	language,education	phrases
+core5000	core5000:pile:noun:1	pile	куча; стопка	noun	B1		The pile is important.	Это важно: куча; стопка.	Pile = куча/стопка.	daily life,home	piles
+core5000	core5000:pitch:noun:1	pitch	поле; подача; презентация	noun	B2		The pitch is important.	Это важно: поле; подача; презентация.	Pitch многозначное: поле, высота звука, подача идеи/презентация.	business,sport	pitches
+core5000	core5000:placement:noun:1	placement	размещение	noun	B2		The placement is important.	Это важно: размещение.	Placement = place + -ment: размещение.	IT,work	placements
+core5000	core5000:plot:noun:1	plot	сюжет; участок	noun	B1		The plot is important.	Это важно: сюжет; участок.	Plot = сюжет, а также участок земли или график.	art,education	plots
+core5000	core5000:portion:noun:1	portion	часть; порция	noun	B1		The portion is important.	Это важно: часть; порция.	Portion = порция или часть.	food,daily life	portions
+core5000	core5000:portrait:noun:1	portrait	портрет	noun	B1		The portrait is important.	Это важно: портрет.	Portrait почти как “портрет”.	art,people	portraits
+core5000	core5000:possession:noun:1	possession	владение; имущество	noun	B2		The possession is important.	Это важно: владение; имущество.	Possession связано с possess — владеть.	money,daily life	possessions
+core5000	core5000:potential:adjective:1	potential	потенциальный	adjective	B1		This is potential.	Это можно описать как: потенциальный.	Potential почти как “потенциальный”.	work,communication	
+core5000	core5000:prediction:noun:1	prediction	предсказание; прогноз	noun	B1		The prediction is important.	Это важно: предсказание; прогноз.	Prediction связано с predict — предсказывать.	weather,education	predictions
+core5000	core5000:preference:noun:1	preference	предпочтение	noun	B2		The preference is important.	Это важно: предпочтение.	Preference связано с prefer — предпочитать.	people,IT	preferences
+core5000	core5000:preparation:noun:1	preparation	подготовка	noun	A2		The preparation is important.	Это важно: подготовка.	Preparation связано с prepare — готовить.	education,work	preparations
+core5000	core5000:presence:noun:1	presence	присутствие	noun	B2		The presence is important.	Это важно: присутствие.	Presence связано с present — присутствующий.	people,communication	
+core5000	core5000:presentation:noun:1	presentation	презентация; выступление	noun	A2		The presentation is important.	Это важно: презентация; выступление.	Presentation почти как “презентация”.	work,education	presentations
+core5000	core5000:preserve:verb:1	preserve	сохранять; оберегать	verb	B2		We need to preserve it.	Нужно выполнить действие: сохранять; оберегать.	Preserve = сохранить в хорошем состоянии. Preservation = сохранение.	history,nature	preserves,preserved,preserving
+core5000	core5000:pride:noun:1	pride	гордость	noun	B1		The pride is important.	Это важно: гордость.	Pride = гордость. Proud = гордый.	emotions,people	
+core5000	core5000:primarily:adverb:1	primarily	в основном; прежде всего	adverb	B2		It changed primarily.	Это изменилось так: в основном; прежде всего.	Primarily связано с primary — основной.	communication,work	
+core5000	core5000:priority:noun:1	priority	приоритет	noun	B2		The priority is important.	Это важно: приоритет.	Priority почти как “приоритет”.	work,IT	priorities
+core5000	core5000:privacy:noun:1	privacy	конфиденциальность; личная жизнь	noun	B2		The privacy is important.	Это важно: конфиденциальность; личная жизнь.	Privacy связано с private — личный/частный.	IT,people	
+core5000	core5000:probability:noun:1	probability	вероятность	noun	B2		The probability is important.	Это важно: вероятность.	Probability связано с probable — вероятный.	education,weather	probabilities
+core5000	core5000:procedure:noun:1	procedure	процедура; порядок действий	noun	B2		The procedure is important.	Это важно: процедура; порядок действий.	Procedure почти как “процедура”.	work,health	procedures
+core5000	core5000:proceed:verb:1	proceed	продолжать; переходить	verb	B2		We need to proceed it.	Нужно выполнить действие: продолжать; переходить.	Proceed = продолжить движение/действие. В интерфейсах часто proceed = перейти дальше.	communication,IT	proceeds,proceeded,proceeding
+core5000	core5000:processing:noun:1	processing	обработка	noun	B1		The processing is important.	Это важно: обработка.	Processing = process + -ing: обработка.	IT,work	
+core5000	core5000:profession:noun:1	profession	профессия	noun	B1		The profession is important.	Это важно: профессия.	Profession почти как “профессия”.	work,people	professions
+core5000	core5000:professional:adjective:1	professional	профессиональный	adjective	A2		This is professional.	Это можно описать как: профессиональный.	Professional почти как “профессиональный”.	work,people	
+core5000	core5000:profile:noun:1	profile	профиль	noun	A2		The profile is important.	Это важно: профиль.	Profile почти как “профиль”.	IT,people	profiles
+core5000	core5000:progress:verb:1	progress	прогрессировать; продвигаться	verb	B1		We need to progress it.	Нужно выполнить действие: прогрессировать; продвигаться.	Progress как noun = прогресс, как verb = продвигаться.	work,education	progresses,progressed,progressing
+core5000	core5000:prompt:noun:1	prompt	подсказка; запрос	noun	B2		The prompt is important.	Это важно: подсказка; запрос.	Prompt = подсказка/запрос.	IT,education	prompts
+core5000	core5000:promotion:noun:1	promotion	повышение; продвижение	noun	B1		The promotion is important.	Это важно: повышение; продвижение.	Promotion связано с promote — продвигать/повышать.	work,business	promotions
+core5000	core5000:proof:noun:1	proof	доказательство	noun	B1		The proof is important.	Это важно: доказательство.	Proof = доказательство.	education,society	proofs
+core5000	core5000:proportion:noun:1	proportion	доля; пропорция	noun	B2		The proportion is important.	Это важно: доля; пропорция.	Proportion почти как “пропорция”.	education,work	proportions
+core5000	core5000:protection:noun:1	protection	защита	noun	A2		The protection is important.	Это важно: защита.	Protection связано с protect — защищать.	health,IT	
+core5000	core5000:provider:noun:1	provider	поставщик; провайдер	noun	B2		The provider is important.	Это важно: поставщик; провайдер.	Provider = provide + -er: тот, кто предоставляет услугу.	business,IT	providers
+core5000	core5000:publication:noun:1	publication	публикация; издание	noun	B2		The publication is important.	Это важно: публикация; издание.	Publication связано с publish — публиковать.	media,education	publications
+core5000	core5000:pure:adjective:1	pure	чистый	adjective	B1		This is pure.	Это можно описать как: чистый.	Pure = чистый, без примесей.	nature,science	purer,purest
+core5000	core5000:qualification:noun:1	qualification	квалификация	noun	B2		The qualification is important.	Это важно: квалификация.	Qualification почти как “квалификация”.	work,education	qualifications
+core5000	core5000:rapid:adjective:1	rapid	быстрый; стремительный	adjective	B1		This is rapid.	Это можно описать как: быстрый; стремительный.	Rapid = быстрый/стремительный, часто про изменения.	time,work	
+core5000	core5000:rare:adjective:1	rare	редкий	adjective	A2		This is rare.	Это можно описать как: редкий.	Rare = редкий. Rarely = редко.	nature,daily life	rarer,rarest
+core5000	core5000:ratio:noun:1	ratio	соотношение	noun	B2		The ratio is important.	Это важно: соотношение.	Ratio = соотношение чисел.	education,science	ratios
+core5000	core5000:reaction:noun:1	reaction	реакция	noun	A2		The reaction is important.	Это важно: реакция.	Reaction почти как “реакция”. Связано с react — реагировать.	emotions,science	reactions
+core5000	core5000:reader:noun:1	reader	читатель	noun	A2		The reader is important.	Это важно: читатель.	Reader = read + -er: тот, кто читает.	education,IT	readers
+core5000	core5000:realistic:adjective:1	realistic	реалистичный	adjective	B2		This is realistic.	Это можно описать как: реалистичный.	Realistic связано с real — реальный.	work,education	
+core5000	core5000:reasonable:adjective:1	reasonable	разумный; приемлемый	adjective	B1		This is reasonable.	Это можно описать как: разумный; приемлемый.	Reasonable связано с reason — причина/разум.	money,communication	
+core5000	core5000:recognition:noun:1	recognition	признание; распознавание	noun	B2		The recognition is important.	Это важно: признание; распознавание.	Recognition связано с recognize — узнавать/распознавать.	IT,people	
+core5000	core5000:recovery:noun:1	recovery	восстановление	noun	B2		The recovery is important.	Это важно: восстановление.	Recovery связано с recover — восстанавливаться.	health,IT	recoveries
+core5000	core5000:recruit:verb:1	recruit	набирать; вербовать	verb	B2		We need to recruit it.	Нужно выполнить действие: набирать; вербовать.	Recruit = набирать людей в команду/организацию.	work,business	recruits,recruited,recruiting
+core5000	core5000:reduction:noun:1	reduction	снижение; уменьшение	noun	B2		The reduction is important.	Это важно: снижение; уменьшение.	Reduction связано с reduce — уменьшать.	money,work	reductions
+core5000	core5000:regional:adjective:1	regional	региональный	adjective	B1		This is regional.	Это можно описать как: региональный.	Regional связано с region — регион.	society,work	
+core5000	core5000:registration:noun:1	registration	регистрация	noun	A2		The registration is important.	Это важно: регистрация.	Registration связано с register — регистрироваться.	IT,work	registrations
+core5000	core5000:reject:verb:1	reject	отклонять; отвергать	verb	B2		We need to reject it.	Нужно выполнить действие: отклонять; отвергать.	Reject = отклонить/отвергнуть. Пара: accept — reject.	communication,work	rejects,rejected,rejecting
+core5000	core5000:reliable:adjective:1	reliable	надёжный	adjective	B1		This is reliable.	Это можно описать как: надёжный.	Reliable связано с rely on — полагаться на.	communication,IT	
+core5000	core5000:relief:noun:1	relief	облегчение	noun	B2		The relief is important.	Это важно: облегчение.	Relief связано с relieve — облегчать.	emotions,health	
+core5000	core5000:remarkable:adjective:1	remarkable	замечательный; выдающийся	adjective	B2		This is remarkable.	Это можно описать как: замечательный; выдающийся.	Remarkable = worthy of remark: настолько заметный, что о нём хочется сказать.	communication,work	
+core5000	core5000:reminder:noun:1	reminder	напоминание	noun	B1		The reminder is important.	Это важно: напоминание.	Reminder = remind + -er: то, что напоминает.	time,IT	reminders
+core5000	core5000:represent:verb:1	represent	представлять	verb	B1		We need to represent it.	Нужно выполнить действие: представлять.	Represent связано с representation — представление.	communication,education	represents,represented,representing
+core5000	core5000:requirement:noun:1	requirement	требование	noun	B1		The requirement is important.	Это важно: требование.	Requirement связано с require — требовать.	work,IT	requirements
+core5000	core5000:rescue:verb:1	rescue	спасать	verb	B1		We need to rescue it.	Нужно выполнить действие: спасать.	Rescue = спасать из опасной ситуации.	health,society	rescues,rescued,rescuing
+core5000	core5000:resistance:noun:1	resistance	сопротивление	noun	B2		The resistance is important.	Это важно: сопротивление.	Resistance связано с resist — сопротивляться.	society,science	
+core5000	core5000:resolution:noun:1	resolution	решение; разрешение	noun	B2		The resolution is important.	Это важно: решение; разрешение.	Resolution может значить решение проблемы или разрешение изображения.	IT,communication	resolutions
+core5000	core5000:respectively:adverb:1	respectively	соответственно	adverb	B2		It changed respectively.	Это изменилось так: соответственно.	Respectively = соответственно, в указанном порядке.	education,work	
+core5000	core5000:restriction:noun:1	restriction	ограничение	noun	B2		The restriction is important.	Это важно: ограничение.	Restriction связано с restrict — ограничивать.	society,IT	restrictions
+core5000	core5000:retain:verb:1	retain	сохранять; удерживать	verb	B2		We need to retain it.	Нужно выполнить действие: сохранять; удерживать.	Retain = сохранить/удержать, часто более формально, чем keep.	work,IT	retains,retained,retaining
+core5000	core5000:reveal:verb:1	reveal	раскрывать; показывать	verb	B2		We need to reveal it.	Нужно выполнить действие: раскрывать; показывать.	Reveal = открыть скрытое, раскрыть.	communication,work	reveals,revealed,revealing
+core5000	core5000:revenue:noun:1	revenue	выручка; доход	noun	B2		The revenue is important.	Это важно: выручка; доход.	Revenue = выручка/доход компании. Не то же самое, что personal income.	money,business	revenues
+core5000	core5000:reverse:verb:1	reverse	обратить; развернуть	verb	B2		We need to reverse it.	Нужно выполнить действие: обратить; развернуть.	Reverse = сделать наоборот/обратить порядок.	IT,education	reverses,reversed,reversing
+core5000	core5000:revision:noun:1	revision	повторение; правка	noun	B2		The revision is important.	Это важно: повторение; правка.	Revision связано с revise — пересматривать/повторять.	education,work	revisions
+core5000	core5000:reward:noun:1	reward	награда; вознаграждение	noun	B1		The reward is important.	Это важно: награда; вознаграждение.	Reward = награда/вознаграждение.	work,emotions	rewards
+core5000	core5000:rhythm:noun:1	rhythm	ритм	noun	B2		The rhythm is important.	Это важно: ритм.	Rhythm почти как “ритм”, но пишется необычно: rhythm.	music,art	rhythms
+core5000	core5000:rival:noun:1	rival	соперник; конкурент	noun	B2		The rival is important.	Это важно: соперник; конкурент.	Rival = соперник/конкурент.	sport,business	rivals
