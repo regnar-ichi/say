@@ -11,7 +11,7 @@ $isActive = static function (array $paths) use ($path): string {
 <header>
     <aside class="app-sidebar">
         <div class="brand">
-            <div class="brand-title test test2">foxSay test1</div><!-- test -->
+            <div class="brand-title test test2">foxSay test3</div><!-- test -->
             <div class="brand-subtitle">your language den</div>
         </div>
 
