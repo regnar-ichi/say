@@ -19,8 +19,7 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           protocol: ftp
           port: 21
-          local-dir: app/Views/partials/
-          server-dir: foxfamily.fun/say/app/Views/partials/
+          server-dir: foxfamily.fun/say/
           exclude: |
             **/.git*
             **/.git*/**
@@ -33,4 +32,7 @@ jobs:
             **/storage/backups/**
             **/storage/logs/**
             **/*.log
-            **/.ftp-deploy-sync-state.json
+            **/database/import/sources/**
+            **/database/import/batches/**
+            **/database/import/*.pdf
+            **/database/import/*.rar
